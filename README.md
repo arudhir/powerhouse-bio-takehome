@@ -66,10 +66,12 @@ We consistently see the mitochondrial targets `TSFM`, `MRPS27`, `MRPS16`, and `M
 4. SCP2
 5. MED1
 
-# Summary
+# Limitations
 
-    * Organelle-specific genes obtained from HPA for peroxisome (Pex) and mitochondria (Mt)
-    * Significantly differentially expressed genes (DEGs) were filtered for these genes
-    * STRING PPI network used to construct protein-paths between Pex and Mt DEGs
-    * Paths were scored and ranked by number of DEGs in path
-
+1. I would have preferred to get the full 10X data processed rather than rely on their results, if only to have a richer gene set
+2. Different cell types and tissues were not properly handled, instead a lot of data was filtered out to enforce concordance
+3. A direction I did want to take was to specifically look at cell types that would most likely have a lot of peroxidases by nature of their function, although we may have inadvertently done that
+4. Instead of STRING PPIs being filtered by "combined_score", a more conservative approach of filtering based off of known physical interaction may have been better
+5. Another source of a network that may have been informative would be signaling networks, many paths contain known kinases
+6. I realized I wanted to use the AnnData with the networkx graph too late, some of the operations to combine the two for Cytoscape-viewing was a little haphazard
+7. I only used the Human Protein Atlas to select organelle-specific genes rather than databases like the Peroxisome Database or MitoDB
