@@ -11,9 +11,11 @@ The relevant notebook is in `notebooks/scRNAseq.ipynb`.
 
 Analysis is done using the author provided dataset. We did go down the path of loading the 10X data directly from GEO but upon finding the author-provided AnnData object we opted for that for several reasons:
 
-    1. We were able to recreate the paper's UMAP immediately ![umap](images/umap.png)
-    2. Automated cell typing was performed on the GEO data using [CellTypist](https://www.celltypist.org/) using their `Immune_All_Low.pkl` model, but the cell types don't immediately match the paper and I wasn't comfortable mapping immune cell type names
-    3. We can immediately use the supplemental data without fussing about mirroring the data processing procedure
+- We were able to recreate the paper's UMAP immediately ![umap](images/umap.png)
+
+- Automated cell typing was performed on the GEO data using [CellTypist](https://www.celltypist.org/) using their `Immune_All_Low.pkl` model, but the cell types don't immediately match the paper and I wasn't comfortable mapping immune cell type names
+
+- We can immediately use the supplemental data without fussing about mirroring the data processing procedure
 
 **n.b.** There are a considerable amount of genes filtered out in their data, most notable being `PPRC1`, which is a gene at the intersection of peroxisomal and mitochondrial biology.
 
