@@ -1,0 +1,7212 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="experimental_score" attr.type="long"/>
+<key id="d0" for="edge" attr.name="combined_score" attr.type="long"/>
+<graph edgedefault="undirected"><node id="BCL2L1"/>
+<node id="PEX14"/>
+<node id="BRCA1"/>
+<node id="ACTB"/>
+<node id="GUCY2D"/>
+<node id="EHHADH"/>
+<node id="TCF3"/>
+<node id="AGXT2"/>
+<node id="GCDH"/>
+<node id="USP30"/>
+<node id="ACAD9"/>
+<node id="CFTR"/>
+<node id="ACACB"/>
+<node id="ACADVL"/>
+<node id="INS"/>
+<node id="BPIFA2"/>
+<node id="SLC2A4"/>
+<node id="HSP90AA1"/>
+<node id="CRAT"/>
+<node id="FGFR1"/>
+<node id="CLN3"/>
+<node id="PDCD11"/>
+<node id="STUB1"/>
+<node id="ETV6"/>
+<node id="GORASP1"/>
+<node id="RACGAP1"/>
+<node id="TNF"/>
+<node id="CCND1"/>
+<node id="NFKB1"/>
+<node id="PPARGC1A"/>
+<node id="ATP5F1B"/>
+<node id="LACC1"/>
+<node id="LONP2"/>
+<node id="CLPP"/>
+<node id="HDDC3"/>
+<node id="PRKAG3"/>
+<node id="ACOX1"/>
+<node id="NCBP1"/>
+<node id="CCT5"/>
+<node id="UBE2D2"/>
+<node id="UBQLN2"/>
+<node id="PRMT5"/>
+<node id="MED1"/>
+<node id="NBR1"/>
+<node id="NRAS"/>
+<node id="IDH1"/>
+<node id="GADD45A"/>
+<node id="PFN1"/>
+<node id="DNM1"/>
+<node id="ANKZF1"/>
+<node id="HCFC1"/>
+<node id="TYMS"/>
+<node id="VIM"/>
+<node id="CAV1"/>
+<node id="FLT3"/>
+<node id="KDR"/>
+<node id="PRPH2"/>
+<node id="FIS1"/>
+<node id="BCKDHA"/>
+<node id="DECR1"/>
+<node id="YY1"/>
+<node id="MCM5"/>
+<node id="PEX10"/>
+<node id="ACTA1"/>
+<node id="H4C6"/>
+<node id="RAP1GDS1"/>
+<node id="FKBP4"/>
+<node id="GLMN"/>
+<node id="MT-ND4"/>
+<node id="DGKQ"/>
+<node id="KRAS"/>
+<node id="PPARG"/>
+<node id="KAT2B"/>
+<node id="NCAPH"/>
+<node id="IVD"/>
+<node id="CCNE2"/>
+<node id="DHRS7B"/>
+<node id="ECH1"/>
+<node id="DLAT"/>
+<node id="FASN"/>
+<node id="HSD17B4"/>
+<node id="ACAT2"/>
+<node id="CPT1A"/>
+<node id="FDX1"/>
+<node id="STAG2"/>
+<node id="STIP1"/>
+<node id="SCP2"/>
+<node id="EIF2AK2"/>
+<node id="SYNJ2BP"/>
+<node id="CETP"/>
+<node id="ACAD11"/>
+<node id="NDUFAB1"/>
+<node id="ACSL6"/>
+<node id="UBE2N"/>
+<node id="XBP1"/>
+<node id="AGXT"/>
+<node id="ASXL1"/>
+<node id="RB1CC1"/>
+<node id="DNAJA1"/>
+<node id="PDHB"/>
+<node id="BCAP31"/>
+<node id="CUL3"/>
+<node id="UBA52"/>
+<node id="SUPV3L1"/>
+<node id="RETN"/>
+<node id="CCT7"/>
+<node id="PTTG1"/>
+<node id="STAT3"/>
+<node id="HSD17B10"/>
+<node id="MTOR"/>
+<node id="MGLL"/>
+<node id="HSPA4"/>
+<node id="IDI1"/>
+<node id="DBT"/>
+<node id="BCKDHB"/>
+<node id="YWHAZ"/>
+<node id="PPP1R15A"/>
+<node id="GAN"/>
+<node id="HSPA5"/>
+<node id="CAP1"/>
+<node id="RNF8"/>
+<node id="NDUFS1"/>
+<node id="ESCO1"/>
+<node id="LSG1"/>
+<node id="HMGCL"/>
+<node id="ACLY"/>
+<node id="EZH2"/>
+<node id="CUL7"/>
+<node id="MYC"/>
+<node id="TLR4"/>
+<node id="RHOA"/>
+<node id="EP300"/>
+<node id="NIP7"/>
+<node id="ACADM"/>
+<node id="BCKDK"/>
+<node id="ESR1"/>
+<node id="RAD21"/>
+<node id="MED17"/>
+<node id="SUZ12"/>
+<node id="HRAS"/>
+<node id="AANAT"/>
+<node id="DNMT3A"/>
+<node id="MLX"/>
+<node id="BPIFA1"/>
+<node id="RAB2A"/>
+<node id="PPT2"/>
+<node id="DDX10"/>
+<node id="HSP90AB1"/>
+<node id="HSD17B7"/>
+<node id="RPLP0"/>
+<node id="ESRRA"/>
+<node id="PEX19"/>
+<node id="NDUFAF6"/>
+<node id="KEAP1"/>
+<node id="PLK1"/>
+<node id="PEX5"/>
+<node id="MVK"/>
+<node id="UCHL5"/>
+<node id="TBP"/>
+<node id="PHYH"/>
+<node id="MTFR1"/>
+<node id="SBDS"/>
+<node id="HACL1"/>
+<node id="RPL27"/>
+<node id="GNPAT"/>
+<node id="ATP5F1C"/>
+<node id="RIPK2"/>
+<node id="HELZ2"/>
+<node id="TNFRSF1A"/>
+<node id="SDHA"/>
+<node id="MCCC2"/>
+<node id="ABCD1"/>
+<node id="MAPK14"/>
+<node id="PEX11B"/>
+<node id="TYSND1"/>
+<node id="PML"/>
+<node id="TOMM70"/>
+<node id="PEX26"/>
+<node id="TACC1"/>
+<node id="SUPT4H1"/>
+<node id="MED8"/>
+<node id="SNAI2"/>
+<node id="CS"/>
+<node id="ATAD1"/>
+<node id="NDUFA13"/>
+<node id="HSPA9"/>
+<node id="H3-3B"/>
+<node id="PPARGC1B"/>
+<node id="WDR77"/>
+<node id="SNRPF"/>
+<node id="CDY1"/>
+<node id="RHOC"/>
+<node id="CHUK"/>
+<node id="HSPE1"/>
+<node id="MRTFA"/>
+<node id="ACSL3"/>
+<node id="RBX1"/>
+<node id="DLD"/>
+<node id="PALB2"/>
+<node id="AGPS"/>
+<node id="LPL"/>
+<node id="AURKA"/>
+<node id="PARK7"/>
+<node id="TGS1"/>
+<node id="TSC2"/>
+<node id="ASXL2"/>
+<node id="USF1"/>
+<node id="CYP1A1"/>
+<node id="KLHL20"/>
+<node id="AKT1"/>
+<node id="AASDH"/>
+<node id="SRC"/>
+<node id="CCNB1"/>
+<node id="PEX16"/>
+<node id="IDH2"/>
+<node id="AGO2"/>
+<node id="RHOT1"/>
+<node id="FAR1"/>
+<node id="RASA1"/>
+<node id="ATP5PO"/>
+<node id="CD4"/>
+<node id="PEX2"/>
+<node id="RPS27A"/>
+<node id="GRXCR1"/>
+<node id="HSPBP1"/>
+<node id="GEMIN5"/>
+<node id="PPM1K"/>
+<node id="LRPPRC"/>
+<node id="EXOSC10"/>
+<node id="SNRPD2"/>
+<node id="SARDH"/>
+<node id="G3BP1"/>
+<node id="CREBBP"/>
+<node id="PHLPP1"/>
+<node id="KLHL42"/>
+<node id="ACAA1"/>
+<node id="TCP1"/>
+<node id="IDO1"/>
+<node id="PSMC2"/>
+<node id="GAPDH"/>
+<node id="EIF6"/>
+<node id="PINK1"/>
+<node id="YEATS4"/>
+<node id="RALA"/>
+<node id="ECI2"/>
+<node id="LDHA"/>
+<node id="PEX3"/>
+<node id="SREBF1"/>
+<node id="RPS14"/>
+<node id="KLHL25"/>
+<node id="ACAA2"/>
+<node id="TP53"/>
+<node id="PPT1"/>
+<node id="ERVW-1"/>
+<node id="INO80D"/>
+<node id="UBC"/>
+<node id="CCT4"/>
+<node id="CYCS"/>
+<node id="SPRED2"/>
+<node id="CDH1"/>
+<edge source="BCL2L1" target="CD4">
+  <data key="d0">746</data>
+  <data key="d1">125</data>
+</edge>
+<edge source="BCL2L1" target="FIS1">
+  <data key="d0">753</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="BCL2L1" target="CCND1">
+  <data key="d0">808</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="BCL2L1" target="MAPK14">
+  <data key="d0">762</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="BCL2L1" target="KRAS">
+  <data key="d0">982</data>
+  <data key="d1">165</data>
+</edge>
+<edge source="BCL2L1" target="STAT3">
+  <data key="d0">949</data>
+  <data key="d1">95</data>
+</edge>
+<edge source="BCL2L1" target="TP53">
+  <data key="d0">999</data>
+  <data key="d1">987</data>
+</edge>
+<edge source="BCL2L1" target="HSPA4">
+  <data key="d0">730</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="BCL2L1" target="CYCS">
+  <data key="d0">998</data>
+  <data key="d1">678</data>
+</edge>
+<edge source="BCL2L1" target="HSP90AA1">
+  <data key="d0">727</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="BCL2L1" target="PARK7">
+  <data key="d0">970</data>
+  <data key="d1">296</data>
+</edge>
+<edge source="BCL2L1" target="MTOR">
+  <data key="d0">813</data>
+  <data key="d1">510</data>
+</edge>
+<edge source="BCL2L1" target="PINK1">
+  <data key="d0">986</data>
+  <data key="d1">567</data>
+</edge>
+<edge source="BCL2L1" target="BCAP31">
+  <data key="d0">853</data>
+  <data key="d1">510</data>
+</edge>
+<edge source="BCL2L1" target="TNF">
+  <data key="d0">878</data>
+  <data key="d1">93</data>
+</edge>
+<edge source="BCL2L1" target="ACTB">
+  <data key="d0">784</data>
+  <data key="d1">82</data>
+</edge>
+<edge source="BCL2L1" target="GAPDH">
+  <data key="d0">752</data>
+  <data key="d1">161</data>
+</edge>
+<edge source="BCL2L1" target="MYC">
+  <data key="d0">863</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="BCL2L1" target="AKT1">
+  <data key="d0">991</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="PEX14" target="ABCD1">
+  <data key="d0">750</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="PEX14" target="FIS1">
+  <data key="d0">703</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX14" target="PEX16">
+  <data key="d0">971</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="PEX14" target="PHYH">
+  <data key="d0">751</data>
+  <data key="d1">168</data>
+</edge>
+<edge source="PEX14" target="AGPS">
+  <data key="d0">937</data>
+  <data key="d1">329</data>
+</edge>
+<edge source="PEX14" target="TYSND1">
+  <data key="d0">789</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX14" target="PEX10">
+  <data key="d0">985</data>
+  <data key="d1">494</data>
+</edge>
+<edge source="PEX14" target="ACOX1">
+  <data key="d0">819</data>
+  <data key="d1">228</data>
+</edge>
+<edge source="PEX14" target="PEX26">
+  <data key="d0">963</data>
+  <data key="d1">541</data>
+</edge>
+<edge source="PEX14" target="ACAA1">
+  <data key="d0">748</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX14" target="ATAD1">
+  <data key="d0">736</data>
+  <data key="d1">354</data>
+</edge>
+<edge source="PEX14" target="PEX5">
+  <data key="d0">999</data>
+  <data key="d1">997</data>
+</edge>
+<edge source="PEX14" target="PEX19">
+  <data key="d0">999</data>
+  <data key="d1">992</data>
+</edge>
+<edge source="PEX14" target="HSD17B4">
+  <data key="d0">772</data>
+  <data key="d1">423</data>
+</edge>
+<edge source="PEX14" target="GNPAT">
+  <data key="d0">795</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="PEX14" target="PEX3">
+  <data key="d0">984</data>
+  <data key="d1">364</data>
+</edge>
+<edge source="PEX14" target="SCP2">
+  <data key="d0">748</data>
+  <data key="d1">342</data>
+</edge>
+<edge source="PEX14" target="PEX11B">
+  <data key="d0">921</data>
+  <data key="d1">462</data>
+</edge>
+<edge source="PEX14" target="PEX2">
+  <data key="d0">990</data>
+  <data key="d1">645</data>
+</edge>
+<edge source="BRCA1" target="AURKA">
+  <data key="d0">942</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="BRCA1" target="NFKB1">
+  <data key="d0">726</data>
+  <data key="d1">65</data>
+</edge>
+<edge source="BRCA1" target="CCND1">
+  <data key="d0">922</data>
+  <data key="d1">510</data>
+</edge>
+<edge source="BRCA1" target="H4C6">
+  <data key="d0">867</data>
+  <data key="d1">547</data>
+</edge>
+<edge source="BRCA1" target="H3-3B">
+  <data key="d0">735</data>
+  <data key="d1">126</data>
+</edge>
+<edge source="BRCA1" target="KRAS">
+  <data key="d0">721</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="BRCA1" target="CCNB1">
+  <data key="d0">916</data>
+  <data key="d1">510</data>
+</edge>
+<edge source="BRCA1" target="PALB2">
+  <data key="d0">999</data>
+  <data key="d1">944</data>
+</edge>
+<edge source="BRCA1" target="CREBBP">
+  <data key="d0">968</data>
+  <data key="d1">833</data>
+</edge>
+<edge source="BRCA1" target="EP300">
+  <data key="d0">986</data>
+  <data key="d1">820</data>
+</edge>
+<edge source="BRCA1" target="CUL3">
+  <data key="d0">709</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="BRCA1" target="STAT3">
+  <data key="d0">812</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="BRCA1" target="PML">
+  <data key="d0">720</data>
+  <data key="d1">439</data>
+</edge>
+<edge source="BRCA1" target="TP53">
+  <data key="d0">999</data>
+  <data key="d1">895</data>
+</edge>
+<edge source="BRCA1" target="RPS27A">
+  <data key="d0">725</data>
+  <data key="d1">424</data>
+</edge>
+<edge source="BRCA1" target="RAD21">
+  <data key="d0">841</data>
+  <data key="d1">164</data>
+</edge>
+<edge source="BRCA1" target="PLK1">
+  <data key="d0">960</data>
+  <data key="d1">781</data>
+</edge>
+<edge source="BRCA1" target="UBE2N">
+  <data key="d0">955</data>
+  <data key="d1">729</data>
+</edge>
+<edge source="BRCA1" target="EZH2">
+  <data key="d0">926</data>
+  <data key="d1">517</data>
+</edge>
+<edge source="BRCA1" target="HSP90AA1">
+  <data key="d0">752</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="BRCA1" target="NBR1">
+  <data key="d0">742</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="BRCA1" target="GADD45A">
+  <data key="d0">710</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="BRCA1" target="RNF8">
+  <data key="d0">970</data>
+  <data key="d1">191</data>
+</edge>
+<edge source="BRCA1" target="KEAP1">
+  <data key="d0">757</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="BRCA1" target="ESR1">
+  <data key="d0">999</data>
+  <data key="d1">904</data>
+</edge>
+<edge source="BRCA1" target="MYC">
+  <data key="d0">999</data>
+  <data key="d1">825</data>
+</edge>
+<edge source="BRCA1" target="UBC">
+  <data key="d0">888</data>
+  <data key="d1">636</data>
+</edge>
+<edge source="BRCA1" target="AKT1">
+  <data key="d0">993</data>
+  <data key="d1">735</data>
+</edge>
+<edge source="BRCA1" target="CUL7">
+  <data key="d0">913</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACTB" target="CFTR">
+  <data key="d0">717</data>
+  <data key="d1">520</data>
+</edge>
+<edge source="ACTB" target="CD4">
+  <data key="d0">777</data>
+  <data key="d1">231</data>
+</edge>
+<edge source="ACTB" target="PFN1">
+  <data key="d0">999</data>
+  <data key="d1">973</data>
+</edge>
+<edge source="ACTB" target="NFKB1">
+  <data key="d0">766</data>
+  <data key="d1">208</data>
+</edge>
+<edge source="ACTB" target="CCND1">
+  <data key="d0">811</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACTB" target="TBP">
+  <data key="d0">905</data>
+  <data key="d1">90</data>
+</edge>
+<edge source="ACTB" target="H4C6">
+  <data key="d0">973</data>
+  <data key="d1">867</data>
+</edge>
+<edge source="ACTB" target="YEATS4">
+  <data key="d0">942</data>
+  <data key="d1">360</data>
+</edge>
+<edge source="ACTB" target="H3-3B">
+  <data key="d0">962</data>
+  <data key="d1">820</data>
+</edge>
+<edge source="ACTB" target="CCNB1">
+  <data key="d0">803</data>
+  <data key="d1">103</data>
+</edge>
+<edge source="ACTB" target="CCT7">
+  <data key="d0">722</data>
+  <data key="d1">264</data>
+</edge>
+<edge source="ACTB" target="CDH1">
+  <data key="d0">833</data>
+  <data key="d1">69</data>
+</edge>
+<edge source="ACTB" target="YY1">
+  <data key="d0">916</data>
+  <data key="d1">316</data>
+</edge>
+<edge source="ACTB" target="EP300">
+  <data key="d0">778</data>
+  <data key="d1">162</data>
+</edge>
+<edge source="ACTB" target="KAT2B">
+  <data key="d0">859</data>
+  <data key="d1">311</data>
+</edge>
+<edge source="ACTB" target="STAT3">
+  <data key="d0">798</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACTB" target="PPARGC1A">
+  <data key="d0">725</data>
+  <data key="d1">93</data>
+</edge>
+<edge source="ACTB" target="TP53">
+  <data key="d0">879</data>
+  <data key="d1">223</data>
+</edge>
+<edge source="ACTB" target="CCT5">
+  <data key="d0">865</data>
+  <data key="d1">639</data>
+</edge>
+<edge source="ACTB" target="RHOC">
+  <data key="d0">786</data>
+  <data key="d1">70</data>
+</edge>
+<edge source="ACTB" target="PPARG">
+  <data key="d0">971</data>
+  <data key="d1">47</data>
+</edge>
+<edge source="ACTB" target="HSPA9">
+  <data key="d0">828</data>
+  <data key="d1">185</data>
+</edge>
+<edge source="ACTB" target="HSPA4">
+  <data key="d0">720</data>
+  <data key="d1">69</data>
+</edge>
+<edge source="ACTB" target="CYCS">
+  <data key="d0">871</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACTB" target="HCFC1">
+  <data key="d0">777</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACTB" target="TCP1">
+  <data key="d0">891</data>
+  <data key="d1">509</data>
+</edge>
+<edge source="ACTB" target="EZH2">
+  <data key="d0">702</data>
+  <data key="d1">302</data>
+</edge>
+<edge source="ACTB" target="HSPA5">
+  <data key="d0">808</data>
+  <data key="d1">212</data>
+</edge>
+<edge source="ACTB" target="HSP90AA1">
+  <data key="d0">967</data>
+  <data key="d1">271</data>
+</edge>
+<edge source="ACTB" target="CAV1">
+  <data key="d0">870</data>
+  <data key="d1">469</data>
+</edge>
+<edge source="ACTB" target="MTOR">
+  <data key="d0">752</data>
+  <data key="d1">52</data>
+</edge>
+<edge source="ACTB" target="ACTA1">
+  <data key="d0">901</data>
+  <data key="d1">900</data>
+</edge>
+<edge source="ACTB" target="UCHL5">
+  <data key="d0">704</data>
+  <data key="d1">322</data>
+</edge>
+<edge source="ACTB" target="HSP90AB1">
+  <data key="d0">911</data>
+  <data key="d1">271</data>
+</edge>
+<edge source="ACTB" target="CAP1">
+  <data key="d0">860</data>
+  <data key="d1">764</data>
+</edge>
+<edge source="ACTB" target="SRC">
+  <data key="d0">774</data>
+  <data key="d1">215</data>
+</edge>
+<edge source="ACTB" target="TLR4">
+  <data key="d0">745</data>
+  <data key="d1">95</data>
+</edge>
+<edge source="ACTB" target="CCT4">
+  <data key="d0">702</data>
+  <data key="d1">259</data>
+</edge>
+<edge source="ACTB" target="YWHAZ">
+  <data key="d0">899</data>
+  <data key="d1">155</data>
+</edge>
+<edge source="ACTB" target="GAPDH">
+  <data key="d0">975</data>
+  <data key="d1">230</data>
+</edge>
+<edge source="ACTB" target="INS">
+  <data key="d0">801</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACTB" target="INO80D">
+  <data key="d0">814</data>
+  <data key="d1">71</data>
+</edge>
+<edge source="ACTB" target="TNF">
+  <data key="d0">847</data>
+  <data key="d1">182</data>
+</edge>
+<edge source="ACTB" target="RHOA">
+  <data key="d0">978</data>
+  <data key="d1">70</data>
+</edge>
+<edge source="ACTB" target="ESR1">
+  <data key="d0">947</data>
+  <data key="d1">572</data>
+</edge>
+<edge source="ACTB" target="UBC">
+  <data key="d0">825</data>
+  <data key="d1">127</data>
+</edge>
+<edge source="ACTB" target="VIM">
+  <data key="d0">723</data>
+  <data key="d1">244</data>
+</edge>
+<edge source="ACTB" target="RPLP0">
+  <data key="d0">889</data>
+  <data key="d1">249</data>
+</edge>
+<edge source="ACTB" target="AKT1">
+  <data key="d0">923</data>
+  <data key="d1">313</data>
+</edge>
+<edge source="ACTB" target="MYC">
+  <data key="d0">892</data>
+  <data key="d1">421</data>
+</edge>
+<edge source="ACTB" target="MRTFA">
+  <data key="d0">860</data>
+  <data key="d1">481</data>
+</edge>
+<edge source="GUCY2D" target="PRPH2">
+  <data key="d0">921</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="GUCY2D" target="GCDH">
+  <data key="d0">753</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="EHHADH" target="HSD17B10">
+  <data key="d0">965</data>
+  <data key="d1">65</data>
+</edge>
+<edge source="EHHADH" target="AGXT2">
+  <data key="d0">930</data>
+  <data key="d1">52</data>
+</edge>
+<edge source="EHHADH" target="ACAT2">
+  <data key="d0">980</data>
+  <data key="d1">296</data>
+</edge>
+<edge source="EHHADH" target="ACACB">
+  <data key="d0">762</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="EHHADH" target="PEX10">
+  <data key="d0">852</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="EHHADH" target="ACADVL">
+  <data key="d0">977</data>
+  <data key="d1">114</data>
+</edge>
+<edge source="EHHADH" target="ECI2">
+  <data key="d0">972</data>
+  <data key="d1">97</data>
+</edge>
+<edge source="EHHADH" target="IVD">
+  <data key="d0">960</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="EHHADH" target="ACAD9">
+  <data key="d0">748</data>
+  <data key="d1">114</data>
+</edge>
+<edge source="EHHADH" target="ACAA2">
+  <data key="d0">995</data>
+  <data key="d1">296</data>
+</edge>
+<edge source="EHHADH" target="PEX5">
+  <data key="d0">912</data>
+  <data key="d1">521</data>
+</edge>
+<edge source="EHHADH" target="ACAA1">
+  <data key="d0">998</data>
+  <data key="d1">296</data>
+</edge>
+<edge source="EHHADH" target="ACOX1">
+  <data key="d0">998</data>
+  <data key="d1">99</data>
+</edge>
+<edge source="EHHADH" target="SCP2">
+  <data key="d0">952</data>
+  <data key="d1">113</data>
+</edge>
+<edge source="EHHADH" target="DBT">
+  <data key="d0">837</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="EHHADH" target="ACADM">
+  <data key="d0">814</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="EHHADH" target="CS">
+  <data key="d0">712</data>
+  <data key="d1">57</data>
+</edge>
+<edge source="EHHADH" target="GCDH">
+  <data key="d0">967</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="EHHADH" target="MCCC2">
+  <data key="d0">948</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="EHHADH" target="HSD17B4">
+  <data key="d0">988</data>
+  <data key="d1">67</data>
+</edge>
+<edge source="TCF3" target="CREBBP">
+  <data key="d0">917</data>
+  <data key="d1">823</data>
+</edge>
+<edge source="TCF3" target="EP300">
+  <data key="d0">941</data>
+  <data key="d1">668</data>
+</edge>
+<edge source="TCF3" target="DBT">
+  <data key="d0">806</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="AGXT2" target="BCKDHB">
+  <data key="d0">847</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="AGXT2" target="AGXT">
+  <data key="d0">997</data>
+  <data key="d1">109</data>
+</edge>
+<edge source="AGXT2" target="BCKDHA">
+  <data key="d0">818</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="AGXT2" target="DBT">
+  <data key="d0">824</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="AGXT2" target="LDHA">
+  <data key="d0">842</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="AGXT2" target="ACOX1">
+  <data key="d0">824</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="AGXT2" target="SARDH">
+  <data key="d0">935</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="GCDH" target="DLD">
+  <data key="d0">956</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="GCDH" target="ACAA2">
+  <data key="d0">703</data>
+  <data key="d1">51</data>
+</edge>
+<edge source="GCDH" target="ACOX1">
+  <data key="d0">934</data>
+  <data key="d1">71</data>
+</edge>
+<edge source="GCDH" target="ACAA1">
+  <data key="d0">723</data>
+  <data key="d1">51</data>
+</edge>
+<edge source="GCDH" target="ECI2">
+  <data key="d0">889</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="GCDH" target="UBE2D2">
+  <data key="d0">861</data>
+  <data key="d1">63</data>
+</edge>
+<edge source="USP30" target="FIS1">
+  <data key="d0">918</data>
+  <data key="d1">92</data>
+</edge>
+<edge source="USP30" target="RPS27A">
+  <data key="d0">992</data>
+  <data key="d1">982</data>
+</edge>
+<edge source="USP30" target="PINK1">
+  <data key="d0">813</data>
+  <data key="d1">71</data>
+</edge>
+<edge source="USP30" target="RHOT1">
+  <data key="d0">786</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="USP30" target="UBC">
+  <data key="d0">992</data>
+  <data key="d1">983</data>
+</edge>
+<edge source="USP30" target="TOMM70">
+  <data key="d0">803</data>
+  <data key="d1">336</data>
+</edge>
+<edge source="USP30" target="UBA52">
+  <data key="d0">980</data>
+  <data key="d1">961</data>
+</edge>
+<edge source="USP30" target="PEX5">
+  <data key="d0">727</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACAD9" target="ACAA2">
+  <data key="d0">787</data>
+  <data key="d1">94</data>
+</edge>
+<edge source="ACAD9" target="NDUFAB1">
+  <data key="d0">770</data>
+  <data key="d1">95</data>
+</edge>
+<edge source="ACAD9" target="NDUFS1">
+  <data key="d0">774</data>
+  <data key="d1">88</data>
+</edge>
+<edge source="ACAD9" target="NDUFA13">
+  <data key="d0">997</data>
+  <data key="d1">994</data>
+</edge>
+<edge source="ACAD9" target="ECI2">
+  <data key="d0">924</data>
+  <data key="d1">142</data>
+</edge>
+<edge source="ACAD9" target="NDUFAF6">
+  <data key="d0">814</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACAD9" target="DBT">
+  <data key="d0">787</data>
+  <data key="d1">706</data>
+</edge>
+<edge source="ACAD9" target="ACAA1">
+  <data key="d0">746</data>
+  <data key="d1">51</data>
+</edge>
+<edge source="CFTR" target="PRKAG3">
+  <data key="d0">901</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CFTR" target="BCAP31">
+  <data key="d0">808</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="CFTR" target="HSP90AA1">
+  <data key="d0">986</data>
+  <data key="d1">654</data>
+</edge>
+<edge source="CFTR" target="HSPA4">
+  <data key="d0">925</data>
+  <data key="d1">746</data>
+</edge>
+<edge source="CFTR" target="HSP90AB1">
+  <data key="d0">964</data>
+  <data key="d1">130</data>
+</edge>
+<edge source="CFTR" target="DNAJA1">
+  <data key="d0">849</data>
+  <data key="d1">590</data>
+</edge>
+<edge source="CFTR" target="YWHAZ">
+  <data key="d0">917</data>
+  <data key="d1">908</data>
+</edge>
+<edge source="CFTR" target="STUB1">
+  <data key="d0">970</data>
+  <data key="d1">834</data>
+</edge>
+<edge source="ACACB" target="CPT1A">
+  <data key="d0">987</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACACB" target="DLAT">
+  <data key="d0">934</data>
+  <data key="d1">64</data>
+</edge>
+<edge source="ACACB" target="ACOX1">
+  <data key="d0">790</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACACB" target="FASN">
+  <data key="d0">993</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACACB" target="CS">
+  <data key="d0">901</data>
+  <data key="d1">58</data>
+</edge>
+<edge source="ACACB" target="MCCC2">
+  <data key="d0">766</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACACB" target="PRKAG3">
+  <data key="d0">925</data>
+  <data key="d1">63</data>
+</edge>
+<edge source="ACACB" target="ACLY">
+  <data key="d0">970</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACACB" target="SREBF1">
+  <data key="d0">939</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACACB" target="ACAT2">
+  <data key="d0">949</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACACB" target="ACSL3">
+  <data key="d0">710</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACADVL" target="XBP1">
+  <data key="d0">776</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACADVL" target="ECH1">
+  <data key="d0">729</data>
+  <data key="d1">99</data>
+</edge>
+<edge source="ACADVL" target="CPT1A">
+  <data key="d0">708</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACADVL" target="ACAA2">
+  <data key="d0">983</data>
+  <data key="d1">99</data>
+</edge>
+<edge source="ACADVL" target="ACOX1">
+  <data key="d0">971</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACADVL" target="FASN">
+  <data key="d0">791</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACADVL" target="ACAA1">
+  <data key="d0">979</data>
+  <data key="d1">51</data>
+</edge>
+<edge source="ACADVL" target="ACADM">
+  <data key="d0">713</data>
+  <data key="d1">99</data>
+</edge>
+<edge source="ACADVL" target="HMGCL">
+  <data key="d0">704</data>
+  <data key="d1">364</data>
+</edge>
+<edge source="ACADVL" target="ECI2">
+  <data key="d0">908</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="INS" target="CD4">
+  <data key="d0">829</data>
+  <data key="d1">128</data>
+</edge>
+<edge source="INS" target="RETN">
+  <data key="d0">886</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="INS" target="NFKB1">
+  <data key="d0">875</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="INS" target="MAPK14">
+  <data key="d0">757</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="INS" target="FLT3">
+  <data key="d0">763</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="INS" target="KDR">
+  <data key="d0">850</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="INS" target="STAT3">
+  <data key="d0">885</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="INS" target="PPARGC1A">
+  <data key="d0">930</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="INS" target="TP53">
+  <data key="d0">879</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="INS" target="PPARG">
+  <data key="d0">944</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="INS" target="FASN">
+  <data key="d0">714</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="INS" target="CYCS">
+  <data key="d0">952</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="INS" target="SLC2A4">
+  <data key="d0">977</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="INS" target="CAV1">
+  <data key="d0">810</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="INS" target="SREBF1">
+  <data key="d0">890</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="INS" target="MTOR">
+  <data key="d0">882</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="INS" target="SRC">
+  <data key="d0">886</data>
+  <data key="d1">124</data>
+</edge>
+<edge source="INS" target="TLR4">
+  <data key="d0">710</data>
+  <data key="d1">46</data>
+</edge>
+<edge source="INS" target="GAPDH">
+  <data key="d0">816</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="INS" target="FGFR1">
+  <data key="d0">965</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="INS" target="TNF">
+  <data key="d0">926</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="INS" target="ESR1">
+  <data key="d0">841</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="INS" target="HRAS">
+  <data key="d0">704</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="INS" target="MYC">
+  <data key="d0">714</data>
+  <data key="d1">60</data>
+</edge>
+<edge source="INS" target="AKT1">
+  <data key="d0">953</data>
+  <data key="d1">71</data>
+</edge>
+<edge source="INS" target="LPL">
+  <data key="d0">853</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="BPIFA2" target="PRPH2">
+  <data key="d0">822</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="BPIFA2" target="BPIFA1">
+  <data key="d0">730</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="BPIFA2" target="MTFR1">
+  <data key="d0">827</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SLC2A4" target="RALA">
+  <data key="d0">788</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SLC2A4" target="RAB2A">
+  <data key="d0">955</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SLC2A4" target="PPARGC1A">
+  <data key="d0">884</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SLC2A4" target="RASA1">
+  <data key="d0">724</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SLC2A4" target="PPARG">
+  <data key="d0">934</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SLC2A4" target="LPL">
+  <data key="d0">716</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SLC2A4" target="AKT1">
+  <data key="d0">890</data>
+  <data key="d1">72</data>
+</edge>
+<edge source="SLC2A4" target="SREBF1">
+  <data key="d0">729</data>
+  <data key="d1">69</data>
+</edge>
+<edge source="SLC2A4" target="GAPDH">
+  <data key="d0">819</data>
+  <data key="d1">125</data>
+</edge>
+<edge source="HSP90AA1" target="FKBP4">
+  <data key="d0">999</data>
+  <data key="d1">870</data>
+</edge>
+<edge source="HSP90AA1" target="TSC2">
+  <data key="d0">745</data>
+  <data key="d1">517</data>
+</edge>
+<edge source="HSP90AA1" target="STUB1">
+  <data key="d0">999</data>
+  <data key="d1">983</data>
+</edge>
+<edge source="HSP90AA1" target="AGO2">
+  <data key="d0">997</data>
+  <data key="d1">771</data>
+</edge>
+<edge source="HSP90AA1" target="RIPK2">
+  <data key="d0">938</data>
+  <data key="d1">270</data>
+</edge>
+<edge source="HSP90AA1" target="CCND1">
+  <data key="d0">819</data>
+  <data key="d1">186</data>
+</edge>
+<edge source="HSP90AA1" target="HSPE1">
+  <data key="d0">942</data>
+  <data key="d1">227</data>
+</edge>
+<edge source="HSP90AA1" target="H4C6">
+  <data key="d0">731</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HSP90AA1" target="H3-3B">
+  <data key="d0">750</data>
+  <data key="d1">75</data>
+</edge>
+<edge source="HSP90AA1" target="HSPBP1">
+  <data key="d0">870</data>
+  <data key="d1">49</data>
+</edge>
+<edge source="HSP90AA1" target="KRAS">
+  <data key="d0">818</data>
+  <data key="d1">207</data>
+</edge>
+<edge source="HSP90AA1" target="CCT7">
+  <data key="d0">849</data>
+  <data key="d1">127</data>
+</edge>
+<edge source="HSP90AA1" target="EP300">
+  <data key="d0">809</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="HSP90AA1" target="KDR">
+  <data key="d0">954</data>
+  <data key="d1">313</data>
+</edge>
+<edge source="HSP90AA1" target="STAT3">
+  <data key="d0">971</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="HSP90AA1" target="TP53">
+  <data key="d0">999</data>
+  <data key="d1">903</data>
+</edge>
+<edge source="HSP90AA1" target="RPS27A">
+  <data key="d0">707</data>
+  <data key="d1">114</data>
+</edge>
+<edge source="HSP90AA1" target="CCT5">
+  <data key="d0">868</data>
+  <data key="d1">127</data>
+</edge>
+<edge source="HSP90AA1" target="TOMM70">
+  <data key="d0">999</data>
+  <data key="d1">772</data>
+</edge>
+<edge source="HSP90AA1" target="HSPA9">
+  <data key="d0">958</data>
+  <data key="d1">588</data>
+</edge>
+<edge source="HSP90AA1" target="PLK1">
+  <data key="d0">957</data>
+  <data key="d1">141</data>
+</edge>
+<edge source="HSP90AA1" target="HSPA4">
+  <data key="d0">999</data>
+  <data key="d1">876</data>
+</edge>
+<edge source="HSP90AA1" target="CYCS">
+  <data key="d0">783</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HSP90AA1" target="UBE2N">
+  <data key="d0">773</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="HSP90AA1" target="TCP1">
+  <data key="d0">906</data>
+  <data key="d1">210</data>
+</edge>
+<edge source="HSP90AA1" target="EZH2">
+  <data key="d0">714</data>
+  <data key="d1">299</data>
+</edge>
+<edge source="HSP90AA1" target="HSPA5">
+  <data key="d0">968</data>
+  <data key="d1">463</data>
+</edge>
+<edge source="HSP90AA1" target="GAPDH">
+  <data key="d0">922</data>
+  <data key="d1">336</data>
+</edge>
+<edge source="HSP90AA1" target="HRAS">
+  <data key="d0">819</data>
+  <data key="d1">126</data>
+</edge>
+<edge source="HSP90AA1" target="YWHAZ">
+  <data key="d0">801</data>
+  <data key="d1">282</data>
+</edge>
+<edge source="HSP90AA1" target="MYC">
+  <data key="d0">975</data>
+  <data key="d1">606</data>
+</edge>
+<edge source="HSP90AA1" target="VIM">
+  <data key="d0">701</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="HSP90AA1" target="CAV1">
+  <data key="d0">988</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="HSP90AA1" target="CHUK">
+  <data key="d0">992</data>
+  <data key="d1">704</data>
+</edge>
+<edge source="HSP90AA1" target="FGFR1">
+  <data key="d0">740</data>
+  <data key="d1">439</data>
+</edge>
+<edge source="HSP90AA1" target="ESR1">
+  <data key="d0">999</data>
+  <data key="d1">890</data>
+</edge>
+<edge source="HSP90AA1" target="DNAJA1">
+  <data key="d0">989</data>
+  <data key="d1">296</data>
+</edge>
+<edge source="HSP90AA1" target="KEAP1">
+  <data key="d0">949</data>
+  <data key="d1">474</data>
+</edge>
+<edge source="HSP90AA1" target="HSP90AB1">
+  <data key="d0">997</data>
+  <data key="d1">896</data>
+</edge>
+<edge source="HSP90AA1" target="SRC">
+  <data key="d0">999</data>
+  <data key="d1">799</data>
+</edge>
+<edge source="HSP90AA1" target="RHOA">
+  <data key="d0">767</data>
+  <data key="d1">112</data>
+</edge>
+<edge source="HSP90AA1" target="NRAS">
+  <data key="d0">817</data>
+  <data key="d1">126</data>
+</edge>
+<edge source="HSP90AA1" target="CCT4">
+  <data key="d0">783</data>
+  <data key="d1">127</data>
+</edge>
+<edge source="HSP90AA1" target="MTOR">
+  <data key="d0">998</data>
+  <data key="d1">995</data>
+</edge>
+<edge source="HSP90AA1" target="AKT1">
+  <data key="d0">999</data>
+  <data key="d1">884</data>
+</edge>
+<edge source="HSP90AA1" target="STIP1">
+  <data key="d0">999</data>
+  <data key="d1">982</data>
+</edge>
+<edge source="HSP90AA1" target="UBC">
+  <data key="d0">735</data>
+  <data key="d1">114</data>
+</edge>
+<edge source="HSP90AA1" target="TLR4">
+  <data key="d0">987</data>
+  <data key="d1">63</data>
+</edge>
+<edge source="HSP90AA1" target="PARK7">
+  <data key="d0">743</data>
+  <data key="d1">80</data>
+</edge>
+<edge source="HSP90AA1" target="PINK1">
+  <data key="d0">957</data>
+  <data key="d1">791</data>
+</edge>
+<edge source="CRAT" target="ACOX1">
+  <data key="d0">842</data>
+  <data key="d1">208</data>
+</edge>
+<edge source="CRAT" target="PEX5">
+  <data key="d0">823</data>
+  <data key="d1">560</data>
+</edge>
+<edge source="CRAT" target="CS">
+  <data key="d0">759</data>
+  <data key="d1">190</data>
+</edge>
+<edge source="CRAT" target="HSD17B4">
+  <data key="d0">940</data>
+  <data key="d1">86</data>
+</edge>
+<edge source="CRAT" target="SCP2">
+  <data key="d0">816</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="FGFR1" target="KRAS">
+  <data key="d0">981</data>
+  <data key="d1">99</data>
+</edge>
+<edge source="FGFR1" target="CDH1">
+  <data key="d0">885</data>
+  <data key="d1">679</data>
+</edge>
+<edge source="FGFR1" target="CREBBP">
+  <data key="d0">923</data>
+  <data key="d1">780</data>
+</edge>
+<edge source="FGFR1" target="TACC1">
+  <data key="d0">873</data>
+  <data key="d1">85</data>
+</edge>
+<edge source="FGFR1" target="NRAS">
+  <data key="d0">966</data>
+  <data key="d1">99</data>
+</edge>
+<edge source="FGFR1" target="HRAS">
+  <data key="d0">962</data>
+  <data key="d1">99</data>
+</edge>
+<edge source="FGFR1" target="LDHA">
+  <data key="d0">815</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="CLN3" target="SBDS">
+  <data key="d0">756</data>
+  <data key="d1">273</data>
+</edge>
+<edge source="CLN3" target="PPT2">
+  <data key="d0">763</data>
+  <data key="d1">79</data>
+</edge>
+<edge source="CLN3" target="HMGCL">
+  <data key="d0">893</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CLN3" target="PPT1">
+  <data key="d0">985</data>
+  <data key="d1">88</data>
+</edge>
+<edge source="PDCD11" target="NIP7">
+  <data key="d0">818</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PDCD11" target="HSPBP1">
+  <data key="d0">873</data>
+  <data key="d1">513</data>
+</edge>
+<edge source="PDCD11" target="LSG1">
+  <data key="d0">854</data>
+  <data key="d1">99</data>
+</edge>
+<edge source="PDCD11" target="RPS27A">
+  <data key="d0">754</data>
+  <data key="d1">748</data>
+</edge>
+<edge source="PDCD11" target="MED1">
+  <data key="d0">976</data>
+  <data key="d1">787</data>
+</edge>
+<edge source="PDCD11" target="DDX10">
+  <data key="d0">973</data>
+  <data key="d1">139</data>
+</edge>
+<edge source="PDCD11" target="EXOSC10">
+  <data key="d0">939</data>
+  <data key="d1">744</data>
+</edge>
+<edge source="PDCD11" target="CCNE2">
+  <data key="d0">819</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PDCD11" target="CUL7">
+  <data key="d0">962</data>
+  <data key="d1">737</data>
+</edge>
+<edge source="PDCD11" target="RPLP0">
+  <data key="d0">984</data>
+  <data key="d1">851</data>
+</edge>
+<edge source="PDCD11" target="RPS14">
+  <data key="d0">995</data>
+  <data key="d1">814</data>
+</edge>
+<edge source="PDCD11" target="IDI1">
+  <data key="d0">782</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="STUB1" target="PARK7">
+  <data key="d0">820</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="STUB1" target="HSPBP1">
+  <data key="d0">962</data>
+  <data key="d1">601</data>
+</edge>
+<edge source="STUB1" target="UBC">
+  <data key="d0">850</data>
+  <data key="d1">637</data>
+</edge>
+<edge source="STUB1" target="STIP1">
+  <data key="d0">777</data>
+  <data key="d1">50</data>
+</edge>
+<edge source="STUB1" target="AKT1">
+  <data key="d0">861</data>
+  <data key="d1">525</data>
+</edge>
+<edge source="STUB1" target="CCT7">
+  <data key="d0">711</data>
+  <data key="d1">209</data>
+</edge>
+<edge source="STUB1" target="ESRRA">
+  <data key="d0">709</data>
+  <data key="d1">300</data>
+</edge>
+<edge source="STUB1" target="UBE2D2">
+  <data key="d0">986</data>
+  <data key="d1">954</data>
+</edge>
+<edge source="STUB1" target="TP53">
+  <data key="d0">968</data>
+  <data key="d1">916</data>
+</edge>
+<edge source="STUB1" target="HSP90AB1">
+  <data key="d0">999</data>
+  <data key="d1">819</data>
+</edge>
+<edge source="STUB1" target="HSPA4">
+  <data key="d0">999</data>
+  <data key="d1">996</data>
+</edge>
+<edge source="STUB1" target="DNAJA1">
+  <data key="d0">908</data>
+  <data key="d1">394</data>
+</edge>
+<edge source="STUB1" target="PRMT5">
+  <data key="d0">727</data>
+  <data key="d1">625</data>
+</edge>
+<edge source="STUB1" target="ESR1">
+  <data key="d0">936</data>
+  <data key="d1">789</data>
+</edge>
+<edge source="STUB1" target="CCT5">
+  <data key="d0">747</data>
+  <data key="d1">422</data>
+</edge>
+<edge source="STUB1" target="UBE2N">
+  <data key="d0">999</data>
+  <data key="d1">990</data>
+</edge>
+<edge source="STUB1" target="MYC">
+  <data key="d0">854</data>
+  <data key="d1">674</data>
+</edge>
+<edge source="ETV6" target="FLT3">
+  <data key="d0">798</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ETV6" target="KRAS">
+  <data key="d0">803</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="ETV6" target="NRAS">
+  <data key="d0">838</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="ETV6" target="ASXL1">
+  <data key="d0">833</data>
+  <data key="d1">47</data>
+</edge>
+<edge source="ETV6" target="IDH1">
+  <data key="d0">709</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ETV6" target="HRAS">
+  <data key="d0">714</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="ETV6" target="ACSL6">
+  <data key="d0">706</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="GORASP1" target="RAB2A">
+  <data key="d0">711</data>
+  <data key="d1">51</data>
+</edge>
+<edge source="GORASP1" target="AGPS">
+  <data key="d0">730</data>
+  <data key="d1">730</data>
+</edge>
+<edge source="GORASP1" target="PLK1">
+  <data key="d0">942</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="RACGAP1" target="AURKA">
+  <data key="d0">883</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="RACGAP1" target="CCNB1">
+  <data key="d0">952</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="RACGAP1" target="RASA1">
+  <data key="d0">778</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="RACGAP1" target="PLK1">
+  <data key="d0">961</data>
+  <data key="d1">645</data>
+</edge>
+<edge source="RACGAP1" target="PTTG1">
+  <data key="d0">822</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="RACGAP1" target="RHOA">
+  <data key="d0">979</data>
+  <data key="d1">806</data>
+</edge>
+<edge source="TNF" target="CD4">
+  <data key="d0">968</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TNF" target="TNFRSF1A">
+  <data key="d0">999</data>
+  <data key="d1">999</data>
+</edge>
+<edge source="TNF" target="AGO2">
+  <data key="d0">709</data>
+  <data key="d1">543</data>
+</edge>
+<edge source="TNF" target="RIPK2">
+  <data key="d0">703</data>
+  <data key="d1">75</data>
+</edge>
+<edge source="TNF" target="RETN">
+  <data key="d0">857</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TNF" target="NFKB1">
+  <data key="d0">999</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TNF" target="MAPK14">
+  <data key="d0">839</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TNF" target="EIF2AK2">
+  <data key="d0">796</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TNF" target="H3-3B">
+  <data key="d0">710</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TNF" target="KRAS">
+  <data key="d0">717</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TNF" target="STAT3">
+  <data key="d0">939</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TNF" target="TP53">
+  <data key="d0">865</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TNF" target="PPARG">
+  <data key="d0">807</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TNF" target="HSPA4">
+  <data key="d0">790</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TNF" target="CYCS">
+  <data key="d0">810</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TNF" target="UBE2N">
+  <data key="d0">765</data>
+  <data key="d1">464</data>
+</edge>
+<edge source="TNF" target="CHUK">
+  <data key="d0">999</data>
+  <data key="d1">994</data>
+</edge>
+<edge source="TNF" target="SRC">
+  <data key="d0">904</data>
+  <data key="d1">57</data>
+</edge>
+<edge source="TNF" target="TLR4">
+  <data key="d0">969</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TNF" target="GAPDH">
+  <data key="d0">849</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TNF" target="IDO1">
+  <data key="d0">758</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TNF" target="MYC">
+  <data key="d0">702</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TNF" target="RHOA">
+  <data key="d0">779</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TNF" target="AKT1">
+  <data key="d0">907</data>
+  <data key="d1">57</data>
+</edge>
+<edge source="TNF" target="UBC">
+  <data key="d0">998</data>
+  <data key="d1">994</data>
+</edge>
+<edge source="CCND1" target="CD4">
+  <data key="d0">781</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CCND1" target="TSC2">
+  <data key="d0">779</data>
+  <data key="d1">536</data>
+</edge>
+<edge source="CCND1" target="AGO2">
+  <data key="d0">728</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CCND1" target="NRAS">
+  <data key="d0">791</data>
+  <data key="d1">71</data>
+</edge>
+<edge source="CCND1" target="MTOR">
+  <data key="d0">802</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CCND1" target="AKT1">
+  <data key="d0">923</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CCND1" target="WDR77">
+  <data key="d0">841</data>
+  <data key="d1">302</data>
+</edge>
+<edge source="CCND1" target="KRAS">
+  <data key="d0">835</data>
+  <data key="d1">101</data>
+</edge>
+<edge source="CCND1" target="DNMT3A">
+  <data key="d0">708</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CCND1" target="CREBBP">
+  <data key="d0">986</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="CCND1" target="MYC">
+  <data key="d0">969</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CCND1" target="H4C6">
+  <data key="d0">758</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="CCND1" target="GAPDH">
+  <data key="d0">819</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CCND1" target="HRAS">
+  <data key="d0">747</data>
+  <data key="d1">71</data>
+</edge>
+<edge source="CCND1" target="PRMT5">
+  <data key="d0">903</data>
+  <data key="d1">517</data>
+</edge>
+<edge source="CCND1" target="CCNB1">
+  <data key="d0">797</data>
+  <data key="d1">48</data>
+</edge>
+<edge source="CCND1" target="ESR1">
+  <data key="d0">997</data>
+  <data key="d1">625</data>
+</edge>
+<edge source="CCND1" target="KAT2B">
+  <data key="d0">959</data>
+  <data key="d1">510</data>
+</edge>
+<edge source="CCND1" target="TP53">
+  <data key="d0">946</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="CCND1" target="HSP90AB1">
+  <data key="d0">711</data>
+  <data key="d1">67</data>
+</edge>
+<edge source="CCND1" target="EP300">
+  <data key="d0">974</data>
+  <data key="d1">735</data>
+</edge>
+<edge source="CCND1" target="STAT3">
+  <data key="d0">980</data>
+  <data key="d1">645</data>
+</edge>
+<edge source="CCND1" target="SRC">
+  <data key="d0">875</data>
+  <data key="d1">287</data>
+</edge>
+<edge source="CCND1" target="CDH1">
+  <data key="d0">851</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="CCND1" target="PLK1">
+  <data key="d0">727</data>
+  <data key="d1">71</data>
+</edge>
+<edge source="CCND1" target="H3-3B">
+  <data key="d0">827</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="NFKB1" target="CD4">
+  <data key="d0">858</data>
+  <data key="d1">93</data>
+</edge>
+<edge source="NFKB1" target="TNFRSF1A">
+  <data key="d0">848</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="NFKB1" target="AURKA">
+  <data key="d0">794</data>
+  <data key="d1">549</data>
+</edge>
+<edge source="NFKB1" target="RIPK2">
+  <data key="d0">767</data>
+  <data key="d1">95</data>
+</edge>
+<edge source="NFKB1" target="CHUK">
+  <data key="d0">999</data>
+  <data key="d1">854</data>
+</edge>
+<edge source="NFKB1" target="MAPK14">
+  <data key="d0">864</data>
+  <data key="d1">72</data>
+</edge>
+<edge source="NFKB1" target="KEAP1">
+  <data key="d0">733</data>
+  <data key="d1">45</data>
+</edge>
+<edge source="NFKB1" target="STAT3">
+  <data key="d0">962</data>
+  <data key="d1">599</data>
+</edge>
+<edge source="NFKB1" target="TP53">
+  <data key="d0">989</data>
+  <data key="d1">45</data>
+</edge>
+<edge source="NFKB1" target="EP300">
+  <data key="d0">998</data>
+  <data key="d1">833</data>
+</edge>
+<edge source="NFKB1" target="HSP90AB1">
+  <data key="d0">845</data>
+  <data key="d1">638</data>
+</edge>
+<edge source="NFKB1" target="SRC">
+  <data key="d0">756</data>
+  <data key="d1">95</data>
+</edge>
+<edge source="NFKB1" target="HSPA4">
+  <data key="d0">857</data>
+  <data key="d1">336</data>
+</edge>
+<edge source="NFKB1" target="UBE2D2">
+  <data key="d0">700</data>
+  <data key="d1">321</data>
+</edge>
+<edge source="NFKB1" target="AKT1">
+  <data key="d0">896</data>
+  <data key="d1">95</data>
+</edge>
+<edge source="NFKB1" target="RHOA">
+  <data key="d0">735</data>
+  <data key="d1">102</data>
+</edge>
+<edge source="NFKB1" target="NRAS">
+  <data key="d0">713</data>
+  <data key="d1">102</data>
+</edge>
+<edge source="NFKB1" target="HSPA5">
+  <data key="d0">704</data>
+  <data key="d1">215</data>
+</edge>
+<edge source="NFKB1" target="PPARGC1A">
+  <data key="d0">770</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="NFKB1" target="PPARG">
+  <data key="d0">972</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="NFKB1" target="ESR1">
+  <data key="d0">957</data>
+  <data key="d1">510</data>
+</edge>
+<edge source="NFKB1" target="GAPDH">
+  <data key="d0">783</data>
+  <data key="d1">201</data>
+</edge>
+<edge source="NFKB1" target="HRAS">
+  <data key="d0">725</data>
+  <data key="d1">102</data>
+</edge>
+<edge source="NFKB1" target="UBE2N">
+  <data key="d0">812</data>
+  <data key="d1">80</data>
+</edge>
+<edge source="NFKB1" target="MYC">
+  <data key="d0">917</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="NFKB1" target="VIM">
+  <data key="d0">736</data>
+  <data key="d1">393</data>
+</edge>
+<edge source="NFKB1" target="MTOR">
+  <data key="d0">760</data>
+  <data key="d1">107</data>
+</edge>
+<edge source="NFKB1" target="YY1">
+  <data key="d0">715</data>
+  <data key="d1">181</data>
+</edge>
+<edge source="NFKB1" target="CREBBP">
+  <data key="d0">913</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="NFKB1" target="KRAS">
+  <data key="d0">805</data>
+  <data key="d1">102</data>
+</edge>
+<edge source="NFKB1" target="TLR4">
+  <data key="d0">993</data>
+  <data key="d1">93</data>
+</edge>
+<edge source="PPARGC1A" target="FIS1">
+  <data key="d0">727</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PPARGC1A" target="MAPK14">
+  <data key="d0">950</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PPARGC1A" target="LRPPRC">
+  <data key="d0">719</data>
+  <data key="d1">305</data>
+</edge>
+<edge source="PPARGC1A" target="YY1">
+  <data key="d0">995</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="PPARGC1A" target="CREBBP">
+  <data key="d0">860</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="PPARGC1A" target="EP300">
+  <data key="d0">990</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="PPARGC1A" target="KAT2B">
+  <data key="d0">701</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PPARGC1A" target="CS">
+  <data key="d0">731</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PPARGC1A" target="PRKAG3">
+  <data key="d0">937</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PPARGC1A" target="PPARG">
+  <data key="d0">999</data>
+  <data key="d1">992</data>
+</edge>
+<edge source="PPARGC1A" target="LPL">
+  <data key="d0">797</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PPARGC1A" target="PINK1">
+  <data key="d0">760</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PPARGC1A" target="CPT1A">
+  <data key="d0">721</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PPARGC1A" target="ESRRA">
+  <data key="d0">999</data>
+  <data key="d1">988</data>
+</edge>
+<edge source="PPARGC1A" target="MTOR">
+  <data key="d0">703</data>
+  <data key="d1">68</data>
+</edge>
+<edge source="PPARGC1A" target="AKT1">
+  <data key="d0">756</data>
+  <data key="d1">95</data>
+</edge>
+<edge source="PPARGC1A" target="TP53">
+  <data key="d0">887</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="PPARGC1A" target="CYCS">
+  <data key="d0">746</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PPARGC1A" target="SNRPF">
+  <data key="d0">782</data>
+  <data key="d1">771</data>
+</edge>
+<edge source="PPARGC1A" target="SREBF1">
+  <data key="d0">862</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PPARGC1A" target="HCFC1">
+  <data key="d0">880</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="PPARGC1A" target="MED1">
+  <data key="d0">830</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="PPARGC1A" target="ESR1">
+  <data key="d0">980</data>
+  <data key="d1">674</data>
+</edge>
+<edge source="ATP5F1B" target="PPARGC1B">
+  <data key="d0">817</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ATP5F1B" target="CUL7">
+  <data key="d0">757</data>
+  <data key="d1">510</data>
+</edge>
+<edge source="ATP5F1B" target="HSPA9">
+  <data key="d0">863</data>
+  <data key="d1">173</data>
+</edge>
+<edge source="ATP5F1B" target="ESRRA">
+  <data key="d0">833</data>
+  <data key="d1">45</data>
+</edge>
+<edge source="ATP5F1B" target="CS">
+  <data key="d0">917</data>
+  <data key="d1">186</data>
+</edge>
+<edge source="ATP5F1B" target="GAPDH">
+  <data key="d0">759</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ATP5F1B" target="ATP5PO">
+  <data key="d0">999</data>
+  <data key="d1">972</data>
+</edge>
+<edge source="ATP5F1B" target="NDUFS1">
+  <data key="d0">977</data>
+  <data key="d1">317</data>
+</edge>
+<edge source="ATP5F1B" target="SDHA">
+  <data key="d0">917</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ATP5F1B" target="HSP90AB1">
+  <data key="d0">756</data>
+  <data key="d1">480</data>
+</edge>
+<edge source="ATP5F1B" target="ATP5F1C">
+  <data key="d0">999</data>
+  <data key="d1">990</data>
+</edge>
+<edge source="ATP5F1B" target="PDHB">
+  <data key="d0">755</data>
+  <data key="d1">162</data>
+</edge>
+<edge source="LACC1" target="RIPK2">
+  <data key="d0">721</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="LONP2" target="CLPP">
+  <data key="d0">799</data>
+  <data key="d1">76</data>
+</edge>
+<edge source="LONP2" target="CCT7">
+  <data key="d0">711</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="LONP2" target="CCT5">
+  <data key="d0">711</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="LONP2" target="TYSND1">
+  <data key="d0">898</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="LONP2" target="PEX5">
+  <data key="d0">883</data>
+  <data key="d1">510</data>
+</edge>
+<edge source="LONP2" target="CCT4">
+  <data key="d0">711</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="LONP2" target="TCP1">
+  <data key="d0">707</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="LONP2" target="SCP2">
+  <data key="d0">713</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="LONP2" target="HSD17B4">
+  <data key="d0">709</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CLPP" target="HSPE1">
+  <data key="d0">946</data>
+  <data key="d1">488</data>
+</edge>
+<edge source="CLPP" target="HSD17B4">
+  <data key="d0">721</data>
+  <data key="d1">166</data>
+</edge>
+<edge source="CLPP" target="ACADM">
+  <data key="d0">761</data>
+  <data key="d1">421</data>
+</edge>
+<edge source="CLPP" target="HSPA9">
+  <data key="d0">829</data>
+  <data key="d1">166</data>
+</edge>
+<edge source="CLPP" target="SDHA">
+  <data key="d0">785</data>
+  <data key="d1">421</data>
+</edge>
+<edge source="HDDC3" target="MED1">
+  <data key="d0">864</data>
+  <data key="d1">843</data>
+</edge>
+<edge source="HDDC3" target="HACL1">
+  <data key="d0">844</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HDDC3" target="CUL7">
+  <data key="d0">785</data>
+  <data key="d1">769</data>
+</edge>
+<edge source="HDDC3" target="RPLP0">
+  <data key="d0">762</data>
+  <data key="d1">752</data>
+</edge>
+<edge source="HDDC3" target="RPS14">
+  <data key="d0">769</data>
+  <data key="d1">769</data>
+</edge>
+<edge source="PRKAG3" target="TSC2">
+  <data key="d0">927</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PRKAG3" target="CS">
+  <data key="d0">749</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PRKAG3" target="MTOR">
+  <data key="d0">924</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX1" target="AASDH">
+  <data key="d0">816</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX1" target="ECH1">
+  <data key="d0">834</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="ACOX1" target="CPT1A">
+  <data key="d0">837</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX1" target="ACAA2">
+  <data key="d0">989</data>
+  <data key="d1">51</data>
+</edge>
+<edge source="ACOX1" target="TYSND1">
+  <data key="d0">960</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="ACOX1" target="PPARG">
+  <data key="d0">740</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX1" target="PEX10">
+  <data key="d0">835</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX1" target="HMGCL">
+  <data key="d0">762</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX1" target="PEX19">
+  <data key="d0">754</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX1" target="ACAT2">
+  <data key="d0">965</data>
+  <data key="d1">51</data>
+</edge>
+<edge source="ACOX1" target="IDH1">
+  <data key="d0">778</data>
+  <data key="d1">198</data>
+</edge>
+<edge source="ACOX1" target="ACSL3">
+  <data key="d0">800</data>
+  <data key="d1">71</data>
+</edge>
+<edge source="ACOX1" target="ECI2">
+  <data key="d0">967</data>
+  <data key="d1">95</data>
+</edge>
+<edge source="ACOX1" target="SREBF1">
+  <data key="d0">858</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX1" target="PEX5">
+  <data key="d0">969</data>
+  <data key="d1">650</data>
+</edge>
+<edge source="ACOX1" target="SCP2">
+  <data key="d0">984</data>
+  <data key="d1">129</data>
+</edge>
+<edge source="ACOX1" target="DBT">
+  <data key="d0">937</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX1" target="FASN">
+  <data key="d0">825</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX1" target="ACAA1">
+  <data key="d0">998</data>
+  <data key="d1">180</data>
+</edge>
+<edge source="ACOX1" target="PEX2">
+  <data key="d0">784</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX1" target="ACADM">
+  <data key="d0">824</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX1" target="ACSL6">
+  <data key="d0">714</data>
+  <data key="d1">96</data>
+</edge>
+<edge source="ACOX1" target="HACL1">
+  <data key="d0">707</data>
+  <data key="d1">99</data>
+</edge>
+<edge source="ACOX1" target="HSD17B4">
+  <data key="d0">998</data>
+  <data key="d1">65</data>
+</edge>
+<edge source="ACOX1" target="GNPAT">
+  <data key="d0">851</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="NCBP1" target="AGO2">
+  <data key="d0">950</data>
+  <data key="d1">308</data>
+</edge>
+<edge source="NCBP1" target="SUPT4H1">
+  <data key="d0">786</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="NCBP1" target="SNRPF">
+  <data key="d0">991</data>
+  <data key="d1">982</data>
+</edge>
+<edge source="NCBP1" target="GEMIN5">
+  <data key="d0">843</data>
+  <data key="d1">225</data>
+</edge>
+<edge source="NCBP1" target="PPARGC1B">
+  <data key="d0">901</data>
+  <data key="d1">900</data>
+</edge>
+<edge source="NCBP1" target="SNRPD2">
+  <data key="d0">997</data>
+  <data key="d1">992</data>
+</edge>
+<edge source="CCT5" target="HSPE1">
+  <data key="d0">875</data>
+  <data key="d1">548</data>
+</edge>
+<edge source="CCT5" target="CCT7">
+  <data key="d0">999</data>
+  <data key="d1">998</data>
+</edge>
+<edge source="CCT5" target="TP53">
+  <data key="d0">831</data>
+  <data key="d1">613</data>
+</edge>
+<edge source="CCT5" target="RPL27">
+  <data key="d0">726</data>
+  <data key="d1">50</data>
+</edge>
+<edge source="CCT5" target="CCT4">
+  <data key="d0">999</data>
+  <data key="d1">997</data>
+</edge>
+<edge source="CCT5" target="RPLP0">
+  <data key="d0">716</data>
+  <data key="d1">84</data>
+</edge>
+<edge source="CCT5" target="TCP1">
+  <data key="d0">999</data>
+  <data key="d1">998</data>
+</edge>
+<edge source="CCT5" target="HSPA5">
+  <data key="d0">727</data>
+  <data key="d1">126</data>
+</edge>
+<edge source="CCT5" target="STIP1">
+  <data key="d0">978</data>
+  <data key="d1">45</data>
+</edge>
+<edge source="CCT5" target="DNAJA1">
+  <data key="d0">732</data>
+  <data key="d1">50</data>
+</edge>
+<edge source="CCT5" target="HSPA4">
+  <data key="d0">799</data>
+  <data key="d1">126</data>
+</edge>
+<edge source="CCT5" target="HSP90AB1">
+  <data key="d0">959</data>
+  <data key="d1">127</data>
+</edge>
+<edge source="UBE2D2" target="RBX1">
+  <data key="d0">999</data>
+  <data key="d1">999</data>
+</edge>
+<edge source="UBE2D2" target="RPS27A">
+  <data key="d0">996</data>
+  <data key="d1">978</data>
+</edge>
+<edge source="UBE2D2" target="PEX10">
+  <data key="d0">817</data>
+  <data key="d1">279</data>
+</edge>
+<edge source="UBE2D2" target="UBE2N">
+  <data key="d0">736</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="UBE2D2" target="PEX2">
+  <data key="d0">823</data>
+  <data key="d1">256</data>
+</edge>
+<edge source="UBE2D2" target="PEX5">
+  <data key="d0">746</data>
+  <data key="d1">72</data>
+</edge>
+<edge source="UBE2D2" target="UBA52">
+  <data key="d0">986</data>
+  <data key="d1">960</data>
+</edge>
+<edge source="UBE2D2" target="UBC">
+  <data key="d0">998</data>
+  <data key="d1">992</data>
+</edge>
+<edge source="UBQLN2" target="PFN1">
+  <data key="d0">712</data>
+  <data key="d1">61</data>
+</edge>
+<edge source="UBQLN2" target="RPS27A">
+  <data key="d0">988</data>
+  <data key="d1">962</data>
+</edge>
+<edge source="UBQLN2" target="HSPA4">
+  <data key="d0">915</data>
+  <data key="d1">632</data>
+</edge>
+<edge source="UBQLN2" target="NBR1">
+  <data key="d0">751</data>
+  <data key="d1">378</data>
+</edge>
+<edge source="UBQLN2" target="UBA52">
+  <data key="d0">978</data>
+  <data key="d1">941</data>
+</edge>
+<edge source="UBQLN2" target="UBC">
+  <data key="d0">997</data>
+  <data key="d1">988</data>
+</edge>
+<edge source="UBQLN2" target="STIP1">
+  <data key="d0">817</data>
+  <data key="d1">109</data>
+</edge>
+<edge source="PRMT5" target="WDR77">
+  <data key="d0">999</data>
+  <data key="d1">997</data>
+</edge>
+<edge source="PRMT5" target="H4C6">
+  <data key="d0">997</data>
+  <data key="d1">988</data>
+</edge>
+<edge source="PRMT5" target="H3-3B">
+  <data key="d0">708</data>
+  <data key="d1">45</data>
+</edge>
+<edge source="PRMT5" target="EP300">
+  <data key="d0">780</data>
+  <data key="d1">265</data>
+</edge>
+<edge source="PRMT5" target="STAT3">
+  <data key="d0">712</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PRMT5" target="DNMT3A">
+  <data key="d0">924</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="PRMT5" target="SNRPF">
+  <data key="d0">931</data>
+  <data key="d1">183</data>
+</edge>
+<edge source="PRMT5" target="TP53">
+  <data key="d0">924</data>
+  <data key="d1">446</data>
+</edge>
+<edge source="PRMT5" target="GEMIN5">
+  <data key="d0">717</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PRMT5" target="SUZ12">
+  <data key="d0">810</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PRMT5" target="SNRPD2">
+  <data key="d0">966</data>
+  <data key="d1">109</data>
+</edge>
+<edge source="PRMT5" target="EZH2">
+  <data key="d0">870</data>
+  <data key="d1">317</data>
+</edge>
+<edge source="MED1" target="MAPK14">
+  <data key="d0">929</data>
+  <data key="d1">252</data>
+</edge>
+<edge source="MED1" target="TBP">
+  <data key="d0">954</data>
+  <data key="d1">860</data>
+</edge>
+<edge source="MED1" target="H4C6">
+  <data key="d0">913</data>
+  <data key="d1">897</data>
+</edge>
+<edge source="MED1" target="MED17">
+  <data key="d0">999</data>
+  <data key="d1">998</data>
+</edge>
+<edge source="MED1" target="NIP7">
+  <data key="d0">802</data>
+  <data key="d1">749</data>
+</edge>
+<edge source="MED1" target="HSPBP1">
+  <data key="d0">829</data>
+  <data key="d1">497</data>
+</edge>
+<edge source="MED1" target="TGS1">
+  <data key="d0">773</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="MED1" target="CREBBP">
+  <data key="d0">740</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="MED1" target="EP300">
+  <data key="d0">918</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="MED1" target="TP53">
+  <data key="d0">906</data>
+  <data key="d1">625</data>
+</edge>
+<edge source="MED1" target="RPS27A">
+  <data key="d0">972</data>
+  <data key="d1">840</data>
+</edge>
+<edge source="MED1" target="PPARG">
+  <data key="d0">999</data>
+  <data key="d1">987</data>
+</edge>
+<edge source="MED1" target="ATP5PO">
+  <data key="d0">738</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="MED1" target="MED8">
+  <data key="d0">999</data>
+  <data key="d1">998</data>
+</edge>
+<edge source="MED1" target="RPLP0">
+  <data key="d0">980</data>
+  <data key="d1">838</data>
+</edge>
+<edge source="MED1" target="RPL27">
+  <data key="d0">916</data>
+  <data key="d1">743</data>
+</edge>
+<edge source="MED1" target="PPARGC1B">
+  <data key="d0">917</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="MED1" target="CUL7">
+  <data key="d0">888</data>
+  <data key="d1">579</data>
+</edge>
+<edge source="MED1" target="RPS14">
+  <data key="d0">938</data>
+  <data key="d1">744</data>
+</edge>
+<edge source="MED1" target="USF1">
+  <data key="d0">801</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="MED1" target="EIF6">
+  <data key="d0">879</data>
+  <data key="d1">841</data>
+</edge>
+<edge source="MED1" target="ESR1">
+  <data key="d0">998</data>
+  <data key="d1">845</data>
+</edge>
+<edge source="MED1" target="UBA52">
+  <data key="d0">977</data>
+  <data key="d1">842</data>
+</edge>
+<edge source="MED1" target="ATP5F1C">
+  <data key="d0">855</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="MED1" target="SRC">
+  <data key="d0">922</data>
+  <data key="d1">49</data>
+</edge>
+<edge source="NBR1" target="RB1CC1">
+  <data key="d0">909</data>
+  <data key="d1">410</data>
+</edge>
+<edge source="NBR1" target="RPS27A">
+  <data key="d0">973</data>
+  <data key="d1">970</data>
+</edge>
+<edge source="NBR1" target="PINK1">
+  <data key="d0">726</data>
+  <data key="d1">69</data>
+</edge>
+<edge source="NBR1" target="UBC">
+  <data key="d0">989</data>
+  <data key="d1">987</data>
+</edge>
+<edge source="NBR1" target="SPRED2">
+  <data key="d0">809</data>
+  <data key="d1">510</data>
+</edge>
+<edge source="NBR1" target="PEX5">
+  <data key="d0">957</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="NBR1" target="KEAP1">
+  <data key="d0">762</data>
+  <data key="d1">399</data>
+</edge>
+<edge source="NBR1" target="UBA52">
+  <data key="d0">914</data>
+  <data key="d1">903</data>
+</edge>
+<edge source="NRAS" target="FLT3">
+  <data key="d0">900</data>
+  <data key="d1">92</data>
+</edge>
+<edge source="NRAS" target="KRAS">
+  <data key="d0">944</data>
+  <data key="d1">422</data>
+</edge>
+<edge source="NRAS" target="DNMT3A">
+  <data key="d0">732</data>
+  <data key="d1">71</data>
+</edge>
+<edge source="NRAS" target="TP53">
+  <data key="d0">876</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="NRAS" target="RASA1">
+  <data key="d0">984</data>
+  <data key="d1">371</data>
+</edge>
+<edge source="NRAS" target="EZH2">
+  <data key="d0">811</data>
+  <data key="d1">63</data>
+</edge>
+<edge source="NRAS" target="IDH2">
+  <data key="d0">768</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="NRAS" target="MTOR">
+  <data key="d0">705</data>
+  <data key="d1">391</data>
+</edge>
+<edge source="NRAS" target="AKT1">
+  <data key="d0">815</data>
+  <data key="d1">165</data>
+</edge>
+<edge source="NRAS" target="SRC">
+  <data key="d0">970</data>
+  <data key="d1">295</data>
+</edge>
+<edge source="NRAS" target="ASXL1">
+  <data key="d0">798</data>
+  <data key="d1">78</data>
+</edge>
+<edge source="NRAS" target="IDH1">
+  <data key="d0">777</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="NRAS" target="HRAS">
+  <data key="d0">932</data>
+  <data key="d1">330</data>
+</edge>
+<edge source="IDH1" target="DLD">
+  <data key="d0">777</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="IDH1" target="FLT3">
+  <data key="d0">814</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="IDH1" target="KRAS">
+  <data key="d0">762</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="IDH1" target="DNMT3A">
+  <data key="d0">797</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="IDH1" target="SDHA">
+  <data key="d0">852</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="IDH1" target="TP53">
+  <data key="d0">845</data>
+  <data key="d1">139</data>
+</edge>
+<edge source="IDH1" target="DLAT">
+  <data key="d0">770</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="IDH1" target="EZH2">
+  <data key="d0">721</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="IDH1" target="IDH2">
+  <data key="d0">961</data>
+  <data key="d1">608</data>
+</edge>
+<edge source="IDH1" target="CS">
+  <data key="d0">993</data>
+  <data key="d1">162</data>
+</edge>
+<edge source="IDH1" target="ASXL1">
+  <data key="d0">899</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="IDH1" target="GAPDH">
+  <data key="d0">704</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="IDH1" target="HSD17B4">
+  <data key="d0">813</data>
+  <data key="d1">235</data>
+</edge>
+<edge source="IDH1" target="LDHA">
+  <data key="d0">826</data>
+  <data key="d1">147</data>
+</edge>
+<edge source="IDH1" target="ACLY">
+  <data key="d0">935</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="IDH1" target="MYC">
+  <data key="d0">740</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="GADD45A" target="PPP1R15A">
+  <data key="d0">743</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="GADD45A" target="AURKA">
+  <data key="d0">961</data>
+  <data key="d1">510</data>
+</edge>
+<edge source="GADD45A" target="CCNB1">
+  <data key="d0">983</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="GADD45A" target="EP300">
+  <data key="d0">765</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="GADD45A" target="TP53">
+  <data key="d0">991</data>
+  <data key="d1">69</data>
+</edge>
+<edge source="PFN1" target="RHOC">
+  <data key="d0">891</data>
+  <data key="d1">214</data>
+</edge>
+<edge source="PFN1" target="CAP1">
+  <data key="d0">909</data>
+  <data key="d1">408</data>
+</edge>
+<edge source="PFN1" target="ACTA1">
+  <data key="d0">976</data>
+  <data key="d1">914</data>
+</edge>
+<edge source="PFN1" target="DNM1">
+  <data key="d0">838</data>
+  <data key="d1">166</data>
+</edge>
+<edge source="PFN1" target="RHOA">
+  <data key="d0">939</data>
+  <data key="d1">212</data>
+</edge>
+<edge source="DNM1" target="FIS1">
+  <data key="d0">997</data>
+  <data key="d1">301</data>
+</edge>
+<edge source="DNM1" target="PEX11B">
+  <data key="d0">706</data>
+  <data key="d1">61</data>
+</edge>
+<edge source="DNM1" target="SRC">
+  <data key="d0">742</data>
+  <data key="d1">600</data>
+</edge>
+<edge source="ANKZF1" target="EIF6">
+  <data key="d0">812</data>
+  <data key="d1">786</data>
+</edge>
+<edge source="ANKZF1" target="ATAD1">
+  <data key="d0">740</data>
+  <data key="d1">288</data>
+</edge>
+<edge source="HCFC1" target="H4C6">
+  <data key="d0">764</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="HCFC1" target="YEATS4">
+  <data key="d0">763</data>
+  <data key="d1">122</data>
+</edge>
+<edge source="HCFC1" target="YY1">
+  <data key="d0">913</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="HCFC1" target="EP300">
+  <data key="d0">749</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HCFC1" target="ASXL2">
+  <data key="d0">940</data>
+  <data key="d1">597</data>
+</edge>
+<edge source="HCFC1" target="ASXL1">
+  <data key="d0">967</data>
+  <data key="d1">679</data>
+</edge>
+<edge source="HCFC1" target="PPARGC1B">
+  <data key="d0">709</data>
+  <data key="d1">169</data>
+</edge>
+<edge source="HCFC1" target="MYC">
+  <data key="d0">801</data>
+  <data key="d1">518</data>
+</edge>
+<edge source="TYMS" target="MCM5">
+  <data key="d0">896</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TYMS" target="AURKA">
+  <data key="d0">729</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TYMS" target="CCNB1">
+  <data key="d0">841</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TYMS" target="TP53">
+  <data key="d0">774</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TYMS" target="SARDH">
+  <data key="d0">768</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TYMS" target="PTTG1">
+  <data key="d0">703</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="VIM" target="SNAI2">
+  <data key="d0">885</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="VIM" target="CDH1">
+  <data key="d0">892</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="VIM" target="STAT3">
+  <data key="d0">826</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="VIM" target="TP53">
+  <data key="d0">712</data>
+  <data key="d1">164</data>
+</edge>
+<edge source="VIM" target="YWHAZ">
+  <data key="d0">746</data>
+  <data key="d1">378</data>
+</edge>
+<edge source="VIM" target="GAPDH">
+  <data key="d0">769</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="VIM" target="GAN">
+  <data key="d0">915</data>
+  <data key="d1">737</data>
+</edge>
+<edge source="VIM" target="AKT1">
+  <data key="d0">779</data>
+  <data key="d1">352</data>
+</edge>
+<edge source="CAV1" target="CDH1">
+  <data key="d0">768</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CAV1" target="KDR">
+  <data key="d0">962</data>
+  <data key="d1">301</data>
+</edge>
+<edge source="CAV1" target="STAT3">
+  <data key="d0">759</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CAV1" target="RHOC">
+  <data key="d0">774</data>
+  <data key="d1">364</data>
+</edge>
+<edge source="CAV1" target="PPARG">
+  <data key="d0">765</data>
+  <data key="d1">517</data>
+</edge>
+<edge source="CAV1" target="HSP90AB1">
+  <data key="d0">983</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CAV1" target="SRC">
+  <data key="d0">999</data>
+  <data key="d1">623</data>
+</edge>
+<edge source="CAV1" target="HRAS">
+  <data key="d0">974</data>
+  <data key="d1">295</data>
+</edge>
+<edge source="CAV1" target="ESR1">
+  <data key="d0">998</data>
+  <data key="d1">624</data>
+</edge>
+<edge source="CAV1" target="TLR4">
+  <data key="d0">962</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="CAV1" target="RHOA">
+  <data key="d0">898</data>
+  <data key="d1">378</data>
+</edge>
+<edge source="CAV1" target="SCP2">
+  <data key="d0">778</data>
+  <data key="d1">325</data>
+</edge>
+<edge source="CAV1" target="AKT1">
+  <data key="d0">937</data>
+  <data key="d1">46</data>
+</edge>
+<edge source="FLT3" target="HRAS">
+  <data key="d0">781</data>
+  <data key="d1">92</data>
+</edge>
+<edge source="FLT3" target="STAT3">
+  <data key="d0">971</data>
+  <data key="d1">79</data>
+</edge>
+<edge source="FLT3" target="TP53">
+  <data key="d0">722</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="FLT3" target="IDH2">
+  <data key="d0">797</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="FLT3" target="DNMT3A">
+  <data key="d0">851</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="FLT3" target="KRAS">
+  <data key="d0">865</data>
+  <data key="d1">92</data>
+</edge>
+<edge source="FLT3" target="ASXL1">
+  <data key="d0">861</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="KDR" target="KRAS">
+  <data key="d0">780</data>
+  <data key="d1">92</data>
+</edge>
+<edge source="KDR" target="CDH1">
+  <data key="d0">780</data>
+  <data key="d1">45</data>
+</edge>
+<edge source="KDR" target="RASA1">
+  <data key="d0">714</data>
+  <data key="d1">346</data>
+</edge>
+<edge source="KDR" target="AKT1">
+  <data key="d0">715</data>
+  <data key="d1">74</data>
+</edge>
+<edge source="KDR" target="RHOA">
+  <data key="d0">755</data>
+  <data key="d1">71</data>
+</edge>
+<edge source="KDR" target="SRC">
+  <data key="d0">998</data>
+  <data key="d1">796</data>
+</edge>
+<edge source="KDR" target="TP53">
+  <data key="d0">730</data>
+  <data key="d1">225</data>
+</edge>
+<edge source="KDR" target="HSP90AB1">
+  <data key="d0">879</data>
+  <data key="d1">70</data>
+</edge>
+<edge source="KDR" target="MYC">
+  <data key="d0">723</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="FIS1" target="PEX19">
+  <data key="d0">848</data>
+  <data key="d1">145</data>
+</edge>
+<edge source="FIS1" target="BCAP31">
+  <data key="d0">996</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="FIS1" target="CYCS">
+  <data key="d0">868</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="FIS1" target="PEX16">
+  <data key="d0">781</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="FIS1" target="PEX11B">
+  <data key="d0">954</data>
+  <data key="d1">329</data>
+</edge>
+<edge source="FIS1" target="PINK1">
+  <data key="d0">931</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="FIS1" target="PEX3">
+  <data key="d0">816</data>
+  <data key="d1">95</data>
+</edge>
+<edge source="FIS1" target="RHOT1">
+  <data key="d0">703</data>
+  <data key="d1">48</data>
+</edge>
+<edge source="BCKDHA" target="DLD">
+  <data key="d0">999</data>
+  <data key="d1">131</data>
+</edge>
+<edge source="BCKDHA" target="PPM1K">
+  <data key="d0">965</data>
+  <data key="d1">832</data>
+</edge>
+<edge source="BCKDHA" target="BCKDHB">
+  <data key="d0">999</data>
+  <data key="d1">997</data>
+</edge>
+<edge source="BCKDHA" target="IVD">
+  <data key="d0">820</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="BCKDHA" target="PDHB">
+  <data key="d0">999</data>
+  <data key="d1">777</data>
+</edge>
+<edge source="BCKDHA" target="DBT">
+  <data key="d0">999</data>
+  <data key="d1">312</data>
+</edge>
+<edge source="BCKDHA" target="LDHA">
+  <data key="d0">923</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="BCKDHA" target="BCKDK">
+  <data key="d0">936</data>
+  <data key="d1">307</data>
+</edge>
+<edge source="BCKDHA" target="MCCC2">
+  <data key="d0">846</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="BCKDHA" target="DLAT">
+  <data key="d0">945</data>
+  <data key="d1">312</data>
+</edge>
+<edge source="BCKDHA" target="HACL1">
+  <data key="d0">773</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="BCKDHA" target="CS">
+  <data key="d0">893</data>
+  <data key="d1">140</data>
+</edge>
+<edge source="DECR1" target="GAPDH">
+  <data key="d0">726</data>
+  <data key="d1">68</data>
+</edge>
+<edge source="DECR1" target="PTTG1">
+  <data key="d0">835</data>
+  <data key="d1">834</data>
+</edge>
+<edge source="DECR1" target="ACADM">
+  <data key="d0">755</data>
+  <data key="d1">99</data>
+</edge>
+<edge source="DECR1" target="HSD17B4">
+  <data key="d0">708</data>
+  <data key="d1">302</data>
+</edge>
+<edge source="YY1" target="AGO2">
+  <data key="d0">796</data>
+  <data key="d1">516</data>
+</edge>
+<edge source="YY1" target="TBP">
+  <data key="d0">740</data>
+  <data key="d1">92</data>
+</edge>
+<edge source="YY1" target="H4C6">
+  <data key="d0">813</data>
+  <data key="d1">444</data>
+</edge>
+<edge source="YY1" target="H3-3B">
+  <data key="d0">878</data>
+  <data key="d1">99</data>
+</edge>
+<edge source="YY1" target="SUZ12">
+  <data key="d0">993</data>
+  <data key="d1">110</data>
+</edge>
+<edge source="YY1" target="RAD21">
+  <data key="d0">902</data>
+  <data key="d1">143</data>
+</edge>
+<edge source="YY1" target="MYC">
+  <data key="d0">958</data>
+  <data key="d1">295</data>
+</edge>
+<edge source="YY1" target="USF1">
+  <data key="d0">720</data>
+  <data key="d1">53</data>
+</edge>
+<edge source="YY1" target="ESR1">
+  <data key="d0">704</data>
+  <data key="d1">67</data>
+</edge>
+<edge source="YY1" target="INO80D">
+  <data key="d0">925</data>
+  <data key="d1">630</data>
+</edge>
+<edge source="YY1" target="TP53">
+  <data key="d0">942</data>
+  <data key="d1">786</data>
+</edge>
+<edge source="YY1" target="EZH2">
+  <data key="d0">998</data>
+  <data key="d1">553</data>
+</edge>
+<edge source="YY1" target="EP300">
+  <data key="d0">999</data>
+  <data key="d1">833</data>
+</edge>
+<edge source="YY1" target="UCHL5">
+  <data key="d0">990</data>
+  <data key="d1">835</data>
+</edge>
+<edge source="YY1" target="ASXL1">
+  <data key="d0">833</data>
+  <data key="d1">110</data>
+</edge>
+<edge source="YY1" target="CREBBP">
+  <data key="d0">951</data>
+  <data key="d1">330</data>
+</edge>
+<edge source="MCM5" target="RBX1">
+  <data key="d0">836</data>
+  <data key="d1">800</data>
+</edge>
+<edge source="MCM5" target="PLK1">
+  <data key="d0">747</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="PEX10" target="PEX16">
+  <data key="d0">962</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX10" target="PHYH">
+  <data key="d0">788</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX10" target="AGPS">
+  <data key="d0">927</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX10" target="TYSND1">
+  <data key="d0">769</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX10" target="ECI2">
+  <data key="d0">746</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX10" target="PEX3">
+  <data key="d0">964</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX10" target="GNPAT">
+  <data key="d0">794</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX10" target="PEX26">
+  <data key="d0">970</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX10" target="PEX5">
+  <data key="d0">995</data>
+  <data key="d1">680</data>
+</edge>
+<edge source="PEX10" target="HSD17B4">
+  <data key="d0">718</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX10" target="ACAA1">
+  <data key="d0">891</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX10" target="PEX2">
+  <data key="d0">999</data>
+  <data key="d1">683</data>
+</edge>
+<edge source="PEX10" target="PEX11B">
+  <data key="d0">879</data>
+  <data key="d1">299</data>
+</edge>
+<edge source="PEX10" target="PEX19">
+  <data key="d0">994</data>
+  <data key="d1">805</data>
+</edge>
+<edge source="ACTA1" target="PPP1R15A">
+  <data key="d0">904</data>
+  <data key="d1">900</data>
+</edge>
+<edge source="ACTA1" target="MRTFA">
+  <data key="d0">917</data>
+  <data key="d1">901</data>
+</edge>
+<edge source="ACTA1" target="CAP1">
+  <data key="d0">957</data>
+  <data key="d1">951</data>
+</edge>
+<edge source="H4C6" target="STAG2">
+  <data key="d0">762</data>
+  <data key="d1">510</data>
+</edge>
+<edge source="H4C6" target="SUPT4H1">
+  <data key="d0">889</data>
+  <data key="d1">875</data>
+</edge>
+<edge source="H4C6" target="TBP">
+  <data key="d0">963</data>
+  <data key="d1">830</data>
+</edge>
+<edge source="H4C6" target="WDR77">
+  <data key="d0">965</data>
+  <data key="d1">810</data>
+</edge>
+<edge source="H4C6" target="KAT2B">
+  <data key="d0">996</data>
+  <data key="d1">929</data>
+</edge>
+<edge source="H4C6" target="UBA52">
+  <data key="d0">935</data>
+  <data key="d1">860</data>
+</edge>
+<edge source="H4C6" target="RAD21">
+  <data key="d0">836</data>
+  <data key="d1">567</data>
+</edge>
+<edge source="H4C6" target="SUZ12">
+  <data key="d0">964</data>
+  <data key="d1">900</data>
+</edge>
+<edge source="H4C6" target="MYC">
+  <data key="d0">950</data>
+  <data key="d1">567</data>
+</edge>
+<edge source="H4C6" target="H3-3B">
+  <data key="d0">999</data>
+  <data key="d1">988</data>
+</edge>
+<edge source="H4C6" target="YEATS4">
+  <data key="d0">819</data>
+  <data key="d1">330</data>
+</edge>
+<edge source="H4C6" target="RNF8">
+  <data key="d0">733</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="H4C6" target="MED8">
+  <data key="d0">805</data>
+  <data key="d1">800</data>
+</edge>
+<edge source="H4C6" target="TP53">
+  <data key="d0">947</data>
+  <data key="d1">821</data>
+</edge>
+<edge source="H4C6" target="EZH2">
+  <data key="d0">977</data>
+  <data key="d1">909</data>
+</edge>
+<edge source="H4C6" target="EP300">
+  <data key="d0">999</data>
+  <data key="d1">999</data>
+</edge>
+<edge source="H4C6" target="HSP90AB1">
+  <data key="d0">850</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="H4C6" target="MED17">
+  <data key="d0">858</data>
+  <data key="d1">852</data>
+</edge>
+<edge source="H4C6" target="RPS27A">
+  <data key="d0">967</data>
+  <data key="d1">922</data>
+</edge>
+<edge source="H4C6" target="CREBBP">
+  <data key="d0">995</data>
+  <data key="d1">986</data>
+</edge>
+<edge source="H4C6" target="DNMT3A">
+  <data key="d0">974</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="H4C6" target="UBC">
+  <data key="d0">935</data>
+  <data key="d1">854</data>
+</edge>
+<edge source="RAP1GDS1" target="KRAS">
+  <data key="d0">830</data>
+  <data key="d1">649</data>
+</edge>
+<edge source="RAP1GDS1" target="RHOC">
+  <data key="d0">827</data>
+  <data key="d1">776</data>
+</edge>
+<edge source="RAP1GDS1" target="DDX10">
+  <data key="d0">757</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="RAP1GDS1" target="HRAS">
+  <data key="d0">775</data>
+  <data key="d1">734</data>
+</edge>
+<edge source="RAP1GDS1" target="RHOT1">
+  <data key="d0">833</data>
+  <data key="d1">172</data>
+</edge>
+<edge source="RAP1GDS1" target="RHOA">
+  <data key="d0">945</data>
+  <data key="d1">874</data>
+</edge>
+<edge source="FKBP4" target="STIP1">
+  <data key="d0">979</data>
+  <data key="d1">381</data>
+</edge>
+<edge source="FKBP4" target="GLMN">
+  <data key="d0">983</data>
+  <data key="d1">848</data>
+</edge>
+<edge source="FKBP4" target="MTOR">
+  <data key="d0">961</data>
+  <data key="d1">911</data>
+</edge>
+<edge source="FKBP4" target="AKT1">
+  <data key="d0">914</data>
+  <data key="d1">45</data>
+</edge>
+<edge source="FKBP4" target="HSP90AB1">
+  <data key="d0">999</data>
+  <data key="d1">656</data>
+</edge>
+<edge source="FKBP4" target="HSPA4">
+  <data key="d0">998</data>
+  <data key="d1">330</data>
+</edge>
+<edge source="FKBP4" target="PHYH">
+  <data key="d0">783</data>
+  <data key="d1">296</data>
+</edge>
+<edge source="FKBP4" target="PHLPP1">
+  <data key="d0">993</data>
+  <data key="d1">183</data>
+</edge>
+<edge source="FKBP4" target="ESR1">
+  <data key="d0">893</data>
+  <data key="d1">339</data>
+</edge>
+<edge source="FKBP4" target="CHUK">
+  <data key="d0">801</data>
+  <data key="d1">45</data>
+</edge>
+<edge source="GLMN" target="KLHL20">
+  <data key="d0">725</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="GLMN" target="RBX1">
+  <data key="d0">999</data>
+  <data key="d1">968</data>
+</edge>
+<edge source="GLMN" target="PHYH">
+  <data key="d0">713</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="GLMN" target="CUL3">
+  <data key="d0">862</data>
+  <data key="d1">510</data>
+</edge>
+<edge source="GLMN" target="KLHL25">
+  <data key="d0">727</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="GLMN" target="KEAP1">
+  <data key="d0">723</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="GLMN" target="KLHL42">
+  <data key="d0">763</data>
+  <data key="d1">165</data>
+</edge>
+<edge source="GLMN" target="CUL7">
+  <data key="d0">992</data>
+  <data key="d1">601</data>
+</edge>
+<edge source="GLMN" target="GAN">
+  <data key="d0">722</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="MT-ND4" target="PPP1R15A">
+  <data key="d0">950</data>
+  <data key="d1">540</data>
+</edge>
+<edge source="MT-ND4" target="FDX1">
+  <data key="d0">888</data>
+  <data key="d1">843</data>
+</edge>
+<edge source="MT-ND4" target="PALB2">
+  <data key="d0">916</data>
+  <data key="d1">842</data>
+</edge>
+<edge source="MT-ND4" target="SDHA">
+  <data key="d0">922</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="MT-ND4" target="MGLL">
+  <data key="d0">898</data>
+  <data key="d1">898</data>
+</edge>
+<edge source="MT-ND4" target="NDUFS1">
+  <data key="d0">999</data>
+  <data key="d1">991</data>
+</edge>
+<edge source="MT-ND4" target="NDUFAB1">
+  <data key="d0">999</data>
+  <data key="d1">991</data>
+</edge>
+<edge source="MT-ND4" target="NDUFA13">
+  <data key="d0">999</data>
+  <data key="d1">996</data>
+</edge>
+<edge source="MT-ND4" target="RPS14">
+  <data key="d0">727</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="MT-ND4" target="PINK1">
+  <data key="d0">724</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="DGKQ" target="RHOA">
+  <data key="d0">752</data>
+  <data key="d1">330</data>
+</edge>
+<edge source="DGKQ" target="LPL">
+  <data key="d0">900</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="DGKQ" target="GNPAT">
+  <data key="d0">828</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="KRAS" target="RALA">
+  <data key="d0">759</data>
+  <data key="d1">212</data>
+</edge>
+<edge source="KRAS" target="AGO2">
+  <data key="d0">734</data>
+  <data key="d1">65</data>
+</edge>
+<edge source="KRAS" target="MAPK14">
+  <data key="d0">807</data>
+  <data key="d1">98</data>
+</edge>
+<edge source="KRAS" target="MTOR">
+  <data key="d0">826</data>
+  <data key="d1">517</data>
+</edge>
+<edge source="KRAS" target="RASA1">
+  <data key="d0">971</data>
+  <data key="d1">335</data>
+</edge>
+<edge source="KRAS" target="IDH2">
+  <data key="d0">712</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="KRAS" target="SPRED2">
+  <data key="d0">742</data>
+  <data key="d1">408</data>
+</edge>
+<edge source="KRAS" target="ESR1">
+  <data key="d0">764</data>
+  <data key="d1">73</data>
+</edge>
+<edge source="KRAS" target="MYC">
+  <data key="d0">872</data>
+  <data key="d1">76</data>
+</edge>
+<edge source="KRAS" target="HRAS">
+  <data key="d0">992</data>
+  <data key="d1">883</data>
+</edge>
+<edge source="KRAS" target="CDH1">
+  <data key="d0">723</data>
+  <data key="d1">135</data>
+</edge>
+<edge source="KRAS" target="AKT1">
+  <data key="d0">904</data>
+  <data key="d1">110</data>
+</edge>
+<edge source="KRAS" target="PPARG">
+  <data key="d0">757</data>
+  <data key="d1">73</data>
+</edge>
+<edge source="KRAS" target="EP300">
+  <data key="d0">757</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="KRAS" target="TP53">
+  <data key="d0">949</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="KRAS" target="STAT3">
+  <data key="d0">817</data>
+  <data key="d1">63</data>
+</edge>
+<edge source="KRAS" target="SRC">
+  <data key="d0">990</data>
+  <data key="d1">297</data>
+</edge>
+<edge source="PPARG" target="RETN">
+  <data key="d0">858</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PPARG" target="CREBBP">
+  <data key="d0">998</data>
+  <data key="d1">983</data>
+</edge>
+<edge source="PPARG" target="EP300">
+  <data key="d0">997</data>
+  <data key="d1">860</data>
+</edge>
+<edge source="PPARG" target="STAT3">
+  <data key="d0">826</data>
+  <data key="d1">45</data>
+</edge>
+<edge source="PPARG" target="CPT1A">
+  <data key="d0">806</data>
+  <data key="d1">45</data>
+</edge>
+<edge source="PPARG" target="TP53">
+  <data key="d0">949</data>
+  <data key="d1">305</data>
+</edge>
+<edge source="PPARG" target="LPL">
+  <data key="d0">941</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PPARG" target="TLR4">
+  <data key="d0">738</data>
+  <data key="d1">66</data>
+</edge>
+<edge source="PPARG" target="HELZ2">
+  <data key="d0">711</data>
+  <data key="d1">45</data>
+</edge>
+<edge source="PPARG" target="ESRRA">
+  <data key="d0">898</data>
+  <data key="d1">230</data>
+</edge>
+<edge source="PPARG" target="AKT1">
+  <data key="d0">790</data>
+  <data key="d1">71</data>
+</edge>
+<edge source="PPARG" target="PPARGC1B">
+  <data key="d0">921</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="PPARG" target="MTOR">
+  <data key="d0">964</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PPARG" target="FASN">
+  <data key="d0">860</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PPARG" target="SREBF1">
+  <data key="d0">982</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PPARG" target="SRC">
+  <data key="d0">736</data>
+  <data key="d1">71</data>
+</edge>
+<edge source="PPARG" target="HSP90AB1">
+  <data key="d0">712</data>
+  <data key="d1">233</data>
+</edge>
+<edge source="PPARG" target="EZH2">
+  <data key="d0">778</data>
+  <data key="d1">311</data>
+</edge>
+<edge source="PPARG" target="ESR1">
+  <data key="d0">794</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PPARG" target="GAPDH">
+  <data key="d0">742</data>
+  <data key="d1">45</data>
+</edge>
+<edge source="KAT2B" target="TBP">
+  <data key="d0">960</data>
+  <data key="d1">417</data>
+</edge>
+<edge source="KAT2B" target="YEATS4">
+  <data key="d0">775</data>
+  <data key="d1">294</data>
+</edge>
+<edge source="KAT2B" target="H3-3B">
+  <data key="d0">998</data>
+  <data key="d1">962</data>
+</edge>
+<edge source="KAT2B" target="CREBBP">
+  <data key="d0">999</data>
+  <data key="d1">793</data>
+</edge>
+<edge source="KAT2B" target="EP300">
+  <data key="d0">999</data>
+  <data key="d1">842</data>
+</edge>
+<edge source="KAT2B" target="TP53">
+  <data key="d0">985</data>
+  <data key="d1">903</data>
+</edge>
+<edge source="KAT2B" target="ESCO1">
+  <data key="d0">763</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="KAT2B" target="AGXT">
+  <data key="d0">981</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="KAT2B" target="MYC">
+  <data key="d0">990</data>
+  <data key="d1">352</data>
+</edge>
+<edge source="KAT2B" target="ESR1">
+  <data key="d0">804</data>
+  <data key="d1">69</data>
+</edge>
+<edge source="NCAPH" target="AURKA">
+  <data key="d0">814</data>
+  <data key="d1">246</data>
+</edge>
+<edge source="NCAPH" target="PLK1">
+  <data key="d0">751</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="NCAPH" target="RAD21">
+  <data key="d0">864</data>
+  <data key="d1">79</data>
+</edge>
+<edge source="NCAPH" target="PTTG1">
+  <data key="d0">717</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="NCAPH" target="CCNB1">
+  <data key="d0">889</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="IVD" target="BCKDHB">
+  <data key="d0">733</data>
+  <data key="d1">53</data>
+</edge>
+<edge source="IVD" target="ACAA1">
+  <data key="d0">708</data>
+  <data key="d1">51</data>
+</edge>
+<edge source="IVD" target="MCCC2">
+  <data key="d0">992</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="IVD" target="DBT">
+  <data key="d0">975</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="IVD" target="ECI2">
+  <data key="d0">914</data>
+  <data key="d1">376</data>
+</edge>
+<edge source="CCNE2" target="RBX1">
+  <data key="d0">918</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CCNE2" target="AURKA">
+  <data key="d0">812</data>
+  <data key="d1">616</data>
+</edge>
+<edge source="CCNE2" target="CCNB1">
+  <data key="d0">755</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CCNE2" target="TP53">
+  <data key="d0">890</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="CCNE2" target="MYC">
+  <data key="d0">762</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="DHRS7B" target="SARDH">
+  <data key="d0">719</data>
+  <data key="d1">51</data>
+</edge>
+<edge source="ECH1" target="MCCC2">
+  <data key="d0">773</data>
+  <data key="d1">712</data>
+</edge>
+<edge source="ECH1" target="HSD17B4">
+  <data key="d0">954</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="ECH1" target="SCP2">
+  <data key="d0">818</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="ECH1" target="ECI2">
+  <data key="d0">875</data>
+  <data key="d1">692</data>
+</edge>
+<edge source="ECH1" target="PEX5">
+  <data key="d0">901</data>
+  <data key="d1">638</data>
+</edge>
+<edge source="ECH1" target="ACAA2">
+  <data key="d0">744</data>
+  <data key="d1">108</data>
+</edge>
+<edge source="DLAT" target="DLD">
+  <data key="d0">999</data>
+  <data key="d1">910</data>
+</edge>
+<edge source="DLAT" target="SDHA">
+  <data key="d0">852</data>
+  <data key="d1">96</data>
+</edge>
+<edge source="DLAT" target="CS">
+  <data key="d0">996</data>
+  <data key="d1">601</data>
+</edge>
+<edge source="DLAT" target="FASN">
+  <data key="d0">869</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="DLAT" target="ACAA1">
+  <data key="d0">891</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="DLAT" target="IDH2">
+  <data key="d0">775</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="DLAT" target="ACLY">
+  <data key="d0">988</data>
+  <data key="d1">99</data>
+</edge>
+<edge source="DLAT" target="RNF8">
+  <data key="d0">800</data>
+  <data key="d1">747</data>
+</edge>
+<edge source="DLAT" target="PDHB">
+  <data key="d0">999</data>
+  <data key="d1">969</data>
+</edge>
+<edge source="DLAT" target="ACAA2">
+  <data key="d0">892</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="DLAT" target="HMGCL">
+  <data key="d0">840</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="DLAT" target="ACAT2">
+  <data key="d0">934</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="DLAT" target="BCKDHB">
+  <data key="d0">968</data>
+  <data key="d1">516</data>
+</edge>
+<edge source="DLAT" target="NDUFS1">
+  <data key="d0">773</data>
+  <data key="d1">96</data>
+</edge>
+<edge source="DLAT" target="NDUFAB1">
+  <data key="d0">705</data>
+  <data key="d1">287</data>
+</edge>
+<edge source="FASN" target="AASDH">
+  <data key="d0">978</data>
+  <data key="d1">602</data>
+</edge>
+<edge source="FASN" target="PALB2">
+  <data key="d0">868</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="FASN" target="CPT1A">
+  <data key="d0">809</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="FASN" target="ACSL6">
+  <data key="d0">948</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="FASN" target="CS">
+  <data key="d0">911</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="FASN" target="ACADM">
+  <data key="d0">736</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="FASN" target="SREBF1">
+  <data key="d0">983</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="FASN" target="FAR1">
+  <data key="d0">718</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="FASN" target="ACLY">
+  <data key="d0">994</data>
+  <data key="d1">87</data>
+</edge>
+<edge source="FASN" target="ESR1">
+  <data key="d0">792</data>
+  <data key="d1">80</data>
+</edge>
+<edge source="FASN" target="USF1">
+  <data key="d0">752</data>
+  <data key="d1">302</data>
+</edge>
+<edge source="FASN" target="NDUFAB1">
+  <data key="d0">877</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="FASN" target="ACSL3">
+  <data key="d0">964</data>
+  <data key="d1">59</data>
+</edge>
+<edge source="FASN" target="GAPDH">
+  <data key="d0">716</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HSD17B4" target="TYSND1">
+  <data key="d0">864</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="HSD17B4" target="HACL1">
+  <data key="d0">788</data>
+  <data key="d1">86</data>
+</edge>
+<edge source="HSD17B4" target="ACAA1">
+  <data key="d0">999</data>
+  <data key="d1">234</data>
+</edge>
+<edge source="HSD17B4" target="GNPAT">
+  <data key="d0">893</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HSD17B4" target="ACADM">
+  <data key="d0">754</data>
+  <data key="d1">65</data>
+</edge>
+<edge source="HSD17B4" target="SCP2">
+  <data key="d0">986</data>
+  <data key="d1">258</data>
+</edge>
+<edge source="HSD17B4" target="ECI2">
+  <data key="d0">857</data>
+  <data key="d1">94</data>
+</edge>
+<edge source="HSD17B4" target="PEX5">
+  <data key="d0">936</data>
+  <data key="d1">510</data>
+</edge>
+<edge source="ACAT2" target="MVK">
+  <data key="d0">885</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACAT2" target="ACAA2">
+  <data key="d0">922</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACAT2" target="TCP1">
+  <data key="d0">729</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACAT2" target="ACAA1">
+  <data key="d0">923</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACAT2" target="CS">
+  <data key="d0">966</data>
+  <data key="d1">71</data>
+</edge>
+<edge source="ACAT2" target="HMGCL">
+  <data key="d0">950</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACAT2" target="IDI1">
+  <data key="d0">828</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACAT2" target="ACLY">
+  <data key="d0">916</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACAT2" target="ECI2">
+  <data key="d0">981</data>
+  <data key="d1">296</data>
+</edge>
+<edge source="CPT1A" target="AASDH">
+  <data key="d0">873</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CPT1A" target="EP300">
+  <data key="d0">794</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CPT1A" target="ACADM">
+  <data key="d0">756</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CPT1A" target="ACSL6">
+  <data key="d0">946</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CPT1A" target="ACSL3">
+  <data key="d0">955</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CPT1A" target="SREBF1">
+  <data key="d0">813</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CPT1A" target="ACAA2">
+  <data key="d0">784</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="FDX1" target="CYCS">
+  <data key="d0">981</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="FDX1" target="SDHA">
+  <data key="d0">872</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="FDX1" target="NDUFAB1">
+  <data key="d0">705</data>
+  <data key="d1">514</data>
+</edge>
+<edge source="FDX1" target="SCP2">
+  <data key="d0">914</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="STAG2" target="RAD21">
+  <data key="d0">999</data>
+  <data key="d1">999</data>
+</edge>
+<edge source="STAG2" target="EP300">
+  <data key="d0">794</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="STAG2" target="PLK1">
+  <data key="d0">817</data>
+  <data key="d1">436</data>
+</edge>
+<edge source="STAG2" target="ESCO1">
+  <data key="d0">839</data>
+  <data key="d1">204</data>
+</edge>
+<edge source="STAG2" target="ASXL1">
+  <data key="d0">771</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="STIP1" target="HSPBP1">
+  <data key="d0">808</data>
+  <data key="d1">53</data>
+</edge>
+<edge source="STIP1" target="CCT7">
+  <data key="d0">964</data>
+  <data key="d1">45</data>
+</edge>
+<edge source="STIP1" target="HSPA4">
+  <data key="d0">999</data>
+  <data key="d1">844</data>
+</edge>
+<edge source="STIP1" target="TCP1">
+  <data key="d0">968</data>
+  <data key="d1">70</data>
+</edge>
+<edge source="STIP1" target="CCT4">
+  <data key="d0">953</data>
+  <data key="d1">45</data>
+</edge>
+<edge source="STIP1" target="HSP90AB1">
+  <data key="d0">999</data>
+  <data key="d1">958</data>
+</edge>
+<edge source="STIP1" target="DNAJA1">
+  <data key="d0">954</data>
+  <data key="d1">580</data>
+</edge>
+<edge source="SCP2" target="AGPS">
+  <data key="d0">829</data>
+  <data key="d1">599</data>
+</edge>
+<edge source="SCP2" target="ACAA2">
+  <data key="d0">742</data>
+  <data key="d1">205</data>
+</edge>
+<edge source="SCP2" target="TYSND1">
+  <data key="d0">860</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="SCP2" target="CDY1">
+  <data key="d0">826</data>
+  <data key="d1">87</data>
+</edge>
+<edge source="SCP2" target="HACL1">
+  <data key="d0">830</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="SCP2" target="ACAA1">
+  <data key="d0">982</data>
+  <data key="d1">244</data>
+</edge>
+<edge source="SCP2" target="PEX2">
+  <data key="d0">710</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SCP2" target="GNPAT">
+  <data key="d0">721</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SCP2" target="ACADM">
+  <data key="d0">745</data>
+  <data key="d1">94</data>
+</edge>
+<edge source="SCP2" target="PEX5">
+  <data key="d0">989</data>
+  <data key="d1">903</data>
+</edge>
+<edge source="SCP2" target="ECI2">
+  <data key="d0">961</data>
+  <data key="d1">303</data>
+</edge>
+<edge source="EIF2AK2" target="XBP1">
+  <data key="d0">843</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="EIF2AK2" target="HELZ2">
+  <data key="d0">783</data>
+  <data key="d1">113</data>
+</edge>
+<edge source="EIF2AK2" target="HSPA5">
+  <data key="d0">871</data>
+  <data key="d1">43</data>
+</edge>
+<edge source="EIF2AK2" target="STAT3">
+  <data key="d0">879</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="EIF2AK2" target="G3BP1">
+  <data key="d0">898</data>
+  <data key="d1">625</data>
+</edge>
+<edge source="EIF2AK2" target="TP53">
+  <data key="d0">775</data>
+  <data key="d1">510</data>
+</edge>
+<edge source="EIF2AK2" target="CHUK">
+  <data key="d0">977</data>
+  <data key="d1">510</data>
+</edge>
+<edge source="SYNJ2BP" target="RALA">
+  <data key="d0">782</data>
+  <data key="d1">61</data>
+</edge>
+<edge source="SYNJ2BP" target="PEX26">
+  <data key="d0">702</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CETP" target="PEX3">
+  <data key="d0">720</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CETP" target="LPL">
+  <data key="d0">940</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CETP" target="BPIFA1">
+  <data key="d0">764</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACAD11" target="LSG1">
+  <data key="d0">833</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACAD11" target="ECI2">
+  <data key="d0">751</data>
+  <data key="d1">99</data>
+</edge>
+<edge source="NDUFAB1" target="AASDH">
+  <data key="d0">987</data>
+  <data key="d1">487</data>
+</edge>
+<edge source="NDUFAB1" target="HSPE1">
+  <data key="d0">744</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="NDUFAB1" target="MGLL">
+  <data key="d0">828</data>
+  <data key="d1">770</data>
+</edge>
+<edge source="NDUFAB1" target="ATP5PO">
+  <data key="d0">762</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="NDUFAB1" target="PDHB">
+  <data key="d0">741</data>
+  <data key="d1">302</data>
+</edge>
+<edge source="NDUFAB1" target="ATP5F1C">
+  <data key="d0">889</data>
+  <data key="d1">95</data>
+</edge>
+<edge source="NDUFAB1" target="NDUFAF6">
+  <data key="d0">708</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="NDUFAB1" target="NDUFS1">
+  <data key="d0">999</data>
+  <data key="d1">991</data>
+</edge>
+<edge source="NDUFAB1" target="NDUFA13">
+  <data key="d0">999</data>
+  <data key="d1">991</data>
+</edge>
+<edge source="ACSL6" target="AASDH">
+  <data key="d0">780</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACSL6" target="ABCD1">
+  <data key="d0">731</data>
+  <data key="d1">100</data>
+</edge>
+<edge source="ACSL6" target="PHYH">
+  <data key="d0">717</data>
+  <data key="d1">95</data>
+</edge>
+<edge source="ACSL6" target="MGLL">
+  <data key="d0">846</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACSL6" target="ACAA1">
+  <data key="d0">706</data>
+  <data key="d1">92</data>
+</edge>
+<edge source="ACSL6" target="ACSL3">
+  <data key="d0">729</data>
+  <data key="d1">66</data>
+</edge>
+<edge source="ACSL6" target="PPT2">
+  <data key="d0">850</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACSL6" target="PPT1">
+  <data key="d0">847</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACSL6" target="LPL">
+  <data key="d0">899</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="UBE2N" target="RBX1">
+  <data key="d0">791</data>
+  <data key="d1">211</data>
+</edge>
+<edge source="UBE2N" target="RIPK2">
+  <data key="d0">734</data>
+  <data key="d1">257</data>
+</edge>
+<edge source="UBE2N" target="TP53">
+  <data key="d0">811</data>
+  <data key="d1">536</data>
+</edge>
+<edge source="UBE2N" target="RPS27A">
+  <data key="d0">999</data>
+  <data key="d1">994</data>
+</edge>
+<edge source="UBE2N" target="TLR4">
+  <data key="d0">932</data>
+  <data key="d1">840</data>
+</edge>
+<edge source="UBE2N" target="UBC">
+  <data key="d0">999</data>
+  <data key="d1">998</data>
+</edge>
+<edge source="UBE2N" target="RNF8">
+  <data key="d0">999</data>
+  <data key="d1">918</data>
+</edge>
+<edge source="UBE2N" target="BCAP31">
+  <data key="d0">885</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="UBE2N" target="UBA52">
+  <data key="d0">997</data>
+  <data key="d1">994</data>
+</edge>
+<edge source="UBE2N" target="CHUK">
+  <data key="d0">837</data>
+  <data key="d1">327</data>
+</edge>
+<edge source="XBP1" target="UBA52">
+  <data key="d0">800</data>
+  <data key="d1">800</data>
+</edge>
+<edge source="XBP1" target="ESR1">
+  <data key="d0">760</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="XBP1" target="HSPA5">
+  <data key="d0">980</data>
+  <data key="d1">345</data>
+</edge>
+<edge source="XBP1" target="TBP">
+  <data key="d0">938</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="XBP1" target="RPS14">
+  <data key="d0">814</data>
+  <data key="d1">800</data>
+</edge>
+<edge source="XBP1" target="CUL7">
+  <data key="d0">750</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="XBP1" target="RPS27A">
+  <data key="d0">806</data>
+  <data key="d1">800</data>
+</edge>
+<edge source="XBP1" target="AKT1">
+  <data key="d0">739</data>
+  <data key="d1">47</data>
+</edge>
+<edge source="XBP1" target="RPLP0">
+  <data key="d0">846</data>
+  <data key="d1">800</data>
+</edge>
+<edge source="XBP1" target="RPL27">
+  <data key="d0">813</data>
+  <data key="d1">800</data>
+</edge>
+<edge source="AGXT" target="DLD">
+  <data key="d0">934</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="AGXT" target="PEX5">
+  <data key="d0">988</data>
+  <data key="d1">958</data>
+</edge>
+<edge source="AGXT" target="HACL1">
+  <data key="d0">890</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="AGXT" target="SARDH">
+  <data key="d0">959</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ASXL1" target="DNMT3A">
+  <data key="d0">939</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="ASXL1" target="TP53">
+  <data key="d0">721</data>
+  <data key="d1">45</data>
+</edge>
+<edge source="ASXL1" target="SUZ12">
+  <data key="d0">995</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="ASXL1" target="EZH2">
+  <data key="d0">998</data>
+  <data key="d1">314</data>
+</edge>
+<edge source="ASXL1" target="IDH2">
+  <data key="d0">818</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ASXL1" target="ASXL2">
+  <data key="d0">852</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="RB1CC1" target="TSC2">
+  <data key="d0">834</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="RB1CC1" target="TP53">
+  <data key="d0">984</data>
+  <data key="d1">510</data>
+</edge>
+<edge source="RB1CC1" target="MTOR">
+  <data key="d0">982</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="RB1CC1" target="PINK1">
+  <data key="d0">719</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="DNAJA1" target="HSPE1">
+  <data key="d0">781</data>
+  <data key="d1">97</data>
+</edge>
+<edge source="DNAJA1" target="HSPBP1">
+  <data key="d0">817</data>
+  <data key="d1">337</data>
+</edge>
+<edge source="DNAJA1" target="TP53">
+  <data key="d0">759</data>
+  <data key="d1">457</data>
+</edge>
+<edge source="DNAJA1" target="HSPA9">
+  <data key="d0">908</data>
+  <data key="d1">427</data>
+</edge>
+<edge source="DNAJA1" target="HSPA4">
+  <data key="d0">992</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="DNAJA1" target="TCP1">
+  <data key="d0">724</data>
+  <data key="d1">50</data>
+</edge>
+<edge source="DNAJA1" target="HSPA5">
+  <data key="d0">904</data>
+  <data key="d1">442</data>
+</edge>
+<edge source="DNAJA1" target="PARK7">
+  <data key="d0">724</data>
+  <data key="d1">150</data>
+</edge>
+<edge source="DNAJA1" target="HSP90AB1">
+  <data key="d0">967</data>
+  <data key="d1">190</data>
+</edge>
+<edge source="PDHB" target="DLD">
+  <data key="d0">999</data>
+  <data key="d1">908</data>
+</edge>
+<edge source="PDHB" target="SDHA">
+  <data key="d0">731</data>
+  <data key="d1">96</data>
+</edge>
+<edge source="PDHB" target="ATP5F1C">
+  <data key="d0">913</data>
+  <data key="d1">203</data>
+</edge>
+<edge source="PDHB" target="GAPDH">
+  <data key="d0">815</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PDHB" target="NDUFS1">
+  <data key="d0">809</data>
+  <data key="d1">203</data>
+</edge>
+<edge source="PDHB" target="CS">
+  <data key="d0">941</data>
+  <data key="d1">189</data>
+</edge>
+<edge source="PDHB" target="HACL1">
+  <data key="d0">762</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PDHB" target="MCCC2">
+  <data key="d0">708</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PDHB" target="LDHA">
+  <data key="d0">961</data>
+  <data key="d1">95</data>
+</edge>
+<edge source="PDHB" target="DBT">
+  <data key="d0">957</data>
+  <data key="d1">516</data>
+</edge>
+<edge source="BCAP31" target="ABCD1">
+  <data key="d0">837</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="BCAP31" target="HSPA5">
+  <data key="d0">703</data>
+  <data key="d1">423</data>
+</edge>
+<edge source="CUL3" target="KLHL20">
+  <data key="d0">999</data>
+  <data key="d1">798</data>
+</edge>
+<edge source="CUL3" target="RBX1">
+  <data key="d0">999</data>
+  <data key="d1">986</data>
+</edge>
+<edge source="CUL3" target="PALB2">
+  <data key="d0">706</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="CUL3" target="KLHL25">
+  <data key="d0">995</data>
+  <data key="d1">805</data>
+</edge>
+<edge source="CUL3" target="KEAP1">
+  <data key="d0">999</data>
+  <data key="d1">999</data>
+</edge>
+<edge source="CUL3" target="CUL7">
+  <data key="d0">960</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="CUL3" target="KLHL42">
+  <data key="d0">993</data>
+  <data key="d1">835</data>
+</edge>
+<edge source="CUL3" target="RHOA">
+  <data key="d0">858</data>
+  <data key="d1">629</data>
+</edge>
+<edge source="CUL3" target="GAN">
+  <data key="d0">989</data>
+  <data key="d1">549</data>
+</edge>
+<edge source="CUL3" target="UBC">
+  <data key="d0">832</data>
+  <data key="d1">576</data>
+</edge>
+<edge source="UBA52" target="RBX1">
+  <data key="d0">961</data>
+  <data key="d1">900</data>
+</edge>
+<edge source="UBA52" target="TBP">
+  <data key="d0">717</data>
+  <data key="d1">615</data>
+</edge>
+<edge source="UBA52" target="SBDS">
+  <data key="d0">934</data>
+  <data key="d1">897</data>
+</edge>
+<edge source="UBA52" target="HSPBP1">
+  <data key="d0">857</data>
+  <data key="d1">624</data>
+</edge>
+<edge source="UBA52" target="CDH1">
+  <data key="d0">898</data>
+  <data key="d1">802</data>
+</edge>
+<edge source="UBA52" target="RPS27A">
+  <data key="d0">999</data>
+  <data key="d1">998</data>
+</edge>
+<edge source="UBA52" target="UCHL5">
+  <data key="d0">847</data>
+  <data key="d1">602</data>
+</edge>
+<edge source="UBA52" target="RNF8">
+  <data key="d0">896</data>
+  <data key="d1">797</data>
+</edge>
+<edge source="UBA52" target="EIF6">
+  <data key="d0">976</data>
+  <data key="d1">960</data>
+</edge>
+<edge source="UBA52" target="PINK1">
+  <data key="d0">981</data>
+  <data key="d1">797</data>
+</edge>
+<edge source="UBA52" target="RPS14">
+  <data key="d0">999</data>
+  <data key="d1">973</data>
+</edge>
+<edge source="UBA52" target="PSMC2">
+  <data key="d0">937</data>
+  <data key="d1">859</data>
+</edge>
+<edge source="UBA52" target="UBC">
+  <data key="d0">999</data>
+  <data key="d1">990</data>
+</edge>
+<edge source="UBA52" target="CUL7">
+  <data key="d0">968</data>
+  <data key="d1">786</data>
+</edge>
+<edge source="UBA52" target="RPLP0">
+  <data key="d0">999</data>
+  <data key="d1">991</data>
+</edge>
+<edge source="UBA52" target="RPL27">
+  <data key="d0">999</data>
+  <data key="d1">991</data>
+</edge>
+<edge source="SUPV3L1" target="LRPPRC">
+  <data key="d0">703</data>
+  <data key="d1">88</data>
+</edge>
+<edge source="SUPV3L1" target="EXOSC10">
+  <data key="d0">915</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SUPV3L1" target="HELZ2">
+  <data key="d0">707</data>
+  <data key="d1">612</data>
+</edge>
+<edge source="RETN" target="CAP1">
+  <data key="d0">963</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="RETN" target="SREBF1">
+  <data key="d0">704</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="RETN" target="TLR4">
+  <data key="d0">993</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CCT7" target="HSPE1">
+  <data key="d0">862</data>
+  <data key="d1">470</data>
+</edge>
+<edge source="CCT7" target="WDR77">
+  <data key="d0">744</data>
+  <data key="d1">619</data>
+</edge>
+<edge source="CCT7" target="HSPA4">
+  <data key="d0">772</data>
+  <data key="d1">126</data>
+</edge>
+<edge source="CCT7" target="HSP90AB1">
+  <data key="d0">956</data>
+  <data key="d1">127</data>
+</edge>
+<edge source="CCT7" target="TP53">
+  <data key="d0">823</data>
+  <data key="d1">608</data>
+</edge>
+<edge source="CCT7" target="RPS14">
+  <data key="d0">702</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="CCT7" target="TCP1">
+  <data key="d0">999</data>
+  <data key="d1">998</data>
+</edge>
+<edge source="CCT7" target="RPL27">
+  <data key="d0">800</data>
+  <data key="d1">50</data>
+</edge>
+<edge source="CCT7" target="CCT4">
+  <data key="d0">999</data>
+  <data key="d1">998</data>
+</edge>
+<edge source="CCT7" target="RPLP0">
+  <data key="d0">819</data>
+  <data key="d1">84</data>
+</edge>
+<edge source="CCT7" target="HSPA5">
+  <data key="d0">783</data>
+  <data key="d1">126</data>
+</edge>
+<edge source="PTTG1" target="AURKA">
+  <data key="d0">967</data>
+  <data key="d1">329</data>
+</edge>
+<edge source="PTTG1" target="CCNB1">
+  <data key="d0">984</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PTTG1" target="TP53">
+  <data key="d0">775</data>
+  <data key="d1">510</data>
+</edge>
+<edge source="PTTG1" target="RAD21">
+  <data key="d0">789</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PTTG1" target="PLK1">
+  <data key="d0">956</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="STAT3" target="CD4">
+  <data key="d0">892</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="STAT3" target="TNFRSF1A">
+  <data key="d0">829</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="STAT3" target="MAPK14">
+  <data key="d0">718</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="STAT3" target="CDH1">
+  <data key="d0">732</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="STAT3" target="CREBBP">
+  <data key="d0">935</data>
+  <data key="d1">512</data>
+</edge>
+<edge source="STAT3" target="EP300">
+  <data key="d0">999</data>
+  <data key="d1">857</data>
+</edge>
+<edge source="STAT3" target="AKT1">
+  <data key="d0">966</data>
+  <data key="d1">96</data>
+</edge>
+<edge source="STAT3" target="MTOR">
+  <data key="d0">926</data>
+  <data key="d1">735</data>
+</edge>
+<edge source="STAT3" target="TLR4">
+  <data key="d0">846</data>
+  <data key="d1">45</data>
+</edge>
+<edge source="STAT3" target="ESR1">
+  <data key="d0">930</data>
+  <data key="d1">476</data>
+</edge>
+<edge source="STAT3" target="NDUFA13">
+  <data key="d0">937</data>
+  <data key="d1">335</data>
+</edge>
+<edge source="STAT3" target="GAPDH">
+  <data key="d0">807</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="STAT3" target="MYC">
+  <data key="d0">985</data>
+  <data key="d1">612</data>
+</edge>
+<edge source="STAT3" target="SRC">
+  <data key="d0">999</data>
+  <data key="d1">842</data>
+</edge>
+<edge source="STAT3" target="HSP90AB1">
+  <data key="d0">890</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="STAT3" target="TP53">
+  <data key="d0">994</data>
+  <data key="d1">164</data>
+</edge>
+<edge source="STAT3" target="EZH2">
+  <data key="d0">973</data>
+  <data key="d1">297</data>
+</edge>
+<edge source="HSD17B10" target="AGO2">
+  <data key="d0">902</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HSD17B10" target="ACAA2">
+  <data key="d0">980</data>
+  <data key="d1">187</data>
+</edge>
+<edge source="HSD17B10" target="ACAA1">
+  <data key="d0">969</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="MTOR" target="TSC2">
+  <data key="d0">990</data>
+  <data key="d1">458</data>
+</edge>
+<edge source="MTOR" target="TP53">
+  <data key="d0">874</data>
+  <data key="d1">466</data>
+</edge>
+<edge source="MTOR" target="HSPA4">
+  <data key="d0">748</data>
+  <data key="d1">313</data>
+</edge>
+<edge source="MTOR" target="UBC">
+  <data key="d0">996</data>
+  <data key="d1">994</data>
+</edge>
+<edge source="MTOR" target="AKT1">
+  <data key="d0">999</data>
+  <data key="d1">926</data>
+</edge>
+<edge source="MTOR" target="RHOA">
+  <data key="d0">958</data>
+  <data key="d1">139</data>
+</edge>
+<edge source="MTOR" target="HSP90AB1">
+  <data key="d0">998</data>
+  <data key="d1">995</data>
+</edge>
+<edge source="MTOR" target="SRC">
+  <data key="d0">793</data>
+  <data key="d1">73</data>
+</edge>
+<edge source="MTOR" target="CHUK">
+  <data key="d0">973</data>
+  <data key="d1">526</data>
+</edge>
+<edge source="MTOR" target="ESR1">
+  <data key="d0">745</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="MTOR" target="GAPDH">
+  <data key="d0">701</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="MTOR" target="MYC">
+  <data key="d0">730</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="MGLL" target="PALB2">
+  <data key="d0">828</data>
+  <data key="d1">770</data>
+</edge>
+<edge source="MGLL" target="ACSL3">
+  <data key="d0">866</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="MGLL" target="NDUFS1">
+  <data key="d0">975</data>
+  <data key="d1">945</data>
+</edge>
+<edge source="MGLL" target="NDUFA13">
+  <data key="d0">945</data>
+  <data key="d1">945</data>
+</edge>
+<edge source="MGLL" target="LPL">
+  <data key="d0">967</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HSPA4" target="CD4">
+  <data key="d0">712</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HSPA4" target="HSPE1">
+  <data key="d0">930</data>
+  <data key="d1">230</data>
+</edge>
+<edge source="HSPA4" target="H3-3B">
+  <data key="d0">706</data>
+  <data key="d1">69</data>
+</edge>
+<edge source="HSPA4" target="HSPBP1">
+  <data key="d0">998</data>
+  <data key="d1">619</data>
+</edge>
+<edge source="HSPA4" target="TP53">
+  <data key="d0">997</data>
+  <data key="d1">866</data>
+</edge>
+<edge source="HSPA4" target="TOMM70">
+  <data key="d0">988</data>
+  <data key="d1">160</data>
+</edge>
+<edge source="HSPA4" target="HSPA9">
+  <data key="d0">955</data>
+  <data key="d1">216</data>
+</edge>
+<edge source="HSPA4" target="TLR4">
+  <data key="d0">996</data>
+  <data key="d1">337</data>
+</edge>
+<edge source="HSPA4" target="PARK7">
+  <data key="d0">953</data>
+  <data key="d1">553</data>
+</edge>
+<edge source="HSPA4" target="PINK1">
+  <data key="d0">847</data>
+  <data key="d1">544</data>
+</edge>
+<edge source="HSPA4" target="HSPA5">
+  <data key="d0">915</data>
+  <data key="d1">412</data>
+</edge>
+<edge source="HSPA4" target="TCP1">
+  <data key="d0">888</data>
+  <data key="d1">350</data>
+</edge>
+<edge source="HSPA4" target="AKT1">
+  <data key="d0">964</data>
+  <data key="d1">331</data>
+</edge>
+<edge source="HSPA4" target="CCT4">
+  <data key="d0">849</data>
+  <data key="d1">126</data>
+</edge>
+<edge source="HSPA4" target="SRC">
+  <data key="d0">858</data>
+  <data key="d1">202</data>
+</edge>
+<edge source="HSPA4" target="CYCS">
+  <data key="d0">866</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HSPA4" target="HSP90AB1">
+  <data key="d0">999</data>
+  <data key="d1">716</data>
+</edge>
+<edge source="HSPA4" target="PSMC2">
+  <data key="d0">700</data>
+  <data key="d1">331</data>
+</edge>
+<edge source="HSPA4" target="MYC">
+  <data key="d0">839</data>
+  <data key="d1">174</data>
+</edge>
+<edge source="HSPA4" target="GAPDH">
+  <data key="d0">901</data>
+  <data key="d1">105</data>
+</edge>
+<edge source="HSPA4" target="ESR1">
+  <data key="d0">931</data>
+  <data key="d1">801</data>
+</edge>
+<edge source="HSPA4" target="CHUK">
+  <data key="d0">715</data>
+  <data key="d1">94</data>
+</edge>
+<edge source="IDI1" target="MVK">
+  <data key="d0">879</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="IDI1" target="HSD17B7">
+  <data key="d0">805</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="IDI1" target="PARK7">
+  <data key="d0">792</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="IDI1" target="SREBF1">
+  <data key="d0">706</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="DBT" target="DLD">
+  <data key="d0">999</data>
+  <data key="d1">964</data>
+</edge>
+<edge source="DBT" target="SDHA">
+  <data key="d0">714</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="DBT" target="ACAA2">
+  <data key="d0">865</data>
+  <data key="d1">136</data>
+</edge>
+<edge source="DBT" target="BCKDHB">
+  <data key="d0">999</data>
+  <data key="d1">691</data>
+</edge>
+<edge source="DBT" target="ACAA1">
+  <data key="d0">848</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="DBT" target="CS">
+  <data key="d0">865</data>
+  <data key="d1">210</data>
+</edge>
+<edge source="DBT" target="MCCC2">
+  <data key="d0">755</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="DBT" target="RNF8">
+  <data key="d0">803</data>
+  <data key="d1">747</data>
+</edge>
+<edge source="DBT" target="ACLY">
+  <data key="d0">763</data>
+  <data key="d1">99</data>
+</edge>
+<edge source="DBT" target="PPM1K">
+  <data key="d0">929</data>
+  <data key="d1">792</data>
+</edge>
+<edge source="DBT" target="BCKDK">
+  <data key="d0">818</data>
+  <data key="d1">204</data>
+</edge>
+<edge source="BCKDHB" target="DLD">
+  <data key="d0">999</data>
+  <data key="d1">290</data>
+</edge>
+<edge source="BCKDHB" target="PPM1K">
+  <data key="d0">962</data>
+  <data key="d1">849</data>
+</edge>
+<edge source="BCKDHB" target="ATP5F1C">
+  <data key="d0">737</data>
+  <data key="d1">73</data>
+</edge>
+<edge source="BCKDHB" target="BCKDK">
+  <data key="d0">851</data>
+  <data key="d1">95</data>
+</edge>
+<edge source="BCKDHB" target="LDHA">
+  <data key="d0">928</data>
+  <data key="d1">95</data>
+</edge>
+<edge source="BCKDHB" target="MCCC2">
+  <data key="d0">839</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="BCKDHB" target="CS">
+  <data key="d0">894</data>
+  <data key="d1">144</data>
+</edge>
+<edge source="BCKDHB" target="HACL1">
+  <data key="d0">712</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="YWHAZ" target="TSC2">
+  <data key="d0">952</data>
+  <data key="d1">841</data>
+</edge>
+<edge source="YWHAZ" target="TBP">
+  <data key="d0">704</data>
+  <data key="d1">66</data>
+</edge>
+<edge source="YWHAZ" target="AANAT">
+  <data key="d0">972</data>
+  <data key="d1">635</data>
+</edge>
+<edge source="YWHAZ" target="H3-3B">
+  <data key="d0">706</data>
+  <data key="d1">95</data>
+</edge>
+<edge source="YWHAZ" target="SDHA">
+  <data key="d0">822</data>
+  <data key="d1">69</data>
+</edge>
+<edge source="YWHAZ" target="TP53">
+  <data key="d0">991</data>
+  <data key="d1">695</data>
+</edge>
+<edge source="YWHAZ" target="HSP90AB1">
+  <data key="d0">835</data>
+  <data key="d1">186</data>
+</edge>
+<edge source="YWHAZ" target="GAPDH">
+  <data key="d0">773</data>
+  <data key="d1">104</data>
+</edge>
+<edge source="YWHAZ" target="AKT1">
+  <data key="d0">851</data>
+  <data key="d1">503</data>
+</edge>
+<edge source="PPP1R15A" target="CYCS">
+  <data key="d0">785</data>
+  <data key="d1">417</data>
+</edge>
+<edge source="PPP1R15A" target="NDUFS1">
+  <data key="d0">859</data>
+  <data key="d1">540</data>
+</edge>
+<edge source="GAN" target="KLHL20">
+  <data key="d0">918</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="GAN" target="RBX1">
+  <data key="d0">966</data>
+  <data key="d1">296</data>
+</edge>
+<edge source="GAN" target="KLHL25">
+  <data key="d0">921</data>
+  <data key="d1">86</data>
+</edge>
+<edge source="GAN" target="KLHL42">
+  <data key="d0">922</data>
+  <data key="d1">62</data>
+</edge>
+<edge source="GAN" target="KEAP1">
+  <data key="d0">918</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HSPA5" target="HSPE1">
+  <data key="d0">725</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="HSPA5" target="HSPBP1">
+  <data key="d0">912</data>
+  <data key="d1">738</data>
+</edge>
+<edge source="HSPA5" target="TP53">
+  <data key="d0">824</data>
+  <data key="d1">594</data>
+</edge>
+<edge source="HSPA5" target="HSPA9">
+  <data key="d0">883</data>
+  <data key="d1">184</data>
+</edge>
+<edge source="HSPA5" target="CYCS">
+  <data key="d0">738</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HSPA5" target="TCP1">
+  <data key="d0">894</data>
+  <data key="d1">126</data>
+</edge>
+<edge source="HSPA5" target="AKT1">
+  <data key="d0">971</data>
+  <data key="d1">637</data>
+</edge>
+<edge source="HSPA5" target="GAPDH">
+  <data key="d0">806</data>
+  <data key="d1">110</data>
+</edge>
+<edge source="HSPA5" target="HSP90AB1">
+  <data key="d0">977</data>
+  <data key="d1">396</data>
+</edge>
+<edge source="CAP1" target="PHLPP1">
+  <data key="d0">708</data>
+  <data key="d1">613</data>
+</edge>
+<edge source="CAP1" target="GRXCR1">
+  <data key="d0">744</data>
+  <data key="d1">744</data>
+</edge>
+<edge source="RNF8" target="RPS27A">
+  <data key="d0">917</data>
+  <data key="d1">824</data>
+</edge>
+<edge source="RNF8" target="UBC">
+  <data key="d0">908</data>
+  <data key="d1">791</data>
+</edge>
+<edge source="NDUFS1" target="DLD">
+  <data key="d0">946</data>
+  <data key="d1">96</data>
+</edge>
+<edge source="NDUFS1" target="LRPPRC">
+  <data key="d0">719</data>
+  <data key="d1">166</data>
+</edge>
+<edge source="NDUFS1" target="PALB2">
+  <data key="d0">941</data>
+  <data key="d1">842</data>
+</edge>
+<edge source="NDUFS1" target="SDHA">
+  <data key="d0">995</data>
+  <data key="d1">127</data>
+</edge>
+<edge source="NDUFS1" target="ATP5PO">
+  <data key="d0">730</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="NDUFS1" target="CYCS">
+  <data key="d0">782</data>
+  <data key="d1">95</data>
+</edge>
+<edge source="NDUFS1" target="CS">
+  <data key="d0">737</data>
+  <data key="d1">203</data>
+</edge>
+<edge source="NDUFS1" target="ATP5F1C">
+  <data key="d0">959</data>
+  <data key="d1">353</data>
+</edge>
+<edge source="NDUFS1" target="PINK1">
+  <data key="d0">742</data>
+  <data key="d1">79</data>
+</edge>
+<edge source="NDUFS1" target="NDUFAF6">
+  <data key="d0">849</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="NDUFS1" target="INO80D">
+  <data key="d0">781</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="NDUFS1" target="NDUFA13">
+  <data key="d0">999</data>
+  <data key="d1">998</data>
+</edge>
+<edge source="ESCO1" target="AANAT">
+  <data key="d0">720</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ESCO1" target="RAD21">
+  <data key="d0">959</data>
+  <data key="d1">410</data>
+</edge>
+<edge source="LSG1" target="NIP7">
+  <data key="d0">834</data>
+  <data key="d1">467</data>
+</edge>
+<edge source="LSG1" target="RPLP0">
+  <data key="d0">777</data>
+  <data key="d1">583</data>
+</edge>
+<edge source="LSG1" target="RPL27">
+  <data key="d0">987</data>
+  <data key="d1">913</data>
+</edge>
+<edge source="LSG1" target="EXOSC10">
+  <data key="d0">710</data>
+  <data key="d1">260</data>
+</edge>
+<edge source="LSG1" target="EIF6">
+  <data key="d0">995</data>
+  <data key="d1">988</data>
+</edge>
+<edge source="HMGCL" target="MVK">
+  <data key="d0">871</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HMGCL" target="ACAA2">
+  <data key="d0">966</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HMGCL" target="ACAA1">
+  <data key="d0">965</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HMGCL" target="CS">
+  <data key="d0">916</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HMGCL" target="MCCC2">
+  <data key="d0">906</data>
+  <data key="d1">272</data>
+</edge>
+<edge source="HMGCL" target="ACLY">
+  <data key="d0">889</data>
+  <data key="d1">69</data>
+</edge>
+<edge source="ACLY" target="MLX">
+  <data key="d0">754</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACLY" target="SDHA">
+  <data key="d0">964</data>
+  <data key="d1">226</data>
+</edge>
+<edge source="ACLY" target="ACAA2">
+  <data key="d0">912</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACLY" target="IDH2">
+  <data key="d0">900</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACLY" target="ACAA1">
+  <data key="d0">910</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACLY" target="KLHL25">
+  <data key="d0">710</data>
+  <data key="d1">578</data>
+</edge>
+<edge source="ACLY" target="CS">
+  <data key="d0">998</data>
+  <data key="d1">738</data>
+</edge>
+<edge source="ACLY" target="SREBF1">
+  <data key="d0">795</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACLY" target="ATP5F1C">
+  <data key="d0">704</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="ACLY" target="GAPDH">
+  <data key="d0">760</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACLY" target="LDHA">
+  <data key="d0">814</data>
+  <data key="d1">71</data>
+</edge>
+<edge source="ACLY" target="AKT1">
+  <data key="d0">711</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="EZH2" target="SNAI2">
+  <data key="d0">843</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="EZH2" target="AURKA">
+  <data key="d0">761</data>
+  <data key="d1">102</data>
+</edge>
+<edge source="EZH2" target="AGO2">
+  <data key="d0">779</data>
+  <data key="d1">313</data>
+</edge>
+<edge source="EZH2" target="H3-3B">
+  <data key="d0">990</data>
+  <data key="d1">522</data>
+</edge>
+<edge source="EZH2" target="CREBBP">
+  <data key="d0">818</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="EZH2" target="EP300">
+  <data key="d0">963</data>
+  <data key="d1">593</data>
+</edge>
+<edge source="EZH2" target="DNMT3A">
+  <data key="d0">999</data>
+  <data key="d1">519</data>
+</edge>
+<edge source="EZH2" target="PML">
+  <data key="d0">741</data>
+  <data key="d1">306</data>
+</edge>
+<edge source="EZH2" target="TP53">
+  <data key="d0">899</data>
+  <data key="d1">130</data>
+</edge>
+<edge source="EZH2" target="SUZ12">
+  <data key="d0">999</data>
+  <data key="d1">999</data>
+</edge>
+<edge source="EZH2" target="MYC">
+  <data key="d0">984</data>
+  <data key="d1">742</data>
+</edge>
+<edge source="EZH2" target="ESR1">
+  <data key="d0">915</data>
+  <data key="d1">321</data>
+</edge>
+<edge source="EZH2" target="AKT1">
+  <data key="d0">867</data>
+  <data key="d1">319</data>
+</edge>
+<edge source="EZH2" target="IDH2">
+  <data key="d0">708</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="EZH2" target="ASXL2">
+  <data key="d0">857</data>
+  <data key="d1">185</data>
+</edge>
+<edge source="CUL7" target="RBX1">
+  <data key="d0">999</data>
+  <data key="d1">882</data>
+</edge>
+<edge source="CUL7" target="HSPBP1">
+  <data key="d0">775</data>
+  <data key="d1">452</data>
+</edge>
+<edge source="CUL7" target="TP53">
+  <data key="d0">969</data>
+  <data key="d1">896</data>
+</edge>
+<edge source="CUL7" target="RPS27A">
+  <data key="d0">735</data>
+  <data key="d1">302</data>
+</edge>
+<edge source="CUL7" target="ATP5PO">
+  <data key="d0">789</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="CUL7" target="ATP5F1C">
+  <data key="d0">763</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CUL7" target="EIF6">
+  <data key="d0">896</data>
+  <data key="d1">838</data>
+</edge>
+<edge source="CUL7" target="RPS14">
+  <data key="d0">879</data>
+  <data key="d1">636</data>
+</edge>
+<edge source="CUL7" target="RPLP0">
+  <data key="d0">917</data>
+  <data key="d1">687</data>
+</edge>
+<edge source="CUL7" target="RPL27">
+  <data key="d0">797</data>
+  <data key="d1">479</data>
+</edge>
+<edge source="CUL7" target="UBC">
+  <data key="d0">799</data>
+  <data key="d1">485</data>
+</edge>
+<edge source="MYC" target="SNAI2">
+  <data key="d0">782</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="MYC" target="RBX1">
+  <data key="d0">834</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="MYC" target="AURKA">
+  <data key="d0">914</data>
+  <data key="d1">175</data>
+</edge>
+<edge source="MYC" target="AGO2">
+  <data key="d0">851</data>
+  <data key="d1">200</data>
+</edge>
+<edge source="MYC" target="MAPK14">
+  <data key="d0">710</data>
+  <data key="d1">166</data>
+</edge>
+<edge source="MYC" target="TBP">
+  <data key="d0">953</data>
+  <data key="d1">510</data>
+</edge>
+<edge source="MYC" target="YEATS4">
+  <data key="d0">905</data>
+  <data key="d1">814</data>
+</edge>
+<edge source="MYC" target="H3-3B">
+  <data key="d0">938</data>
+  <data key="d1">319</data>
+</edge>
+<edge source="MYC" target="CCNB1">
+  <data key="d0">872</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="MYC" target="CDH1">
+  <data key="d0">804</data>
+  <data key="d1">102</data>
+</edge>
+<edge source="MYC" target="CREBBP">
+  <data key="d0">945</data>
+  <data key="d1">583</data>
+</edge>
+<edge source="MYC" target="EP300">
+  <data key="d0">999</data>
+  <data key="d1">783</data>
+</edge>
+<edge source="MYC" target="DNMT3A">
+  <data key="d0">991</data>
+  <data key="d1">516</data>
+</edge>
+<edge source="MYC" target="PML">
+  <data key="d0">783</data>
+  <data key="d1">693</data>
+</edge>
+<edge source="MYC" target="TP53">
+  <data key="d0">997</data>
+  <data key="d1">300</data>
+</edge>
+<edge source="MYC" target="RPS27A">
+  <data key="d0">844</data>
+  <data key="d1">779</data>
+</edge>
+<edge source="MYC" target="RAD21">
+  <data key="d0">848</data>
+  <data key="d1">139</data>
+</edge>
+<edge source="MYC" target="PLK1">
+  <data key="d0">844</data>
+  <data key="d1">611</data>
+</edge>
+<edge source="MYC" target="SUZ12">
+  <data key="d0">827</data>
+  <data key="d1">317</data>
+</edge>
+<edge source="MYC" target="SREBF1">
+  <data key="d0">810</data>
+  <data key="d1">60</data>
+</edge>
+<edge source="MYC" target="CHUK">
+  <data key="d0">879</data>
+  <data key="d1">543</data>
+</edge>
+<edge source="MYC" target="HSP90AB1">
+  <data key="d0">890</data>
+  <data key="d1">174</data>
+</edge>
+<edge source="MYC" target="SRC">
+  <data key="d0">805</data>
+  <data key="d1">45</data>
+</edge>
+<edge source="MYC" target="G3BP1">
+  <data key="d0">768</data>
+  <data key="d1">174</data>
+</edge>
+<edge source="MYC" target="GAPDH">
+  <data key="d0">850</data>
+  <data key="d1">174</data>
+</edge>
+<edge source="MYC" target="RHOA">
+  <data key="d0">727</data>
+  <data key="d1">45</data>
+</edge>
+<edge source="MYC" target="ESR1">
+  <data key="d0">982</data>
+  <data key="d1">621</data>
+</edge>
+<edge source="MYC" target="HRAS">
+  <data key="d0">871</data>
+  <data key="d1">45</data>
+</edge>
+<edge source="MYC" target="LDHA">
+  <data key="d0">817</data>
+  <data key="d1">441</data>
+</edge>
+<edge source="MYC" target="AKT1">
+  <data key="d0">928</data>
+  <data key="d1">169</data>
+</edge>
+<edge source="TLR4" target="CD4">
+  <data key="d0">902</data>
+  <data key="d1">97</data>
+</edge>
+<edge source="TLR4" target="TNFRSF1A">
+  <data key="d0">949</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TLR4" target="RIPK2">
+  <data key="d0">756</data>
+  <data key="d1">177</data>
+</edge>
+<edge source="TLR4" target="MAPK14">
+  <data key="d0">762</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TLR4" target="HSPA9">
+  <data key="d0">917</data>
+  <data key="d1">102</data>
+</edge>
+<edge source="TLR4" target="CHUK">
+  <data key="d0">852</data>
+  <data key="d1">100</data>
+</edge>
+<edge source="TLR4" target="HSP90AB1">
+  <data key="d0">988</data>
+  <data key="d1">63</data>
+</edge>
+<edge source="TLR4" target="SRC">
+  <data key="d0">880</data>
+  <data key="d1">577</data>
+</edge>
+<edge source="TLR4" target="AKT1">
+  <data key="d0">769</data>
+  <data key="d1">100</data>
+</edge>
+<edge source="TLR4" target="ERVW-1">
+  <data key="d0">982</data>
+  <data key="d1">53</data>
+</edge>
+<edge source="TLR4" target="GAPDH">
+  <data key="d0">761</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="RHOA" target="RALA">
+  <data key="d0">930</data>
+  <data key="d1">212</data>
+</edge>
+<edge source="RHOA" target="MAPK14">
+  <data key="d0">702</data>
+  <data key="d1">125</data>
+</edge>
+<edge source="RHOA" target="CDH1">
+  <data key="d0">751</data>
+  <data key="d1">140</data>
+</edge>
+<edge source="RHOA" target="RPS27A">
+  <data key="d0">848</data>
+  <data key="d1">650</data>
+</edge>
+<edge source="RHOA" target="RASA1">
+  <data key="d0">813</data>
+  <data key="d1">92</data>
+</edge>
+<edge source="RHOA" target="RHOC">
+  <data key="d0">951</data>
+  <data key="d1">834</data>
+</edge>
+<edge source="RHOA" target="SRC">
+  <data key="d0">992</data>
+  <data key="d1">110</data>
+</edge>
+<edge source="RHOA" target="GAPDH">
+  <data key="d0">803</data>
+  <data key="d1">71</data>
+</edge>
+<edge source="RHOA" target="UBC">
+  <data key="d0">734</data>
+  <data key="d1">335</data>
+</edge>
+<edge source="RHOA" target="AKT1">
+  <data key="d0">904</data>
+  <data key="d1">110</data>
+</edge>
+<edge source="RHOA" target="MRTFA">
+  <data key="d0">887</data>
+  <data key="d1">60</data>
+</edge>
+<edge source="EP300" target="MAPK14">
+  <data key="d0">741</data>
+  <data key="d1">510</data>
+</edge>
+<edge source="EP300" target="TBP">
+  <data key="d0">946</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="EP300" target="H3-3B">
+  <data key="d0">962</data>
+  <data key="d1">522</data>
+</edge>
+<edge source="EP300" target="CCNB1">
+  <data key="d0">816</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="EP300" target="TGS1">
+  <data key="d0">794</data>
+  <data key="d1">521</data>
+</edge>
+<edge source="EP300" target="CREBBP">
+  <data key="d0">999</data>
+  <data key="d1">783</data>
+</edge>
+<edge source="EP300" target="SRC">
+  <data key="d0">959</data>
+  <data key="d1">299</data>
+</edge>
+<edge source="EP300" target="HSP90AB1">
+  <data key="d0">739</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="EP300" target="TP53">
+  <data key="d0">999</data>
+  <data key="d1">999</data>
+</edge>
+<edge source="EP300" target="SREBF1">
+  <data key="d0">963</data>
+  <data key="d1">785</data>
+</edge>
+<edge source="EP300" target="SUZ12">
+  <data key="d0">745</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="EP300" target="RAD21">
+  <data key="d0">754</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="EP300" target="GAPDH">
+  <data key="d0">787</data>
+  <data key="d1">334</data>
+</edge>
+<edge source="EP300" target="CHUK">
+  <data key="d0">742</data>
+  <data key="d1">231</data>
+</edge>
+<edge source="EP300" target="USF1">
+  <data key="d0">912</data>
+  <data key="d1">302</data>
+</edge>
+<edge source="EP300" target="ESR1">
+  <data key="d0">997</data>
+  <data key="d1">927</data>
+</edge>
+<edge source="EP300" target="UBC">
+  <data key="d0">791</data>
+  <data key="d1">510</data>
+</edge>
+<edge source="EP300" target="MRTFA">
+  <data key="d0">710</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="EP300" target="PML">
+  <data key="d0">852</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="EP300" target="AKT1">
+  <data key="d0">954</data>
+  <data key="d1">821</data>
+</edge>
+<edge source="NIP7" target="SBDS">
+  <data key="d0">734</data>
+  <data key="d1">95</data>
+</edge>
+<edge source="NIP7" target="RPLP0">
+  <data key="d0">949</data>
+  <data key="d1">811</data>
+</edge>
+<edge source="NIP7" target="RPL27">
+  <data key="d0">900</data>
+  <data key="d1">854</data>
+</edge>
+<edge source="NIP7" target="EIF6">
+  <data key="d0">985</data>
+  <data key="d1">924</data>
+</edge>
+<edge source="ACADM" target="AASDH">
+  <data key="d0">714</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACADM" target="ACAA2">
+  <data key="d0">937</data>
+  <data key="d1">206</data>
+</edge>
+<edge source="ACADM" target="ACAA1">
+  <data key="d0">811</data>
+  <data key="d1">51</data>
+</edge>
+<edge source="ACADM" target="GRXCR1">
+  <data key="d0">795</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACADM" target="ECI2">
+  <data key="d0">916</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="BCKDK" target="DLD">
+  <data key="d0">773</data>
+  <data key="d1">45</data>
+</edge>
+<edge source="BCKDK" target="PPM1K">
+  <data key="d0">843</data>
+  <data key="d1">269</data>
+</edge>
+<edge source="BCKDK" target="PSMC2">
+  <data key="d0">701</data>
+  <data key="d1">46</data>
+</edge>
+<edge source="ESR1" target="AURKA">
+  <data key="d0">769</data>
+  <data key="d1">302</data>
+</edge>
+<edge source="ESR1" target="TSC2">
+  <data key="d0">818</data>
+  <data key="d1">518</data>
+</edge>
+<edge source="ESR1" target="MAPK14">
+  <data key="d0">954</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ESR1" target="TBP">
+  <data key="d0">949</data>
+  <data key="d1">516</data>
+</edge>
+<edge source="ESR1" target="H3-3B">
+  <data key="d0">816</data>
+  <data key="d1">125</data>
+</edge>
+<edge source="ESR1" target="CDH1">
+  <data key="d0">803</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ESR1" target="CREBBP">
+  <data key="d0">993</data>
+  <data key="d1">845</data>
+</edge>
+<edge source="ESR1" target="TP53">
+  <data key="d0">992</data>
+  <data key="d1">735</data>
+</edge>
+<edge source="ESR1" target="PPARGC1B">
+  <data key="d0">895</data>
+  <data key="d1">474</data>
+</edge>
+<edge source="ESR1" target="USF1">
+  <data key="d0">796</data>
+  <data key="d1">53</data>
+</edge>
+<edge source="ESR1" target="CHUK">
+  <data key="d0">735</data>
+  <data key="d1">250</data>
+</edge>
+<edge source="ESR1" target="HSP90AB1">
+  <data key="d0">993</data>
+  <data key="d1">319</data>
+</edge>
+<edge source="ESR1" target="SRC">
+  <data key="d0">999</data>
+  <data key="d1">925</data>
+</edge>
+<edge source="ESR1" target="CYP1A1">
+  <data key="d0">785</data>
+  <data key="d1">56</data>
+</edge>
+<edge source="ESR1" target="GAPDH">
+  <data key="d0">800</data>
+  <data key="d1">319</data>
+</edge>
+<edge source="ESR1" target="ESRRA">
+  <data key="d0">888</data>
+  <data key="d1">517</data>
+</edge>
+<edge source="ESR1" target="HRAS">
+  <data key="d0">715</data>
+  <data key="d1">73</data>
+</edge>
+<edge source="ESR1" target="AKT1">
+  <data key="d0">913</data>
+  <data key="d1">314</data>
+</edge>
+<edge source="RAD21" target="TBP">
+  <data key="d0">793</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="RAD21" target="H3-3B">
+  <data key="d0">791</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="RAD21" target="CCNB1">
+  <data key="d0">741</data>
+  <data key="d1">301</data>
+</edge>
+<edge source="RAD21" target="SUZ12">
+  <data key="d0">727</data>
+  <data key="d1">44</data>
+</edge>
+<edge source="RAD21" target="PLK1">
+  <data key="d0">894</data>
+  <data key="d1">514</data>
+</edge>
+<edge source="MED17" target="TBP">
+  <data key="d0">962</data>
+  <data key="d1">882</data>
+</edge>
+<edge source="MED17" target="TP53">
+  <data key="d0">914</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="MED17" target="MED8">
+  <data key="d0">999</data>
+  <data key="d1">984</data>
+</edge>
+<edge source="MED17" target="PPARGC1B">
+  <data key="d0">900</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SUZ12" target="SNAI2">
+  <data key="d0">770</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SUZ12" target="WDR77">
+  <data key="d0">817</data>
+  <data key="d1">510</data>
+</edge>
+<edge source="SUZ12" target="H3-3B">
+  <data key="d0">962</data>
+  <data key="d1">367</data>
+</edge>
+<edge source="SUZ12" target="DNMT3A">
+  <data key="d0">798</data>
+  <data key="d1">95</data>
+</edge>
+<edge source="SUZ12" target="TP53">
+  <data key="d0">791</data>
+  <data key="d1">164</data>
+</edge>
+<edge source="SUZ12" target="ASXL2">
+  <data key="d0">756</data>
+  <data key="d1">132</data>
+</edge>
+<edge source="HRAS" target="RALA">
+  <data key="d0">831</data>
+  <data key="d1">446</data>
+</edge>
+<edge source="HRAS" target="AURKA">
+  <data key="d0">744</data>
+  <data key="d1">60</data>
+</edge>
+<edge source="HRAS" target="TP53">
+  <data key="d0">925</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="HRAS" target="RASA1">
+  <data key="d0">999</data>
+  <data key="d1">982</data>
+</edge>
+<edge source="HRAS" target="SRC">
+  <data key="d0">994</data>
+  <data key="d1">497</data>
+</edge>
+<edge source="HRAS" target="AKT1">
+  <data key="d0">896</data>
+  <data key="d1">110</data>
+</edge>
+<edge source="AANAT" target="IDO1">
+  <data key="d0">931</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="AANAT" target="PPM1K">
+  <data key="d0">746</data>
+  <data key="d1">746</data>
+</edge>
+<edge source="DNMT3A" target="H3-3B">
+  <data key="d0">999</data>
+  <data key="d1">941</data>
+</edge>
+<edge source="DNMT3A" target="TP53">
+  <data key="d0">835</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="DNMT3A" target="ASXL2">
+  <data key="d0">735</data>
+  <data key="d1">74</data>
+</edge>
+<edge source="DNMT3A" target="IDH2">
+  <data key="d0">793</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="MLX" target="PPARGC1B">
+  <data key="d0">900</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="RAB2A" target="GAPDH">
+  <data key="d0">754</data>
+  <data key="d1">71</data>
+</edge>
+<edge source="RAB2A" target="RASA1">
+  <data key="d0">706</data>
+  <data key="d1">95</data>
+</edge>
+<edge source="PPT2" target="ACSL3">
+  <data key="d0">848</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PPT2" target="PPT1">
+  <data key="d0">936</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HSP90AB1" target="TSC2">
+  <data key="d0">743</data>
+  <data key="d1">517</data>
+</edge>
+<edge source="HSP90AB1" target="AGO2">
+  <data key="d0">992</data>
+  <data key="d1">330</data>
+</edge>
+<edge source="HSP90AB1" target="RIPK2">
+  <data key="d0">928</data>
+  <data key="d1">136</data>
+</edge>
+<edge source="HSP90AB1" target="HSPE1">
+  <data key="d0">928</data>
+  <data key="d1">228</data>
+</edge>
+<edge source="HSP90AB1" target="H3-3B">
+  <data key="d0">742</data>
+  <data key="d1">75</data>
+</edge>
+<edge source="HSP90AB1" target="HSPBP1">
+  <data key="d0">902</data>
+  <data key="d1">49</data>
+</edge>
+<edge source="HSP90AB1" target="TP53">
+  <data key="d0">995</data>
+  <data key="d1">249</data>
+</edge>
+<edge source="HSP90AB1" target="RPS27A">
+  <data key="d0">712</data>
+  <data key="d1">114</data>
+</edge>
+<edge source="HSP90AB1" target="TOMM70">
+  <data key="d0">999</data>
+  <data key="d1">585</data>
+</edge>
+<edge source="HSP90AB1" target="HSPA9">
+  <data key="d0">955</data>
+  <data key="d1">272</data>
+</edge>
+<edge source="HSP90AB1" target="PLK1">
+  <data key="d0">866</data>
+  <data key="d1">141</data>
+</edge>
+<edge source="HSP90AB1" target="CYCS">
+  <data key="d0">780</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HSP90AB1" target="TCP1">
+  <data key="d0">956</data>
+  <data key="d1">210</data>
+</edge>
+<edge source="HSP90AB1" target="PARK7">
+  <data key="d0">717</data>
+  <data key="d1">80</data>
+</edge>
+<edge source="HSP90AB1" target="CHUK">
+  <data key="d0">979</data>
+  <data key="d1">514</data>
+</edge>
+<edge source="HSP90AB1" target="SRC">
+  <data key="d0">995</data>
+  <data key="d1">302</data>
+</edge>
+<edge source="HSP90AB1" target="KEAP1">
+  <data key="d0">933</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="HSP90AB1" target="GAPDH">
+  <data key="d0">872</data>
+  <data key="d1">242</data>
+</edge>
+<edge source="HSP90AB1" target="UBC">
+  <data key="d0">763</data>
+  <data key="d1">197</data>
+</edge>
+<edge source="HSP90AB1" target="PINK1">
+  <data key="d0">889</data>
+  <data key="d1">454</data>
+</edge>
+<edge source="HSP90AB1" target="AKT1">
+  <data key="d0">999</data>
+  <data key="d1">626</data>
+</edge>
+<edge source="HSP90AB1" target="RPLP0">
+  <data key="d0">762</data>
+  <data key="d1">180</data>
+</edge>
+<edge source="HSP90AB1" target="CCT4">
+  <data key="d0">946</data>
+  <data key="d1">127</data>
+</edge>
+<edge source="HSD17B7" target="MVK">
+  <data key="d0">765</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="HSD17B7" target="NDUFAF6">
+  <data key="d0">852</data>
+  <data key="d1">782</data>
+</edge>
+<edge source="HSD17B7" target="CYP1A1">
+  <data key="d0">932</data>
+  <data key="d1">146</data>
+</edge>
+<edge source="RPLP0" target="SBDS">
+  <data key="d0">750</data>
+  <data key="d1">70</data>
+</edge>
+<edge source="RPLP0" target="HSPBP1">
+  <data key="d0">831</data>
+  <data key="d1">497</data>
+</edge>
+<edge source="RPLP0" target="CDH1">
+  <data key="d0">848</data>
+  <data key="d1">801</data>
+</edge>
+<edge source="RPLP0" target="TP53">
+  <data key="d0">755</data>
+  <data key="d1">416</data>
+</edge>
+<edge source="RPLP0" target="RPS27A">
+  <data key="d0">999</data>
+  <data key="d1">993</data>
+</edge>
+<edge source="RPLP0" target="ATP5PO">
+  <data key="d0">780</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="RPLP0" target="ATP5F1C">
+  <data key="d0">905</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="RPLP0" target="EIF6">
+  <data key="d0">979</data>
+  <data key="d1">952</data>
+</edge>
+<edge source="RPLP0" target="EXOSC10">
+  <data key="d0">714</data>
+  <data key="d1">334</data>
+</edge>
+<edge source="RPLP0" target="CCT4">
+  <data key="d0">826</data>
+  <data key="d1">84</data>
+</edge>
+<edge source="RPLP0" target="GAPDH">
+  <data key="d0">874</data>
+  <data key="d1">107</data>
+</edge>
+<edge source="RPLP0" target="RPS14">
+  <data key="d0">999</data>
+  <data key="d1">983</data>
+</edge>
+<edge source="RPLP0" target="RPL27">
+  <data key="d0">999</data>
+  <data key="d1">992</data>
+</edge>
+<edge source="ESRRA" target="CYCS">
+  <data key="d0">861</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ESRRA" target="PPARGC1B">
+  <data key="d0">997</data>
+  <data key="d1">302</data>
+</edge>
+<edge source="PEX19" target="ABCD1">
+  <data key="d0">951</data>
+  <data key="d1">629</data>
+</edge>
+<edge source="PEX19" target="PEX16">
+  <data key="d0">999</data>
+  <data key="d1">886</data>
+</edge>
+<edge source="PEX19" target="AGPS">
+  <data key="d0">852</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX19" target="PEX26">
+  <data key="d0">988</data>
+  <data key="d1">609</data>
+</edge>
+<edge source="PEX19" target="ATAD1">
+  <data key="d0">741</data>
+  <data key="d1">110</data>
+</edge>
+<edge source="PEX19" target="PEX2">
+  <data key="d0">989</data>
+  <data key="d1">521</data>
+</edge>
+<edge source="PEX19" target="GNPAT">
+  <data key="d0">841</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX19" target="PEX3">
+  <data key="d0">999</data>
+  <data key="d1">998</data>
+</edge>
+<edge source="PEX19" target="CCT4">
+  <data key="d0">959</data>
+  <data key="d1">954</data>
+</edge>
+<edge source="PEX19" target="PEX11B">
+  <data key="d0">996</data>
+  <data key="d1">935</data>
+</edge>
+<edge source="PEX19" target="PEX5">
+  <data key="d0">959</data>
+  <data key="d1">74</data>
+</edge>
+<edge source="KEAP1" target="KLHL20">
+  <data key="d0">909</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="KEAP1" target="RBX1">
+  <data key="d0">999</data>
+  <data key="d1">820</data>
+</edge>
+<edge source="KEAP1" target="PALB2">
+  <data key="d0">996</data>
+  <data key="d1">847</data>
+</edge>
+<edge source="KEAP1" target="TP53">
+  <data key="d0">810</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="KEAP1" target="KLHL25">
+  <data key="d0">911</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="KEAP1" target="PARK7">
+  <data key="d0">915</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="KEAP1" target="KLHL42">
+  <data key="d0">913</data>
+  <data key="d1">62</data>
+</edge>
+<edge source="KEAP1" target="GAPDH">
+  <data key="d0">721</data>
+  <data key="d1">295</data>
+</edge>
+<edge source="KEAP1" target="AKT1">
+  <data key="d0">724</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="KEAP1" target="UBC">
+  <data key="d0">796</data>
+  <data key="d1">577</data>
+</edge>
+<edge source="PLK1" target="AURKA">
+  <data key="d0">997</data>
+  <data key="d1">690</data>
+</edge>
+<edge source="PLK1" target="H3-3B">
+  <data key="d0">820</data>
+  <data key="d1">107</data>
+</edge>
+<edge source="PLK1" target="CCNB1">
+  <data key="d0">999</data>
+  <data key="d1">588</data>
+</edge>
+<edge source="PLK1" target="TP53">
+  <data key="d0">981</data>
+  <data key="d1">737</data>
+</edge>
+<edge source="PEX5" target="PEX16">
+  <data key="d0">960</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX5" target="PHYH">
+  <data key="d0">936</data>
+  <data key="d1">165</data>
+</edge>
+<edge source="PEX5" target="AGPS">
+  <data key="d0">966</data>
+  <data key="d1">592</data>
+</edge>
+<edge source="PEX5" target="TYSND1">
+  <data key="d0">891</data>
+  <data key="d1">525</data>
+</edge>
+<edge source="PEX5" target="HACL1">
+  <data key="d0">968</data>
+  <data key="d1">510</data>
+</edge>
+<edge source="PEX5" target="PEX26">
+  <data key="d0">978</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="PEX5" target="ACAA1">
+  <data key="d0">951</data>
+  <data key="d1">362</data>
+</edge>
+<edge source="PEX5" target="PEX2">
+  <data key="d0">992</data>
+  <data key="d1">554</data>
+</edge>
+<edge source="PEX5" target="GNPAT">
+  <data key="d0">904</data>
+  <data key="d1">510</data>
+</edge>
+<edge source="PEX5" target="PEX3">
+  <data key="d0">960</data>
+  <data key="d1">161</data>
+</edge>
+<edge source="PEX5" target="PEX11B">
+  <data key="d0">932</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="PEX5" target="ECI2">
+  <data key="d0">860</data>
+  <data key="d1">521</data>
+</edge>
+<edge source="MVK" target="ACAA2">
+  <data key="d0">833</data>
+  <data key="d1">164</data>
+</edge>
+<edge source="MVK" target="SREBF1">
+  <data key="d0">736</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="UCHL5" target="RPS27A">
+  <data key="d0">906</data>
+  <data key="d1">797</data>
+</edge>
+<edge source="UCHL5" target="PSMC2">
+  <data key="d0">998</data>
+  <data key="d1">994</data>
+</edge>
+<edge source="UCHL5" target="INO80D">
+  <data key="d0">934</data>
+  <data key="d1">764</data>
+</edge>
+<edge source="UCHL5" target="UBC">
+  <data key="d0">965</data>
+  <data key="d1">894</data>
+</edge>
+<edge source="UCHL5" target="ASXL2">
+  <data key="d0">887</data>
+  <data key="d1">813</data>
+</edge>
+<edge source="TBP" target="SUPT4H1">
+  <data key="d0">725</data>
+  <data key="d1">96</data>
+</edge>
+<edge source="TBP" target="H3-3B">
+  <data key="d0">917</data>
+  <data key="d1">233</data>
+</edge>
+<edge source="TBP" target="MED8">
+  <data key="d0">929</data>
+  <data key="d1">812</data>
+</edge>
+<edge source="TBP" target="TP53">
+  <data key="d0">997</data>
+  <data key="d1">867</data>
+</edge>
+<edge source="TBP" target="SDHA">
+  <data key="d0">756</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TBP" target="USF1">
+  <data key="d0">714</data>
+  <data key="d1">78</data>
+</edge>
+<edge source="TBP" target="GAPDH">
+  <data key="d0">887</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TBP" target="UBC">
+  <data key="d0">770</data>
+  <data key="d1">319</data>
+</edge>
+<edge source="PHYH" target="TYSND1">
+  <data key="d0">849</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PHYH" target="AGPS">
+  <data key="d0">880</data>
+  <data key="d1">211</data>
+</edge>
+<edge source="PHYH" target="ACAA1">
+  <data key="d0">803</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PHYH" target="PEX2">
+  <data key="d0">765</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PHYH" target="GNPAT">
+  <data key="d0">731</data>
+  <data key="d1">165</data>
+</edge>
+<edge source="MTFR1" target="GEMIN5">
+  <data key="d0">780</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="MTFR1" target="RASA1">
+  <data key="d0">822</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SBDS" target="RPL27">
+  <data key="d0">719</data>
+  <data key="d1">319</data>
+</edge>
+<edge source="SBDS" target="RPS14">
+  <data key="d0">735</data>
+  <data key="d1">401</data>
+</edge>
+<edge source="SBDS" target="EIF6">
+  <data key="d0">859</data>
+  <data key="d1">268</data>
+</edge>
+<edge source="HACL1" target="MRTFA">
+  <data key="d0">863</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HACL1" target="CS">
+  <data key="d0">871</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="RPL27" target="CDH1">
+  <data key="d0">805</data>
+  <data key="d1">800</data>
+</edge>
+<edge source="RPL27" target="RPS27A">
+  <data key="d0">999</data>
+  <data key="d1">991</data>
+</edge>
+<edge source="RPL27" target="SNRPD2">
+  <data key="d0">754</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="RPL27" target="EIF6">
+  <data key="d0">989</data>
+  <data key="d1">978</data>
+</edge>
+<edge source="RPL27" target="CCT4">
+  <data key="d0">806</data>
+  <data key="d1">50</data>
+</edge>
+<edge source="RPL27" target="RPS14">
+  <data key="d0">999</data>
+  <data key="d1">976</data>
+</edge>
+<edge source="GNPAT" target="AGPS">
+  <data key="d0">997</data>
+  <data key="d1">447</data>
+</edge>
+<edge source="GNPAT" target="TYSND1">
+  <data key="d0">737</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="GNPAT" target="ACAA1">
+  <data key="d0">881</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="GNPAT" target="FAR1">
+  <data key="d0">978</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="GNPAT" target="PEX2">
+  <data key="d0">862</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ATP5F1C" target="DLD">
+  <data key="d0">914</data>
+  <data key="d1">96</data>
+</edge>
+<edge source="ATP5F1C" target="HSPBP1">
+  <data key="d0">754</data>
+  <data key="d1">68</data>
+</edge>
+<edge source="ATP5F1C" target="PALB2">
+  <data key="d0">739</data>
+  <data key="d1">92</data>
+</edge>
+<edge source="ATP5F1C" target="SDHA">
+  <data key="d0">750</data>
+  <data key="d1">97</data>
+</edge>
+<edge source="ATP5F1C" target="ATP5PO">
+  <data key="d0">999</data>
+  <data key="d1">946</data>
+</edge>
+<edge source="ATP5F1C" target="CS">
+  <data key="d0">726</data>
+  <data key="d1">147</data>
+</edge>
+<edge source="ATP5F1C" target="NDUFA13">
+  <data key="d0">883</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ATP5F1C" target="RPS14">
+  <data key="d0">838</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="RIPK2" target="TNFRSF1A">
+  <data key="d0">706</data>
+  <data key="d1">311</data>
+</edge>
+<edge source="RIPK2" target="CHUK">
+  <data key="d0">943</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="RIPK2" target="MAPK14">
+  <data key="d0">802</data>
+  <data key="d1">110</data>
+</edge>
+<edge source="HELZ2" target="CREBBP">
+  <data key="d0">942</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HELZ2" target="EXOSC10">
+  <data key="d0">888</data>
+  <data key="d1">621</data>
+</edge>
+<edge source="TNFRSF1A" target="CD4">
+  <data key="d0">797</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TNFRSF1A" target="SRC">
+  <data key="d0">934</data>
+  <data key="d1">627</data>
+</edge>
+<edge source="TNFRSF1A" target="TP53">
+  <data key="d0">741</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TNFRSF1A" target="CHUK">
+  <data key="d0">999</data>
+  <data key="d1">994</data>
+</edge>
+<edge source="TNFRSF1A" target="UBC">
+  <data key="d0">734</data>
+  <data key="d1">427</data>
+</edge>
+<edge source="TNFRSF1A" target="AKT1">
+  <data key="d0">817</data>
+  <data key="d1">315</data>
+</edge>
+<edge source="SDHA" target="DLD">
+  <data key="d0">815</data>
+  <data key="d1">218</data>
+</edge>
+<edge source="SDHA" target="CS">
+  <data key="d0">984</data>
+  <data key="d1">489</data>
+</edge>
+<edge source="SDHA" target="ACAA1">
+  <data key="d0">712</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SDHA" target="LDHA">
+  <data key="d0">726</data>
+  <data key="d1">76</data>
+</edge>
+<edge source="SDHA" target="SNRPD2">
+  <data key="d0">841</data>
+  <data key="d1">840</data>
+</edge>
+<edge source="SDHA" target="IDH2">
+  <data key="d0">869</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SDHA" target="HSPA9">
+  <data key="d0">774</data>
+  <data key="d1">228</data>
+</edge>
+<edge source="SDHA" target="CYCS">
+  <data key="d0">930</data>
+  <data key="d1">108</data>
+</edge>
+<edge source="SDHA" target="ACAA2">
+  <data key="d0">753</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SDHA" target="GAPDH">
+  <data key="d0">789</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SDHA" target="NDUFA13">
+  <data key="d0">768</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ABCD1" target="ACSL3">
+  <data key="d0">745</data>
+  <data key="d1">100</data>
+</edge>
+<edge source="ABCD1" target="AGPS">
+  <data key="d0">721</data>
+  <data key="d1">591</data>
+</edge>
+<edge source="ABCD1" target="PEX11B">
+  <data key="d0">812</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ABCD1" target="PEX2">
+  <data key="d0">725</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ABCD1" target="PEX16">
+  <data key="d0">777</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ABCD1" target="PEX3">
+  <data key="d0">907</data>
+  <data key="d1">616</data>
+</edge>
+<edge source="ABCD1" target="PEX26">
+  <data key="d0">740</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="MAPK14" target="TP53">
+  <data key="d0">994</data>
+  <data key="d1">818</data>
+</edge>
+<edge source="MAPK14" target="SRC">
+  <data key="d0">818</data>
+  <data key="d1">110</data>
+</edge>
+<edge source="MAPK14" target="AKT1">
+  <data key="d0">990</data>
+  <data key="d1">739</data>
+</edge>
+<edge source="PEX11B" target="PEX16">
+  <data key="d0">949</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX11B" target="PEX26">
+  <data key="d0">852</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX11B" target="PEX2">
+  <data key="d0">967</data>
+  <data key="d1">71</data>
+</edge>
+<edge source="PEX11B" target="PEX3">
+  <data key="d0">949</data>
+  <data key="d1">242</data>
+</edge>
+<edge source="TYSND1" target="AGPS">
+  <data key="d0">881</data>
+  <data key="d1">211</data>
+</edge>
+<edge source="TYSND1" target="ACAA1">
+  <data key="d0">956</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PML" target="KLHL20">
+  <data key="d0">841</data>
+  <data key="d1">772</data>
+</edge>
+<edge source="PML" target="H3-3B">
+  <data key="d0">844</data>
+  <data key="d1">340</data>
+</edge>
+<edge source="PML" target="CREBBP">
+  <data key="d0">829</data>
+  <data key="d1">783</data>
+</edge>
+<edge source="PML" target="AKT1">
+  <data key="d0">732</data>
+  <data key="d1">53</data>
+</edge>
+<edge source="PML" target="TP53">
+  <data key="d0">967</data>
+  <data key="d1">874</data>
+</edge>
+<edge source="TOMM70" target="RHOT1">
+  <data key="d0">742</data>
+  <data key="d1">92</data>
+</edge>
+<edge source="TOMM70" target="PINK1">
+  <data key="d0">888</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="TOMM70" target="ATAD1">
+  <data key="d0">746</data>
+  <data key="d1">94</data>
+</edge>
+<edge source="TOMM70" target="HSPA9">
+  <data key="d0">942</data>
+  <data key="d1">160</data>
+</edge>
+<edge source="PEX26" target="PEX16">
+  <data key="d0">957</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX26" target="AGPS">
+  <data key="d0">779</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX26" target="PEX2">
+  <data key="d0">958</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX26" target="PEX3">
+  <data key="d0">971</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="TACC1" target="AURKA">
+  <data key="d0">833</data>
+  <data key="d1">655</data>
+</edge>
+<edge source="TACC1" target="YEATS4">
+  <data key="d0">846</data>
+  <data key="d1">329</data>
+</edge>
+<edge source="SUPT4H1" target="PEX2">
+  <data key="d0">902</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="MED8" target="RBX1">
+  <data key="d0">821</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="MED8" target="PPARGC1B">
+  <data key="d0">900</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SNAI2" target="TP53">
+  <data key="d0">915</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="SNAI2" target="CDH1">
+  <data key="d0">929</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SNAI2" target="GAPDH">
+  <data key="d0">712</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SNAI2" target="AKT1">
+  <data key="d0">739</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CS" target="DLD">
+  <data key="d0">911</data>
+  <data key="d1">248</data>
+</edge>
+<edge source="CS" target="ACAA2">
+  <data key="d0">946</data>
+  <data key="d1">71</data>
+</edge>
+<edge source="CS" target="ATP5PO">
+  <data key="d0">703</data>
+  <data key="d1">138</data>
+</edge>
+<edge source="CS" target="HSPA9">
+  <data key="d0">742</data>
+  <data key="d1">128</data>
+</edge>
+<edge source="CS" target="CYCS">
+  <data key="d0">733</data>
+  <data key="d1">109</data>
+</edge>
+<edge source="CS" target="IDH2">
+  <data key="d0">994</data>
+  <data key="d1">157</data>
+</edge>
+<edge source="CS" target="ACAA1">
+  <data key="d0">942</data>
+  <data key="d1">71</data>
+</edge>
+<edge source="CS" target="LDHA">
+  <data key="d0">949</data>
+  <data key="d1">274</data>
+</edge>
+<edge source="CS" target="GAPDH">
+  <data key="d0">835</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ATAD1" target="PEX3">
+  <data key="d0">726</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ATAD1" target="ERVW-1">
+  <data key="d0">738</data>
+  <data key="d1">42</data>
+</edge>
+<edge source="ATAD1" target="CYP1A1">
+  <data key="d0">774</data>
+  <data key="d1">68</data>
+</edge>
+<edge source="NDUFA13" target="PALB2">
+  <data key="d0">978</data>
+  <data key="d1">842</data>
+</edge>
+<edge source="HSPA9" target="HSPE1">
+  <data key="d0">970</data>
+  <data key="d1">639</data>
+</edge>
+<edge source="HSPA9" target="HSPBP1">
+  <data key="d0">743</data>
+  <data key="d1">449</data>
+</edge>
+<edge source="HSPA9" target="TP53">
+  <data key="d0">998</data>
+  <data key="d1">837</data>
+</edge>
+<edge source="HSPA9" target="PARK7">
+  <data key="d0">992</data>
+  <data key="d1">354</data>
+</edge>
+<edge source="HSPA9" target="PINK1">
+  <data key="d0">725</data>
+  <data key="d1">79</data>
+</edge>
+<edge source="HSPA9" target="CCT4">
+  <data key="d0">731</data>
+  <data key="d1">126</data>
+</edge>
+<edge source="HSPA9" target="AKT1">
+  <data key="d0">711</data>
+  <data key="d1">394</data>
+</edge>
+<edge source="HSPA9" target="TCP1">
+  <data key="d0">812</data>
+  <data key="d1">126</data>
+</edge>
+<edge source="HSPA9" target="GAPDH">
+  <data key="d0">787</data>
+  <data key="d1">197</data>
+</edge>
+<edge source="H3-3B" target="AGO2">
+  <data key="d0">704</data>
+  <data key="d1">59</data>
+</edge>
+<edge source="H3-3B" target="YEATS4">
+  <data key="d0">822</data>
+  <data key="d1">184</data>
+</edge>
+<edge source="H3-3B" target="TP53">
+  <data key="d0">865</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="H3-3B" target="CHUK">
+  <data key="d0">853</data>
+  <data key="d1">95</data>
+</edge>
+<edge source="H3-3B" target="CDY1">
+  <data key="d0">863</data>
+  <data key="d1">831</data>
+</edge>
+<edge source="H3-3B" target="CCNB1">
+  <data key="d0">811</data>
+  <data key="d1">47</data>
+</edge>
+<edge source="H3-3B" target="GAPDH">
+  <data key="d0">817</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="H3-3B" target="CREBBP">
+  <data key="d0">985</data>
+  <data key="d1">902</data>
+</edge>
+<edge source="H3-3B" target="AKT1">
+  <data key="d0">790</data>
+  <data key="d1">95</data>
+</edge>
+<edge source="PPARGC1B" target="CYCS">
+  <data key="d0">857</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PPARGC1B" target="SREBF1">
+  <data key="d0">985</data>
+  <data key="d1">77</data>
+</edge>
+<edge source="WDR77" target="SNRPD2">
+  <data key="d0">981</data>
+  <data key="d1">513</data>
+</edge>
+<edge source="WDR77" target="GEMIN5">
+  <data key="d0">700</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="WDR77" target="TP53">
+  <data key="d0">787</data>
+  <data key="d1">164</data>
+</edge>
+<edge source="WDR77" target="SNRPF">
+  <data key="d0">940</data>
+  <data key="d1">310</data>
+</edge>
+<edge source="SNRPF" target="TGS1">
+  <data key="d0">988</data>
+  <data key="d1">981</data>
+</edge>
+<edge source="SNRPF" target="GEMIN5">
+  <data key="d0">965</data>
+  <data key="d1">620</data>
+</edge>
+<edge source="SNRPF" target="SNRPD2">
+  <data key="d0">999</data>
+  <data key="d1">998</data>
+</edge>
+<edge source="CHUK" target="CREBBP">
+  <data key="d0">824</data>
+  <data key="d1">739</data>
+</edge>
+<edge source="CHUK" target="TP53">
+  <data key="d0">914</data>
+  <data key="d1">345</data>
+</edge>
+<edge source="CHUK" target="SRC">
+  <data key="d0">750</data>
+  <data key="d1">510</data>
+</edge>
+<edge source="CHUK" target="AKT1">
+  <data key="d0">996</data>
+  <data key="d1">835</data>
+</edge>
+<edge source="HSPE1" target="TCP1">
+  <data key="d0">917</data>
+  <data key="d1">470</data>
+</edge>
+<edge source="HSPE1" target="CCT4">
+  <data key="d0">893</data>
+  <data key="d1">550</data>
+</edge>
+<edge source="HSPE1" target="GAPDH">
+  <data key="d0">702</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACSL3" target="AASDH">
+  <data key="d0">908</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACSL3" target="PPT1">
+  <data key="d0">841</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACSL3" target="LPL">
+  <data key="d0">914</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="RBX1" target="CD4">
+  <data key="d0">914</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="RBX1" target="KLHL20">
+  <data key="d0">986</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="RBX1" target="KLHL42">
+  <data key="d0">952</data>
+  <data key="d1">423</data>
+</edge>
+<edge source="RBX1" target="RPS27A">
+  <data key="d0">973</data>
+  <data key="d1">903</data>
+</edge>
+<edge source="RBX1" target="UBC">
+  <data key="d0">973</data>
+  <data key="d1">905</data>
+</edge>
+<edge source="RBX1" target="KLHL25">
+  <data key="d0">916</data>
+  <data key="d1">42</data>
+</edge>
+<edge source="RBX1" target="TP53">
+  <data key="d0">776</data>
+  <data key="d1">422</data>
+</edge>
+<edge source="DLD" target="IDH2">
+  <data key="d0">770</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="DLD" target="TCP1">
+  <data key="d0">769</data>
+  <data key="d1">45</data>
+</edge>
+<edge source="PALB2" target="AASDH">
+  <data key="d0">988</data>
+  <data key="d1">487</data>
+</edge>
+<edge source="PALB2" target="TP53">
+  <data key="d0">738</data>
+  <data key="d1">97</data>
+</edge>
+<edge source="AGPS" target="PEX16">
+  <data key="d0">855</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="AGPS" target="PEX3">
+  <data key="d0">857</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="AGPS" target="ACAA1">
+  <data key="d0">802</data>
+  <data key="d1">211</data>
+</edge>
+<edge source="AGPS" target="PEX2">
+  <data key="d0">876</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="AGPS" target="FAR1">
+  <data key="d0">849</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="LPL" target="SREBF1">
+  <data key="d0">732</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="AURKA" target="CCNB1">
+  <data key="d0">979</data>
+  <data key="d1">94</data>
+</edge>
+<edge source="AURKA" target="TP53">
+  <data key="d0">998</data>
+  <data key="d1">810</data>
+</edge>
+<edge source="PARK7" target="TP53">
+  <data key="d0">814</data>
+  <data key="d1">517</data>
+</edge>
+<edge source="PARK7" target="PINK1">
+  <data key="d0">999</data>
+  <data key="d1">527</data>
+</edge>
+<edge source="TGS1" target="SNRPD2">
+  <data key="d0">982</data>
+  <data key="d1">962</data>
+</edge>
+<edge source="TGS1" target="GEMIN5">
+  <data key="d0">715</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TSC2" target="TP53">
+  <data key="d0">713</data>
+  <data key="d1">88</data>
+</edge>
+<edge source="TSC2" target="RASA1">
+  <data key="d0">928</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TSC2" target="AKT1">
+  <data key="d0">990</data>
+  <data key="d1">315</data>
+</edge>
+<edge source="CYP1A1" target="IDO1">
+  <data key="d0">944</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="KLHL20" target="KLHL25">
+  <data key="d0">907</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="KLHL20" target="KLHL42">
+  <data key="d0">924</data>
+  <data key="d1">62</data>
+</edge>
+<edge source="AKT1" target="RALA">
+  <data key="d0">729</data>
+  <data key="d1">110</data>
+</edge>
+<edge source="AKT1" target="CD4">
+  <data key="d0">839</data>
+  <data key="d1">81</data>
+</edge>
+<edge source="AKT1" target="CCNB1">
+  <data key="d0">702</data>
+  <data key="d1">98</data>
+</edge>
+<edge source="AKT1" target="CDH1">
+  <data key="d0">903</data>
+  <data key="d1">165</data>
+</edge>
+<edge source="AKT1" target="CREBBP">
+  <data key="d0">854</data>
+  <data key="d1">513</data>
+</edge>
+<edge source="AKT1" target="PHLPP1">
+  <data key="d0">999</data>
+  <data key="d1">639</data>
+</edge>
+<edge source="AKT1" target="TP53">
+  <data key="d0">994</data>
+  <data key="d1">184</data>
+</edge>
+<edge source="AKT1" target="RASA1">
+  <data key="d0">902</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="AKT1" target="CYCS">
+  <data key="d0">812</data>
+  <data key="d1">45</data>
+</edge>
+<edge source="AKT1" target="SREBF1">
+  <data key="d0">760</data>
+  <data key="d1">60</data>
+</edge>
+<edge source="AKT1" target="SRC">
+  <data key="d0">995</data>
+  <data key="d1">601</data>
+</edge>
+<edge source="AKT1" target="GAPDH">
+  <data key="d0">911</data>
+  <data key="d1">251</data>
+</edge>
+<edge source="SRC" target="RALA">
+  <data key="d0">874</data>
+  <data key="d1">129</data>
+</edge>
+<edge source="SRC" target="CD4">
+  <data key="d0">728</data>
+  <data key="d1">81</data>
+</edge>
+<edge source="SRC" target="CDH1">
+  <data key="d0">988</data>
+  <data key="d1">752</data>
+</edge>
+<edge source="SRC" target="CREBBP">
+  <data key="d0">940</data>
+  <data key="d1">513</data>
+</edge>
+<edge source="SRC" target="TP53">
+  <data key="d0">884</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="SRC" target="RASA1">
+  <data key="d0">798</data>
+  <data key="d1">513</data>
+</edge>
+<edge source="SRC" target="GAPDH">
+  <data key="d0">702</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CCNB1" target="GAPDH">
+  <data key="d0">828</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="CCNB1" target="TP53">
+  <data key="d0">914</data>
+  <data key="d1">53</data>
+</edge>
+<edge source="PEX16" target="PEX3">
+  <data key="d0">995</data>
+  <data key="d1">534</data>
+</edge>
+<edge source="PEX16" target="PEX2">
+  <data key="d0">962</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="IDH2" target="TP53">
+  <data key="d0">783</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="IDH2" target="LDHA">
+  <data key="d0">820</data>
+  <data key="d1">147</data>
+</edge>
+<edge source="IDH2" target="GAPDH">
+  <data key="d0">786</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="AGO2" target="G3BP1">
+  <data key="d0">800</data>
+  <data key="d1">639</data>
+</edge>
+<edge source="AGO2" target="TP53">
+  <data key="d0">872</data>
+  <data key="d1">167</data>
+</edge>
+<edge source="AGO2" target="EIF6">
+  <data key="d0">813</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="AGO2" target="GAPDH">
+  <data key="d0">786</data>
+  <data key="d1">330</data>
+</edge>
+<edge source="RHOT1" target="PINK1">
+  <data key="d0">956</data>
+  <data key="d1">538</data>
+</edge>
+<edge source="RASA1" target="RALA">
+  <data key="d0">988</data>
+  <data key="d1">99</data>
+</edge>
+<edge source="RASA1" target="G3BP1">
+  <data key="d0">994</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="ATP5PO" target="RPS14">
+  <data key="d0">722</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CD4" target="ERVW-1">
+  <data key="d0">996</data>
+  <data key="d1">61</data>
+</edge>
+<edge source="CD4" target="GAPDH">
+  <data key="d0">759</data>
+  <data key="d1">131</data>
+</edge>
+<edge source="CD4" target="IDO1">
+  <data key="d0">875</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CD4" target="TP53">
+  <data key="d0">703</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX2" target="PEX3">
+  <data key="d0">979</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="RPS27A" target="CDH1">
+  <data key="d0">904</data>
+  <data key="d1">800</data>
+</edge>
+<edge source="RPS27A" target="TP53">
+  <data key="d0">971</data>
+  <data key="d1">923</data>
+</edge>
+<edge source="RPS27A" target="PSMC2">
+  <data key="d0">978</data>
+  <data key="d1">943</data>
+</edge>
+<edge source="RPS27A" target="UBC">
+  <data key="d0">998</data>
+  <data key="d1">986</data>
+</edge>
+<edge source="RPS27A" target="EXOSC10">
+  <data key="d0">817</data>
+  <data key="d1">809</data>
+</edge>
+<edge source="RPS27A" target="PINK1">
+  <data key="d0">950</data>
+  <data key="d1">485</data>
+</edge>
+<edge source="RPS27A" target="RPS14">
+  <data key="d0">999</data>
+  <data key="d1">967</data>
+</edge>
+<edge source="HSPBP1" target="RPS14">
+  <data key="d0">776</data>
+  <data key="d1">453</data>
+</edge>
+<edge source="HSPBP1" target="EIF6">
+  <data key="d0">764</data>
+  <data key="d1">624</data>
+</edge>
+<edge source="GEMIN5" target="SNRPD2">
+  <data key="d0">976</data>
+  <data key="d1">592</data>
+</edge>
+<edge source="EXOSC10" target="RPS14">
+  <data key="d0">927</data>
+  <data key="d1">880</data>
+</edge>
+<edge source="G3BP1" target="TP53">
+  <data key="d0">879</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="CREBBP" target="CDH1">
+  <data key="d0">744</data>
+  <data key="d1">596</data>
+</edge>
+<edge source="CREBBP" target="SREBF1">
+  <data key="d0">845</data>
+  <data key="d1">785</data>
+</edge>
+<edge source="CREBBP" target="TP53">
+  <data key="d0">999</data>
+  <data key="d1">998</data>
+</edge>
+<edge source="KLHL42" target="KLHL25">
+  <data key="d0">925</data>
+  <data key="d1">62</data>
+</edge>
+<edge source="ACAA1" target="ACAA2">
+  <data key="d0">935</data>
+  <data key="d1">162</data>
+</edge>
+<edge source="ACAA1" target="ECI2">
+  <data key="d0">987</data>
+  <data key="d1">296</data>
+</edge>
+<edge source="TCP1" target="TP53">
+  <data key="d0">851</data>
+  <data key="d1">480</data>
+</edge>
+<edge source="TCP1" target="CCT4">
+  <data key="d0">999</data>
+  <data key="d1">997</data>
+</edge>
+<edge source="PSMC2" target="UBC">
+  <data key="d0">975</data>
+  <data key="d1">942</data>
+</edge>
+<edge source="GAPDH" target="CDH1">
+  <data key="d0">855</data>
+  <data key="d1">71</data>
+</edge>
+<edge source="GAPDH" target="TP53">
+  <data key="d0">886</data>
+  <data key="d1">364</data>
+</edge>
+<edge source="GAPDH" target="CYCS">
+  <data key="d0">880</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="GAPDH" target="LDHA">
+  <data key="d0">967</data>
+  <data key="d1">71</data>
+</edge>
+<edge source="GAPDH" target="UBC">
+  <data key="d0">735</data>
+  <data key="d1">96</data>
+</edge>
+<edge source="PINK1" target="CYCS">
+  <data key="d0">800</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PINK1" target="UBC">
+  <data key="d0">989</data>
+  <data key="d1">879</data>
+</edge>
+<edge source="ECI2" target="ACAA2">
+  <data key="d0">987</data>
+  <data key="d1">296</data>
+</edge>
+<edge source="SREBF1" target="TP53">
+  <data key="d0">801</data>
+  <data key="d1">363</data>
+</edge>
+<edge source="RPS14" target="CDH1">
+  <data key="d0">813</data>
+  <data key="d1">804</data>
+</edge>
+<edge source="TP53" target="CDH1">
+  <data key="d0">853</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TP53" target="CYCS">
+  <data key="d0">911</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TP53" target="UBC">
+  <data key="d0">921</data>
+  <data key="d1">654</data>
+</edge>
+<edge source="TP53" target="CCT4">
+  <data key="d0">887</data>
+  <data key="d1">608</data>
+</edge>
+<edge source="ERVW-1" target="CDH1">
+  <data key="d0">932</data>
+  <data key="d1">0</data>
+</edge>
+</graph></graphml>

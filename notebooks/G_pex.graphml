@@ -1,0 +1,2608 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="experimental_score" attr.type="long"/>
+<key id="d0" for="edge" attr.name="combined_score" attr.type="long"/>
+<graph edgedefault="undirected"><node id="PEX14"/>
+<node id="PEX11G"/>
+<node id="EHHADH"/>
+<node id="TWIST1"/>
+<node id="ABCD2"/>
+<node id="CROT"/>
+<node id="DECR2"/>
+<node id="NCOA2"/>
+<node id="ALOX15"/>
+<node id="RAB8B"/>
+<node id="NUDT12"/>
+<node id="PEX12"/>
+<node id="CRAT"/>
+<node id="FABP5"/>
+<node id="TKT"/>
+<node id="SEC16B"/>
+<node id="FAM120B"/>
+<node id="ATM"/>
+<node id="PPARGC1A"/>
+<node id="LONP2"/>
+<node id="LACC1"/>
+<node id="GSTK1"/>
+<node id="MAVS"/>
+<node id="ACOX1"/>
+<node id="DHRS4"/>
+<node id="NUDT7"/>
+<node id="MED1"/>
+<node id="NBR1"/>
+<node id="CD33"/>
+<node id="IDH1"/>
+<node id="PEX5L"/>
+<node id="DEPP1"/>
+<node id="GPS2"/>
+<node id="FNDC5"/>
+<node id="SLC25A17"/>
+<node id="MGAT4A"/>
+<node id="STING1"/>
+<node id="VIM"/>
+<node id="MLYCD"/>
+<node id="SOD1"/>
+<node id="DNM1L"/>
+<node id="FAR2"/>
+<node id="MFF"/>
+<node id="FIS1"/>
+<node id="ACOX3"/>
+<node id="PRDX5"/>
+<node id="LPIN1"/>
+<node id="PTGR2"/>
+<node id="PEX10"/>
+<node id="ACTN4"/>
+<node id="PEX13"/>
+<node id="PIK3C3"/>
+<node id="USP9X"/>
+<node id="PPARG"/>
+<node id="PLAAT3"/>
+<node id="PEX6"/>
+<node id="NOS2"/>
+<node id="TANGO2"/>
+<node id="TRIM37"/>
+<node id="PDK3"/>
+<node id="ECH1"/>
+<node id="ALOXE3"/>
+<node id="DHRS7B"/>
+<node id="IDE"/>
+<node id="FAM3A"/>
+<node id="MPV17L"/>
+<node id="HSD17B4"/>
+<node id="PRMT2"/>
+<node id="SCP2"/>
+<node id="ABCD3"/>
+<node id="ACAD11"/>
+<node id="SZT2"/>
+<node id="NR0B2"/>
+<node id="ACSL6"/>
+<node id="BAAT"/>
+<node id="PLIN5"/>
+<node id="ACOT8"/>
+<node id="AGXT"/>
+<node id="ZFAND6"/>
+<node id="ASXL1"/>
+<node id="RB1CC1"/>
+<node id="LEP"/>
+<node id="AOC1"/>
+<node id="RXRA"/>
+<node id="MUL1"/>
+<node id="ALOX15B"/>
+<node id="IDI1"/>
+<node id="ACOX2"/>
+<node id="RIDA"/>
+<node id="ACOXL"/>
+<node id="HMGCL"/>
+<node id="HMGA1"/>
+<node id="PIPOX"/>
+<node id="PNPLA8"/>
+<node id="PLIN1"/>
+<node id="PXMP2"/>
+<node id="ACSL4"/>
+<node id="PJVK"/>
+<node id="IDI2"/>
+<node id="PIK3R4"/>
+<node id="SYT7"/>
+<node id="PPARA"/>
+<node id="KCNIP4"/>
+<node id="ISOC1"/>
+<node id="PEX19"/>
+<node id="ALDH3A2"/>
+<node id="PEX5"/>
+<node id="PEX7"/>
+<node id="HMGCR"/>
+<node id="MVK"/>
+<node id="PEX11A"/>
+<node id="PMVK"/>
+<node id="XDH"/>
+<node id="PHYH"/>
+<node id="PECR"/>
+<node id="ABCD4"/>
+<node id="HACL1"/>
+<node id="GNPAT"/>
+<node id="MARF1"/>
+<node id="PTGIS"/>
+<node id="LMO3"/>
+<node id="HELZ2"/>
+<node id="ABCD1"/>
+<node id="PEX11B"/>
+<node id="BABAM2"/>
+<node id="PEX1"/>
+<node id="NUDT17"/>
+<node id="TYSND1"/>
+<node id="ACBD5"/>
+<node id="PEX26"/>
+<node id="HAO2"/>
+<node id="BMP2"/>
+<node id="TACC1"/>
+<node id="PXMP4"/>
+<node id="PPARGC1B"/>
+<node id="CITED2"/>
+<node id="HSDL2"/>
+<node id="DUT"/>
+<node id="CAT"/>
+<node id="ACSL3"/>
+<node id="DHRS4L2"/>
+<node id="SLC27A5"/>
+<node id="AGPS"/>
+<node id="MYO5A"/>
+<node id="HAO1"/>
+<node id="ASXL2"/>
+<node id="IDH2"/>
+<node id="PEX16"/>
+<node id="AMACR"/>
+<node id="FAR1"/>
+<node id="PEX2"/>
+<node id="NFATC4"/>
+<node id="ANGPTL4"/>
+<node id="PPRC1"/>
+<node id="EPHX2"/>
+<node id="DAO"/>
+<node id="ACSL1"/>
+<node id="TMEM41B"/>
+<node id="PPARD"/>
+<node id="GBF1"/>
+<node id="ACOT4"/>
+<node id="NUDT19"/>
+<node id="TLCD3B"/>
+<node id="ACAA1"/>
+<node id="ECI2"/>
+<node id="ASXL3"/>
+<node id="NCOA1"/>
+<node id="PEX3"/>
+<node id="SLC27A2"/>
+<node id="PAOX"/>
+<node id="MPV17"/>
+<node id="ATAD1"/>
+<edge source="PEX14" target="ABCD1">
+  <data key="d0">750</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="PEX14" target="PEX11G">
+  <data key="d0">727</data>
+  <data key="d1">311</data>
+</edge>
+<edge source="PEX14" target="FIS1">
+  <data key="d0">703</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX14" target="PEX16">
+  <data key="d0">971</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="PEX14" target="PEX1">
+  <data key="d0">954</data>
+  <data key="d1">598</data>
+</edge>
+<edge source="PEX14" target="PHYH">
+  <data key="d0">751</data>
+  <data key="d1">168</data>
+</edge>
+<edge source="PEX14" target="AGPS">
+  <data key="d0">937</data>
+  <data key="d1">329</data>
+</edge>
+<edge source="PEX14" target="TYSND1">
+  <data key="d0">789</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX14" target="PEX10">
+  <data key="d0">985</data>
+  <data key="d1">494</data>
+</edge>
+<edge source="PEX14" target="ACOX1">
+  <data key="d0">819</data>
+  <data key="d1">228</data>
+</edge>
+<edge source="PEX14" target="PEX13">
+  <data key="d0">999</data>
+  <data key="d1">979</data>
+</edge>
+<edge source="PEX14" target="PEX11A">
+  <data key="d0">859</data>
+  <data key="d1">462</data>
+</edge>
+<edge source="PEX14" target="PEX6">
+  <data key="d0">988</data>
+  <data key="d1">676</data>
+</edge>
+<edge source="PEX14" target="PEX7">
+  <data key="d0">998</data>
+  <data key="d1">727</data>
+</edge>
+<edge source="PEX14" target="PEX26">
+  <data key="d0">963</data>
+  <data key="d1">541</data>
+</edge>
+<edge source="PEX14" target="ACAA1">
+  <data key="d0">748</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX14" target="ATAD1">
+  <data key="d0">736</data>
+  <data key="d1">354</data>
+</edge>
+<edge source="PEX14" target="ACOX3">
+  <data key="d0">800</data>
+  <data key="d1">61</data>
+</edge>
+<edge source="PEX14" target="PEX5">
+  <data key="d0">999</data>
+  <data key="d1">997</data>
+</edge>
+<edge source="PEX14" target="PEX12">
+  <data key="d0">996</data>
+  <data key="d1">568</data>
+</edge>
+<edge source="PEX14" target="PEX19">
+  <data key="d0">999</data>
+  <data key="d1">992</data>
+</edge>
+<edge source="PEX14" target="HSD17B4">
+  <data key="d0">772</data>
+  <data key="d1">423</data>
+</edge>
+<edge source="PEX14" target="PEX5L">
+  <data key="d0">999</data>
+  <data key="d1">764</data>
+</edge>
+<edge source="PEX14" target="GNPAT">
+  <data key="d0">795</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="PEX14" target="PEX3">
+  <data key="d0">984</data>
+  <data key="d1">364</data>
+</edge>
+<edge source="PEX14" target="ABCD3">
+  <data key="d0">891</data>
+  <data key="d1">361</data>
+</edge>
+<edge source="PEX14" target="ACBD5">
+  <data key="d0">778</data>
+  <data key="d1">158</data>
+</edge>
+<edge source="PEX14" target="SCP2">
+  <data key="d0">748</data>
+  <data key="d1">342</data>
+</edge>
+<edge source="PEX14" target="PEX11B">
+  <data key="d0">921</data>
+  <data key="d1">462</data>
+</edge>
+<edge source="PEX14" target="PEX2">
+  <data key="d0">990</data>
+  <data key="d1">645</data>
+</edge>
+<edge source="PEX11G" target="PEX11B">
+  <data key="d0">997</data>
+  <data key="d1">296</data>
+</edge>
+<edge source="PEX11G" target="PEX19">
+  <data key="d0">816</data>
+  <data key="d1">407</data>
+</edge>
+<edge source="PEX11G" target="PEX13">
+  <data key="d0">837</data>
+  <data key="d1">366</data>
+</edge>
+<edge source="PEX11G" target="PEX11A">
+  <data key="d0">997</data>
+  <data key="d1">296</data>
+</edge>
+<edge source="PEX11G" target="PEX16">
+  <data key="d0">728</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX11G" target="PEX10">
+  <data key="d0">752</data>
+  <data key="d1">289</data>
+</edge>
+<edge source="PEX11G" target="PEX6">
+  <data key="d0">708</data>
+  <data key="d1">71</data>
+</edge>
+<edge source="PEX11G" target="PEX7">
+  <data key="d0">705</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX11G" target="PEX12">
+  <data key="d0">744</data>
+  <data key="d1">288</data>
+</edge>
+<edge source="PEX11G" target="PEX5">
+  <data key="d0">703</data>
+  <data key="d1">88</data>
+</edge>
+<edge source="EHHADH" target="ACOX2">
+  <data key="d0">919</data>
+  <data key="d1">96</data>
+</edge>
+<edge source="EHHADH" target="ACOX3">
+  <data key="d0">993</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="EHHADH" target="ALDH3A2">
+  <data key="d0">959</data>
+  <data key="d1">45</data>
+</edge>
+<edge source="EHHADH" target="DHRS4">
+  <data key="d0">790</data>
+  <data key="d1">291</data>
+</edge>
+<edge source="EHHADH" target="PEX10">
+  <data key="d0">852</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="EHHADH" target="PPARA">
+  <data key="d0">780</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="EHHADH" target="ECI2">
+  <data key="d0">972</data>
+  <data key="d1">97</data>
+</edge>
+<edge source="EHHADH" target="HSDL2">
+  <data key="d0">830</data>
+  <data key="d1">99</data>
+</edge>
+<edge source="EHHADH" target="PEX5">
+  <data key="d0">912</data>
+  <data key="d1">521</data>
+</edge>
+<edge source="EHHADH" target="PEX13">
+  <data key="d0">807</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="EHHADH" target="ACAA1">
+  <data key="d0">998</data>
+  <data key="d1">296</data>
+</edge>
+<edge source="EHHADH" target="ACOX1">
+  <data key="d0">998</data>
+  <data key="d1">99</data>
+</edge>
+<edge source="EHHADH" target="SCP2">
+  <data key="d0">952</data>
+  <data key="d1">113</data>
+</edge>
+<edge source="EHHADH" target="HSD17B4">
+  <data key="d0">988</data>
+  <data key="d1">67</data>
+</edge>
+<edge source="TWIST1" target="PPARGC1A">
+  <data key="d0">765</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TWIST1" target="VIM">
+  <data key="d0">857</data>
+  <data key="d1">226</data>
+</edge>
+<edge source="ABCD2" target="ABCD1">
+  <data key="d0">954</data>
+  <data key="d1">543</data>
+</edge>
+<edge source="ABCD2" target="SLC27A2">
+  <data key="d0">836</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ABCD2" target="PEX13">
+  <data key="d0">754</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ABCD2" target="PEX19">
+  <data key="d0">896</data>
+  <data key="d1">643</data>
+</edge>
+<edge source="ABCD2" target="ABCD3">
+  <data key="d0">926</data>
+  <data key="d1">132</data>
+</edge>
+<edge source="ABCD2" target="PEX11B">
+  <data key="d0">735</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ABCD2" target="PXMP4">
+  <data key="d0">702</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CROT" target="ACOX1">
+  <data key="d0">731</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CROT" target="SCP2">
+  <data key="d0">744</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CROT" target="HSD17B4">
+  <data key="d0">718</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="DECR2" target="SCP2">
+  <data key="d0">707</data>
+  <data key="d1">68</data>
+</edge>
+<edge source="DECR2" target="ACOX1">
+  <data key="d0">854</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="DECR2" target="HSD17B4">
+  <data key="d0">857</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="DECR2" target="PEX5">
+  <data key="d0">799</data>
+  <data key="d1">510</data>
+</edge>
+<edge source="NCOA2" target="PPARGC1A">
+  <data key="d0">738</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="NCOA2" target="PPARG">
+  <data key="d0">998</data>
+  <data key="d1">966</data>
+</edge>
+<edge source="NCOA2" target="MED1">
+  <data key="d0">774</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="NCOA2" target="PPARD">
+  <data key="d0">724</data>
+  <data key="d1">609</data>
+</edge>
+<edge source="NCOA2" target="NCOA1">
+  <data key="d0">997</data>
+  <data key="d1">735</data>
+</edge>
+<edge source="NCOA2" target="PPARA">
+  <data key="d0">909</data>
+  <data key="d1">609</data>
+</edge>
+<edge source="NCOA2" target="HELZ2">
+  <data key="d0">864</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="NCOA2" target="RXRA">
+  <data key="d0">999</data>
+  <data key="d1">992</data>
+</edge>
+<edge source="ALOX15" target="ALOX15B">
+  <data key="d0">916</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="RAB8B" target="PEX5L">
+  <data key="d0">933</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="RAB8B" target="VIM">
+  <data key="d0">711</data>
+  <data key="d1">296</data>
+</edge>
+<edge source="NUDT12" target="NUDT19">
+  <data key="d0">781</data>
+  <data key="d1">87</data>
+</edge>
+<edge source="NUDT12" target="NUDT17">
+  <data key="d0">761</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="NUDT12" target="EPHX2">
+  <data key="d0">865</data>
+  <data key="d1">88</data>
+</edge>
+<edge source="NUDT12" target="NUDT7">
+  <data key="d0">713</data>
+  <data key="d1">87</data>
+</edge>
+<edge source="PEX12" target="ABCD1">
+  <data key="d0">784</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX12" target="PEX16">
+  <data key="d0">980</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX12" target="PEX1">
+  <data key="d0">965</data>
+  <data key="d1">486</data>
+</edge>
+<edge source="PEX12" target="PHYH">
+  <data key="d0">770</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX12" target="AGPS">
+  <data key="d0">929</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX12" target="PEX10">
+  <data key="d0">999</data>
+  <data key="d1">978</data>
+</edge>
+<edge source="PEX12" target="ACOX1">
+  <data key="d0">737</data>
+  <data key="d1">60</data>
+</edge>
+<edge source="PEX12" target="PEX13">
+  <data key="d0">999</data>
+  <data key="d1">623</data>
+</edge>
+<edge source="PEX12" target="PEX11A">
+  <data key="d0">902</data>
+  <data key="d1">298</data>
+</edge>
+<edge source="PEX12" target="PEX6">
+  <data key="d0">988</data>
+  <data key="d1">134</data>
+</edge>
+<edge source="PEX12" target="PEX7">
+  <data key="d0">986</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX12" target="PEX26">
+  <data key="d0">963</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX12" target="ACAA1">
+  <data key="d0">706</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX12" target="PEX2">
+  <data key="d0">999</data>
+  <data key="d1">715</data>
+</edge>
+<edge source="PEX12" target="GNPAT">
+  <data key="d0">701</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX12" target="PEX3">
+  <data key="d0">992</data>
+  <data key="d1">374</data>
+</edge>
+<edge source="PEX12" target="PEX19">
+  <data key="d0">995</data>
+  <data key="d1">766</data>
+</edge>
+<edge source="PEX12" target="PEX11B">
+  <data key="d0">939</data>
+  <data key="d1">298</data>
+</edge>
+<edge source="PEX12" target="ABCD3">
+  <data key="d0">843</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX12" target="SLC25A17">
+  <data key="d0">816</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX12" target="PEX5">
+  <data key="d0">998</data>
+  <data key="d1">878</data>
+</edge>
+<edge source="PEX12" target="HSD17B4">
+  <data key="d0">714</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX12" target="PEX5L">
+  <data key="d0">950</data>
+  <data key="d1">364</data>
+</edge>
+<edge source="CRAT" target="ACOX1">
+  <data key="d0">842</data>
+  <data key="d1">208</data>
+</edge>
+<edge source="CRAT" target="PEX5">
+  <data key="d0">823</data>
+  <data key="d1">560</data>
+</edge>
+<edge source="CRAT" target="HSD17B4">
+  <data key="d0">940</data>
+  <data key="d1">86</data>
+</edge>
+<edge source="CRAT" target="SCP2">
+  <data key="d0">816</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="FABP5" target="PPARG">
+  <data key="d0">828</data>
+  <data key="d1">299</data>
+</edge>
+<edge source="FABP5" target="PPARD">
+  <data key="d0">988</data>
+  <data key="d1">50</data>
+</edge>
+<edge source="FABP5" target="PPARA">
+  <data key="d0">708</data>
+  <data key="d1">50</data>
+</edge>
+<edge source="FAM120B" target="PPARG">
+  <data key="d0">811</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="FAM120B" target="RXRA">
+  <data key="d0">704</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ATM" target="BABAM2">
+  <data key="d0">777</data>
+  <data key="d1">71</data>
+</edge>
+<edge source="ATM" target="PEX5">
+  <data key="d0">964</data>
+  <data key="d1">474</data>
+</edge>
+<edge source="PPARGC1A" target="FIS1">
+  <data key="d0">727</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PPARGC1A" target="PPARG">
+  <data key="d0">999</data>
+  <data key="d1">992</data>
+</edge>
+<edge source="PPARGC1A" target="LEP">
+  <data key="d0">903</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PPARGC1A" target="PPARD">
+  <data key="d0">969</data>
+  <data key="d1">608</data>
+</edge>
+<edge source="PPARGC1A" target="LPIN1">
+  <data key="d0">947</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PPARGC1A" target="RXRA">
+  <data key="d0">913</data>
+  <data key="d1">551</data>
+</edge>
+<edge source="PPARGC1A" target="NCOA1">
+  <data key="d0">952</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="PPARGC1A" target="PLIN1">
+  <data key="d0">788</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PPARGC1A" target="SOD1">
+  <data key="d0">958</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PPARGC1A" target="DNM1L">
+  <data key="d0">734</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PPARGC1A" target="MED1">
+  <data key="d0">830</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="PPARGC1A" target="FNDC5">
+  <data key="d0">795</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PPARGC1A" target="PPARA">
+  <data key="d0">999</data>
+  <data key="d1">959</data>
+</edge>
+<edge source="LONP2" target="TYSND1">
+  <data key="d0">898</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="LONP2" target="PEX5">
+  <data key="d0">883</data>
+  <data key="d1">510</data>
+</edge>
+<edge source="LONP2" target="PEX13">
+  <data key="d0">700</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="LONP2" target="SCP2">
+  <data key="d0">713</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="LONP2" target="HSD17B4">
+  <data key="d0">709</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="GSTK1" target="PEX5">
+  <data key="d0">816</data>
+  <data key="d1">510</data>
+</edge>
+<edge source="MAVS" target="MUL1">
+  <data key="d0">794</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="MAVS" target="STING1">
+  <data key="d0">999</data>
+  <data key="d1">847</data>
+</edge>
+<edge source="ACOX1" target="ACOT8">
+  <data key="d0">768</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX1" target="ECH1">
+  <data key="d0">834</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="ACOX1" target="CAT">
+  <data key="d0">801</data>
+  <data key="d1">393</data>
+</edge>
+<edge source="ACOX1" target="MLYCD">
+  <data key="d0">769</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX1" target="PECR">
+  <data key="d0">772</data>
+  <data key="d1">98</data>
+</edge>
+<edge source="ACOX1" target="SLC27A2">
+  <data key="d0">843</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX1" target="TYSND1">
+  <data key="d0">960</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="ACOX1" target="PPARG">
+  <data key="d0">740</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX1" target="PEX10">
+  <data key="d0">835</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX1" target="AMACR">
+  <data key="d0">810</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX1" target="ACOX3">
+  <data key="d0">938</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX1" target="HMGCL">
+  <data key="d0">762</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX1" target="PEX19">
+  <data key="d0">754</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX1" target="PEX11A">
+  <data key="d0">705</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX1" target="ACOX2">
+  <data key="d0">911</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX1" target="PPARA">
+  <data key="d0">944</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX1" target="EPHX2">
+  <data key="d0">767</data>
+  <data key="d1">215</data>
+</edge>
+<edge source="ACOX1" target="IDH1">
+  <data key="d0">778</data>
+  <data key="d1">198</data>
+</edge>
+<edge source="ACOX1" target="ACSL3">
+  <data key="d0">800</data>
+  <data key="d1">71</data>
+</edge>
+<edge source="ACOX1" target="ALDH3A2">
+  <data key="d0">920</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX1" target="DHRS4">
+  <data key="d0">715</data>
+  <data key="d1">95</data>
+</edge>
+<edge source="ACOX1" target="ACSL1">
+  <data key="d0">829</data>
+  <data key="d1">89</data>
+</edge>
+<edge source="ACOX1" target="ACSL4">
+  <data key="d0">782</data>
+  <data key="d1">71</data>
+</edge>
+<edge source="ACOX1" target="ECI2">
+  <data key="d0">967</data>
+  <data key="d1">95</data>
+</edge>
+<edge source="ACOX1" target="PEX5">
+  <data key="d0">969</data>
+  <data key="d1">650</data>
+</edge>
+<edge source="ACOX1" target="HSDL2">
+  <data key="d0">858</data>
+  <data key="d1">115</data>
+</edge>
+<edge source="ACOX1" target="SCP2">
+  <data key="d0">984</data>
+  <data key="d1">129</data>
+</edge>
+<edge source="ACOX1" target="PEX13">
+  <data key="d0">878</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX1" target="ACAA1">
+  <data key="d0">998</data>
+  <data key="d1">180</data>
+</edge>
+<edge source="ACOX1" target="PEX2">
+  <data key="d0">784</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX1" target="ABCD3">
+  <data key="d0">823</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX1" target="ACSL6">
+  <data key="d0">714</data>
+  <data key="d1">96</data>
+</edge>
+<edge source="ACOX1" target="HACL1">
+  <data key="d0">707</data>
+  <data key="d1">99</data>
+</edge>
+<edge source="ACOX1" target="ACOT4">
+  <data key="d0">719</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX1" target="HSD17B4">
+  <data key="d0">998</data>
+  <data key="d1">65</data>
+</edge>
+<edge source="ACOX1" target="GNPAT">
+  <data key="d0">851</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="DHRS4" target="HSD17B4">
+  <data key="d0">737</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="DHRS4" target="DHRS4L2">
+  <data key="d0">717</data>
+  <data key="d1">422</data>
+</edge>
+<edge source="DHRS4" target="PEX5">
+  <data key="d0">773</data>
+  <data key="d1">510</data>
+</edge>
+<edge source="NUDT7" target="NUDT19">
+  <data key="d0">735</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="MED1" target="PPARG">
+  <data key="d0">999</data>
+  <data key="d1">987</data>
+</edge>
+<edge source="MED1" target="PPARGC1B">
+  <data key="d0">917</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="MED1" target="PPARD">
+  <data key="d0">710</data>
+  <data key="d1">97</data>
+</edge>
+<edge source="MED1" target="PPARA">
+  <data key="d0">886</data>
+  <data key="d1">333</data>
+</edge>
+<edge source="MED1" target="NCOA1">
+  <data key="d0">898</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="MED1" target="RXRA">
+  <data key="d0">986</data>
+  <data key="d1">872</data>
+</edge>
+<edge source="NBR1" target="RB1CC1">
+  <data key="d0">909</data>
+  <data key="d1">410</data>
+</edge>
+<edge source="NBR1" target="PIK3C3">
+  <data key="d0">761</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="NBR1" target="PIK3R4">
+  <data key="d0">720</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="NBR1" target="PEX5">
+  <data key="d0">957</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="CD33" target="LEP">
+  <data key="d0">752</data>
+  <data key="d1">405</data>
+</edge>
+<edge source="IDH1" target="IDH2">
+  <data key="d0">961</data>
+  <data key="d1">608</data>
+</edge>
+<edge source="IDH1" target="ASXL1">
+  <data key="d0">899</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="IDH1" target="HSD17B4">
+  <data key="d0">813</data>
+  <data key="d1">235</data>
+</edge>
+<edge source="PEX5L" target="PEX16">
+  <data key="d0">900</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX5L" target="PEX1">
+  <data key="d0">918</data>
+  <data key="d1">310</data>
+</edge>
+<edge source="PEX5L" target="TRIM37">
+  <data key="d0">738</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX5L" target="AGPS">
+  <data key="d0">808</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX5L" target="PEX10">
+  <data key="d0">910</data>
+  <data key="d1">181</data>
+</edge>
+<edge source="PEX5L" target="PEX13">
+  <data key="d0">947</data>
+  <data key="d1">463</data>
+</edge>
+<edge source="PEX5L" target="PEX6">
+  <data key="d0">937</data>
+  <data key="d1">310</data>
+</edge>
+<edge source="PEX5L" target="PEX7">
+  <data key="d0">998</data>
+  <data key="d1">613</data>
+</edge>
+<edge source="PEX5L" target="HACL1">
+  <data key="d0">901</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX5L" target="PEX26">
+  <data key="d0">813</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX5L" target="PEX2">
+  <data key="d0">869</data>
+  <data key="d1">128</data>
+</edge>
+<edge source="PEX5L" target="PEX3">
+  <data key="d0">910</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="PEX5L" target="PEX19">
+  <data key="d0">900</data>
+  <data key="d1">74</data>
+</edge>
+<edge source="PEX5L" target="PEX11B">
+  <data key="d0">743</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="PEX5L" target="PEX5">
+  <data key="d0">923</data>
+  <data key="d1">69</data>
+</edge>
+<edge source="GPS2" target="RXRA">
+  <data key="d0">725</data>
+  <data key="d1">119</data>
+</edge>
+<edge source="SLC25A17" target="ABCD1">
+  <data key="d0">763</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SLC25A17" target="PEX16">
+  <data key="d0">848</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SLC25A17" target="PEX13">
+  <data key="d0">814</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SLC25A17" target="PXMP2">
+  <data key="d0">745</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SLC25A17" target="PEX2">
+  <data key="d0">734</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SLC25A17" target="PEX3">
+  <data key="d0">801</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SLC25A17" target="PEX19">
+  <data key="d0">936</data>
+  <data key="d1">642</data>
+</edge>
+<edge source="SLC25A17" target="PEX11B">
+  <data key="d0">802</data>
+  <data key="d1">76</data>
+</edge>
+<edge source="SLC25A17" target="ABCD3">
+  <data key="d0">798</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SLC25A17" target="PXMP4">
+  <data key="d0">756</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SOD1" target="CAT">
+  <data key="d0">920</data>
+  <data key="d1">251</data>
+</edge>
+<edge source="SOD1" target="PRDX5">
+  <data key="d0">912</data>
+  <data key="d1">601</data>
+</edge>
+<edge source="DNM1L" target="FIS1">
+  <data key="d0">999</data>
+  <data key="d1">672</data>
+</edge>
+<edge source="DNM1L" target="MUL1">
+  <data key="d0">727</data>
+  <data key="d1">314</data>
+</edge>
+<edge source="DNM1L" target="PEX11A">
+  <data key="d0">928</data>
+  <data key="d1">241</data>
+</edge>
+<edge source="DNM1L" target="MFF">
+  <data key="d0">999</data>
+  <data key="d1">702</data>
+</edge>
+<edge source="DNM1L" target="PEX11B">
+  <data key="d0">870</data>
+  <data key="d1">241</data>
+</edge>
+<edge source="FAR2" target="AGPS">
+  <data key="d0">728</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="FAR2" target="FAR1">
+  <data key="d0">906</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="FAR2" target="GNPAT">
+  <data key="d0">870</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="MFF" target="FIS1">
+  <data key="d0">989</data>
+  <data key="d1">90</data>
+</edge>
+<edge source="MFF" target="PEX11A">
+  <data key="d0">710</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="FIS1" target="PEX11A">
+  <data key="d0">972</data>
+  <data key="d1">329</data>
+</edge>
+<edge source="FIS1" target="PEX19">
+  <data key="d0">848</data>
+  <data key="d1">145</data>
+</edge>
+<edge source="FIS1" target="ACBD5">
+  <data key="d0">709</data>
+  <data key="d1">95</data>
+</edge>
+<edge source="FIS1" target="PEX16">
+  <data key="d0">781</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="FIS1" target="ABCD3">
+  <data key="d0">720</data>
+  <data key="d1">95</data>
+</edge>
+<edge source="FIS1" target="PEX13">
+  <data key="d0">750</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="FIS1" target="PEX11B">
+  <data key="d0">954</data>
+  <data key="d1">329</data>
+</edge>
+<edge source="FIS1" target="PEX3">
+  <data key="d0">816</data>
+  <data key="d1">95</data>
+</edge>
+<edge source="ACOX3" target="PHYH">
+  <data key="d0">740</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX3" target="PEX10">
+  <data key="d0">855</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX3" target="PEX13">
+  <data key="d0">834</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX3" target="ACOX2">
+  <data key="d0">943</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX3" target="PPARD">
+  <data key="d0">715</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX3" target="ACAA1">
+  <data key="d0">995</data>
+  <data key="d1">51</data>
+</edge>
+<edge source="ACOX3" target="ALDH3A2">
+  <data key="d0">902</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX3" target="ABCD3">
+  <data key="d0">759</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX3" target="PEX2">
+  <data key="d0">794</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX3" target="SCP2">
+  <data key="d0">978</data>
+  <data key="d1">94</data>
+</edge>
+<edge source="ACOX3" target="HSD17B4">
+  <data key="d0">989</data>
+  <data key="d1">65</data>
+</edge>
+<edge source="ACOX3" target="PPARA">
+  <data key="d0">821</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX3" target="PEX19">
+  <data key="d0">763</data>
+  <data key="d1">137</data>
+</edge>
+<edge source="ACOX3" target="AMACR">
+  <data key="d0">729</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX3" target="HSDL2">
+  <data key="d0">818</data>
+  <data key="d1">71</data>
+</edge>
+<edge source="ACOX3" target="PEX5">
+  <data key="d0">940</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="ACOX3" target="ECI2">
+  <data key="d0">909</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="LPIN1" target="PPARG">
+  <data key="d0">909</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="LPIN1" target="GNPAT">
+  <data key="d0">840</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="LPIN1" target="PPARA">
+  <data key="d0">974</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="PEX10" target="ACOT8">
+  <data key="d0">728</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX10" target="PEX16">
+  <data key="d0">962</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX10" target="PEX1">
+  <data key="d0">966</data>
+  <data key="d1">399</data>
+</edge>
+<edge source="PEX10" target="PHYH">
+  <data key="d0">788</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX10" target="AGPS">
+  <data key="d0">927</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX10" target="TYSND1">
+  <data key="d0">769</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX10" target="ECI2">
+  <data key="d0">746</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX10" target="PEX3">
+  <data key="d0">964</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX10" target="PEX7">
+  <data key="d0">985</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX10" target="GNPAT">
+  <data key="d0">794</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX10" target="PEX26">
+  <data key="d0">970</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX10" target="PEX5">
+  <data key="d0">995</data>
+  <data key="d1">680</data>
+</edge>
+<edge source="PEX10" target="HSD17B4">
+  <data key="d0">718</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX10" target="ACAA1">
+  <data key="d0">891</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX10" target="PEX2">
+  <data key="d0">999</data>
+  <data key="d1">683</data>
+</edge>
+<edge source="PEX10" target="PEX11B">
+  <data key="d0">879</data>
+  <data key="d1">299</data>
+</edge>
+<edge source="PEX10" target="PEX11A">
+  <data key="d0">882</data>
+  <data key="d1">299</data>
+</edge>
+<edge source="PEX10" target="PEX19">
+  <data key="d0">994</data>
+  <data key="d1">805</data>
+</edge>
+<edge source="PEX10" target="PEX13">
+  <data key="d0">998</data>
+  <data key="d1">590</data>
+</edge>
+<edge source="PEX10" target="PEX6">
+  <data key="d0">989</data>
+  <data key="d1">141</data>
+</edge>
+<edge source="PEX10" target="ABCD3">
+  <data key="d0">708</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX13" target="ACOT8">
+  <data key="d0">700</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX13" target="ABCD1">
+  <data key="d0">841</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX13" target="PEX16">
+  <data key="d0">977</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX13" target="PEX1">
+  <data key="d0">969</data>
+  <data key="d1">519</data>
+</edge>
+<edge source="PEX13" target="PHYH">
+  <data key="d0">825</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX13" target="AGPS">
+  <data key="d0">924</data>
+  <data key="d1">161</data>
+</edge>
+<edge source="PEX13" target="TYSND1">
+  <data key="d0">701</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX13" target="ABCD3">
+  <data key="d0">876</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX13" target="ACBD5">
+  <data key="d0">770</data>
+  <data key="d1">195</data>
+</edge>
+<edge source="PEX13" target="SCP2">
+  <data key="d0">742</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX13" target="PEX11B">
+  <data key="d0">944</data>
+  <data key="d1">416</data>
+</edge>
+<edge source="PEX13" target="ACAA1">
+  <data key="d0">887</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX13" target="PEX2">
+  <data key="d0">995</data>
+  <data key="d1">519</data>
+</edge>
+<edge source="PEX13" target="PXMP4">
+  <data key="d0">716</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX13" target="HSD17B4">
+  <data key="d0">812</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX13" target="PEX26">
+  <data key="d0">964</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX13" target="GNPAT">
+  <data key="d0">736</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX13" target="PEX3">
+  <data key="d0">994</data>
+  <data key="d1">413</data>
+</edge>
+<edge source="PEX13" target="PEX6">
+  <data key="d0">989</data>
+  <data key="d1">288</data>
+</edge>
+<edge source="PEX13" target="PEX19">
+  <data key="d0">999</data>
+  <data key="d1">988</data>
+</edge>
+<edge source="PEX13" target="PEX11A">
+  <data key="d0">916</data>
+  <data key="d1">416</data>
+</edge>
+<edge source="PEX13" target="PEX5">
+  <data key="d0">999</data>
+  <data key="d1">880</data>
+</edge>
+<edge source="PEX13" target="PEX7">
+  <data key="d0">998</data>
+  <data key="d1">713</data>
+</edge>
+<edge source="PEX13" target="PXMP2">
+  <data key="d0">761</data>
+  <data key="d1">132</data>
+</edge>
+<edge source="PIK3C3" target="RB1CC1">
+  <data key="d0">989</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PIK3C3" target="PIK3R4">
+  <data key="d0">999</data>
+  <data key="d1">998</data>
+</edge>
+<edge source="USP9X" target="PEX6">
+  <data key="d0">715</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="USP9X" target="PEX5">
+  <data key="d0">750</data>
+  <data key="d1">305</data>
+</edge>
+<edge source="PPARG" target="NR0B2">
+  <data key="d0">976</data>
+  <data key="d1">926</data>
+</edge>
+<edge source="PPARG" target="LEP">
+  <data key="d0">948</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PPARG" target="ANGPTL4">
+  <data key="d0">875</data>
+  <data key="d1">45</data>
+</edge>
+<edge source="PPARG" target="HELZ2">
+  <data key="d0">711</data>
+  <data key="d1">45</data>
+</edge>
+<edge source="PPARG" target="PPARGC1B">
+  <data key="d0">921</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="PPARG" target="PPARD">
+  <data key="d0">715</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PPARG" target="RXRA">
+  <data key="d0">999</data>
+  <data key="d1">999</data>
+</edge>
+<edge source="PPARG" target="ACSL1">
+  <data key="d0">745</data>
+  <data key="d1">46</data>
+</edge>
+<edge source="PPARG" target="NCOA1">
+  <data key="d0">999</data>
+  <data key="d1">992</data>
+</edge>
+<edge source="PPARG" target="HMGA1">
+  <data key="d0">733</data>
+  <data key="d1">622</data>
+</edge>
+<edge source="PPARG" target="PLIN1">
+  <data key="d0">929</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX6" target="PEX16">
+  <data key="d0">960</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX6" target="PEX1">
+  <data key="d0">999</data>
+  <data key="d1">976</data>
+</edge>
+<edge source="PEX6" target="PHYH">
+  <data key="d0">824</data>
+  <data key="d1">53</data>
+</edge>
+<edge source="PEX6" target="AGPS">
+  <data key="d0">809</data>
+  <data key="d1">46</data>
+</edge>
+<edge source="PEX6" target="PEX11A">
+  <data key="d0">843</data>
+  <data key="d1">72</data>
+</edge>
+<edge source="PEX6" target="PEX3">
+  <data key="d0">973</data>
+  <data key="d1">202</data>
+</edge>
+<edge source="PEX6" target="PEX26">
+  <data key="d0">999</data>
+  <data key="d1">634</data>
+</edge>
+<edge source="PEX6" target="PEX2">
+  <data key="d0">980</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX6" target="PEX11B">
+  <data key="d0">844</data>
+  <data key="d1">72</data>
+</edge>
+<edge source="PEX6" target="ABCD3">
+  <data key="d0">700</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX6" target="ZFAND6">
+  <data key="d0">916</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX6" target="PEX7">
+  <data key="d0">984</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX6" target="PEX5">
+  <data key="d0">994</data>
+  <data key="d1">491</data>
+</edge>
+<edge source="PEX6" target="PEX19">
+  <data key="d0">967</data>
+  <data key="d1">280</data>
+</edge>
+<edge source="TRIM37" target="PEX1">
+  <data key="d0">722</data>
+  <data key="d1">48</data>
+</edge>
+<edge source="TRIM37" target="PEX7">
+  <data key="d0">704</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TRIM37" target="PEX5">
+  <data key="d0">810</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="ECH1" target="HSD17B4">
+  <data key="d0">954</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="ECH1" target="SCP2">
+  <data key="d0">818</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="ECH1" target="ECI2">
+  <data key="d0">875</data>
+  <data key="d1">692</data>
+</edge>
+<edge source="ECH1" target="PEX5">
+  <data key="d0">901</data>
+  <data key="d1">638</data>
+</edge>
+<edge source="MPV17L" target="MPV17">
+  <data key="d0">912</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HSD17B4" target="ACOT8">
+  <data key="d0">803</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HSD17B4" target="CAT">
+  <data key="d0">954</data>
+  <data key="d1">337</data>
+</edge>
+<edge source="HSD17B4" target="BAAT">
+  <data key="d0">757</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HSD17B4" target="PECR">
+  <data key="d0">725</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HSD17B4" target="SLC27A2">
+  <data key="d0">734</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HSD17B4" target="TYSND1">
+  <data key="d0">864</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="HSD17B4" target="ACOX2">
+  <data key="d0">992</data>
+  <data key="d1">65</data>
+</edge>
+<edge source="HSD17B4" target="HACL1">
+  <data key="d0">788</data>
+  <data key="d1">86</data>
+</edge>
+<edge source="HSD17B4" target="ACAA1">
+  <data key="d0">999</data>
+  <data key="d1">234</data>
+</edge>
+<edge source="HSD17B4" target="GNPAT">
+  <data key="d0">893</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HSD17B4" target="SCP2">
+  <data key="d0">986</data>
+  <data key="d1">258</data>
+</edge>
+<edge source="HSD17B4" target="ECI2">
+  <data key="d0">857</data>
+  <data key="d1">94</data>
+</edge>
+<edge source="HSD17B4" target="AMACR">
+  <data key="d0">883</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HSD17B4" target="PEX5">
+  <data key="d0">936</data>
+  <data key="d1">510</data>
+</edge>
+<edge source="SCP2" target="ACOT8">
+  <data key="d0">947</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SCP2" target="CAT">
+  <data key="d0">939</data>
+  <data key="d1">215</data>
+</edge>
+<edge source="SCP2" target="BAAT">
+  <data key="d0">956</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SCP2" target="SLC27A5">
+  <data key="d0">956</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SCP2" target="AGPS">
+  <data key="d0">829</data>
+  <data key="d1">599</data>
+</edge>
+<edge source="SCP2" target="PECR">
+  <data key="d0">747</data>
+  <data key="d1">68</data>
+</edge>
+<edge source="SCP2" target="SLC27A2">
+  <data key="d0">740</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SCP2" target="TYSND1">
+  <data key="d0">860</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="SCP2" target="ACOX2">
+  <data key="d0">913</data>
+  <data key="d1">129</data>
+</edge>
+<edge source="SCP2" target="ACOT4">
+  <data key="d0">704</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SCP2" target="HACL1">
+  <data key="d0">830</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="SCP2" target="ACAA1">
+  <data key="d0">982</data>
+  <data key="d1">244</data>
+</edge>
+<edge source="SCP2" target="PEX2">
+  <data key="d0">710</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SCP2" target="GNPAT">
+  <data key="d0">721</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SCP2" target="ABCD3">
+  <data key="d0">771</data>
+  <data key="d1">67</data>
+</edge>
+<edge source="SCP2" target="PEX5">
+  <data key="d0">989</data>
+  <data key="d1">903</data>
+</edge>
+<edge source="SCP2" target="HSDL2">
+  <data key="d0">704</data>
+  <data key="d1">100</data>
+</edge>
+<edge source="SCP2" target="ECI2">
+  <data key="d0">961</data>
+  <data key="d1">303</data>
+</edge>
+<edge source="SCP2" target="AMACR">
+  <data key="d0">898</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ABCD3" target="ABCD1">
+  <data key="d0">980</data>
+  <data key="d1">636</data>
+</edge>
+<edge source="ABCD3" target="PEX16">
+  <data key="d0">937</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ABCD3" target="PEX1">
+  <data key="d0">711</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ABCD3" target="SLC27A2">
+  <data key="d0">800</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ABCD3" target="PEX11A">
+  <data key="d0">704</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ABCD3" target="PXMP2">
+  <data key="d0">727</data>
+  <data key="d1">89</data>
+</edge>
+<edge source="ABCD3" target="PEX26">
+  <data key="d0">750</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ABCD3" target="ACSL4">
+  <data key="d0">702</data>
+  <data key="d1">100</data>
+</edge>
+<edge source="ABCD3" target="PEX2">
+  <data key="d0">921</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ABCD3" target="ACSL3">
+  <data key="d0">748</data>
+  <data key="d1">100</data>
+</edge>
+<edge source="ABCD3" target="PEX3">
+  <data key="d0">942</data>
+  <data key="d1">567</data>
+</edge>
+<edge source="ABCD3" target="PEX19">
+  <data key="d0">991</data>
+  <data key="d1">812</data>
+</edge>
+<edge source="ABCD3" target="PEX11B">
+  <data key="d0">867</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ABCD3" target="PEX5">
+  <data key="d0">906</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ABCD3" target="PXMP4">
+  <data key="d0">717</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ABCD3" target="ACBD5">
+  <data key="d0">771</data>
+  <data key="d1">132</data>
+</edge>
+<edge source="ACAD11" target="HSDL2">
+  <data key="d0">818</data>
+  <data key="d1">99</data>
+</edge>
+<edge source="ACAD11" target="ECI2">
+  <data key="d0">751</data>
+  <data key="d1">99</data>
+</edge>
+<edge source="NR0B2" target="PPARA">
+  <data key="d0">765</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="NR0B2" target="RXRA">
+  <data key="d0">753</data>
+  <data key="d1">549</data>
+</edge>
+<edge source="ACSL6" target="ABCD1">
+  <data key="d0">731</data>
+  <data key="d1">100</data>
+</edge>
+<edge source="ACSL6" target="PHYH">
+  <data key="d0">717</data>
+  <data key="d1">95</data>
+</edge>
+<edge source="ACSL6" target="ACAA1">
+  <data key="d0">706</data>
+  <data key="d1">92</data>
+</edge>
+<edge source="ACSL6" target="ACSL4">
+  <data key="d0">731</data>
+  <data key="d1">66</data>
+</edge>
+<edge source="ACSL6" target="ACSL3">
+  <data key="d0">729</data>
+  <data key="d1">66</data>
+</edge>
+<edge source="BAAT" target="ACOT8">
+  <data key="d0">942</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="BAAT" target="SLC27A5">
+  <data key="d0">987</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PLIN5" target="PPARA">
+  <data key="d0">854</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOT8" target="PEX5">
+  <data key="d0">868</data>
+  <data key="d1">616</data>
+</edge>
+<edge source="ACOT8" target="PPARA">
+  <data key="d0">801</data>
+  <data key="d1">45</data>
+</edge>
+<edge source="ACOT8" target="SLC27A5">
+  <data key="d0">935</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="AGXT" target="DAO">
+  <data key="d0">964</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="AGXT" target="HAO2">
+  <data key="d0">978</data>
+  <data key="d1">109</data>
+</edge>
+<edge source="AGXT" target="PEX5">
+  <data key="d0">988</data>
+  <data key="d1">958</data>
+</edge>
+<edge source="AGXT" target="PIPOX">
+  <data key="d0">960</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="AGXT" target="HACL1">
+  <data key="d0">890</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="AGXT" target="HAO1">
+  <data key="d0">985</data>
+  <data key="d1">109</data>
+</edge>
+<edge source="ZFAND6" target="PEX1">
+  <data key="d0">768</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ASXL1" target="ASXL3">
+  <data key="d0">770</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ASXL1" target="IDH2">
+  <data key="d0">818</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ASXL1" target="ASXL2">
+  <data key="d0">852</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="RB1CC1" target="PIK3R4">
+  <data key="d0">986</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="LEP" target="PLIN1">
+  <data key="d0">846</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="LEP" target="PPARD">
+  <data key="d0">711</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="LEP" target="PPARA">
+  <data key="d0">839</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="AOC1" target="PAOX">
+  <data key="d0">712</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="AOC1" target="ALDH3A2">
+  <data key="d0">946</data>
+  <data key="d1">71</data>
+</edge>
+<edge source="RXRA" target="PPARD">
+  <data key="d0">995</data>
+  <data key="d1">762</data>
+</edge>
+<edge source="RXRA" target="NCOA1">
+  <data key="d0">999</data>
+  <data key="d1">995</data>
+</edge>
+<edge source="RXRA" target="PPARA">
+  <data key="d0">999</data>
+  <data key="d1">841</data>
+</edge>
+<edge source="IDI1" target="MVK">
+  <data key="d0">879</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="IDI1" target="IDI2">
+  <data key="d0">904</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="IDI1" target="HMGCR">
+  <data key="d0">926</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="IDI1" target="PMVK">
+  <data key="d0">852</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX2" target="SLC27A5">
+  <data key="d0">702</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX2" target="ACAA1">
+  <data key="d0">949</data>
+  <data key="d1">59</data>
+</edge>
+<edge source="ACOX2" target="ACSL4">
+  <data key="d0">711</data>
+  <data key="d1">71</data>
+</edge>
+<edge source="ACOX2" target="ECI2">
+  <data key="d0">938</data>
+  <data key="d1">94</data>
+</edge>
+<edge source="ACOX2" target="PEX5">
+  <data key="d0">903</data>
+  <data key="d1">106</data>
+</edge>
+<edge source="ACOX2" target="HSDL2">
+  <data key="d0">829</data>
+  <data key="d1">115</data>
+</edge>
+<edge source="ACOX2" target="AMACR">
+  <data key="d0">975</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX2" target="ACOXL">
+  <data key="d0">785</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOX2" target="ACSL3">
+  <data key="d0">706</data>
+  <data key="d1">71</data>
+</edge>
+<edge source="ACOX2" target="ACSL1">
+  <data key="d0">727</data>
+  <data key="d1">89</data>
+</edge>
+<edge source="RIDA" target="HACL1">
+  <data key="d0">828</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACOXL" target="ECI2">
+  <data key="d0">851</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="ACOXL" target="HSDL2">
+  <data key="d0">821</data>
+  <data key="d1">71</data>
+</edge>
+<edge source="HMGCL" target="MVK">
+  <data key="d0">871</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HMGCL" target="HMGCR">
+  <data key="d0">869</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HMGCL" target="ACAA1">
+  <data key="d0">965</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HMGA1" target="MVK">
+  <data key="d0">720</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HMGA1" target="HMGCR">
+  <data key="d0">882</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HMGA1" target="PMVK">
+  <data key="d0">763</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PIPOX" target="DAO">
+  <data key="d0">952</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PXMP2" target="ABCD1">
+  <data key="d0">723</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PXMP2" target="PEX16">
+  <data key="d0">806</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PXMP2" target="PEX19">
+  <data key="d0">916</data>
+  <data key="d1">727</data>
+</edge>
+<edge source="PXMP2" target="ALDH3A2">
+  <data key="d0">753</data>
+  <data key="d1">74</data>
+</edge>
+<edge source="PXMP2" target="PEX3">
+  <data key="d0">732</data>
+  <data key="d1">92</data>
+</edge>
+<edge source="PXMP2" target="PEX11B">
+  <data key="d0">840</data>
+  <data key="d1">132</data>
+</edge>
+<edge source="PXMP2" target="PXMP4">
+  <data key="d0">780</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PXMP2" target="ACBD5">
+  <data key="d0">758</data>
+  <data key="d1">100</data>
+</edge>
+<edge source="ACSL4" target="ABCD1">
+  <data key="d0">708</data>
+  <data key="d1">100</data>
+</edge>
+<edge source="ACSL4" target="SLC27A2">
+  <data key="d0">839</data>
+  <data key="d1">106</data>
+</edge>
+<edge source="ACSL4" target="ACSL3">
+  <data key="d0">772</data>
+  <data key="d1">420</data>
+</edge>
+<edge source="ACSL4" target="ACSL1">
+  <data key="d0">770</data>
+  <data key="d1">66</data>
+</edge>
+<edge source="IDI2" target="MVK">
+  <data key="d0">830</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="IDI2" target="HMGCR">
+  <data key="d0">816</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="IDI2" target="PMVK">
+  <data key="d0">822</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PPARA" target="HMGCR">
+  <data key="d0">856</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PPARA" target="PEX11A">
+  <data key="d0">904</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PPARA" target="ANGPTL4">
+  <data key="d0">843</data>
+  <data key="d1">45</data>
+</edge>
+<edge source="PPARA" target="PPARD">
+  <data key="d0">887</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PPARA" target="PPARGC1B">
+  <data key="d0">891</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="PPARA" target="DUT">
+  <data key="d0">791</data>
+  <data key="d1">95</data>
+</edge>
+<edge source="PPARA" target="NCOA1">
+  <data key="d0">998</data>
+  <data key="d1">986</data>
+</edge>
+<edge source="PPARA" target="ACSL1">
+  <data key="d0">820</data>
+  <data key="d1">46</data>
+</edge>
+<edge source="PPARA" target="HELZ2">
+  <data key="d0">908</data>
+  <data key="d1">295</data>
+</edge>
+<edge source="PEX19" target="ABCD1">
+  <data key="d0">951</data>
+  <data key="d1">629</data>
+</edge>
+<edge source="PEX19" target="PEX16">
+  <data key="d0">999</data>
+  <data key="d1">886</data>
+</edge>
+<edge source="PEX19" target="PEX1">
+  <data key="d0">903</data>
+  <data key="d1">283</data>
+</edge>
+<edge source="PEX19" target="AGPS">
+  <data key="d0">852</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX19" target="PEX11A">
+  <data key="d0">917</data>
+  <data key="d1">443</data>
+</edge>
+<edge source="PEX19" target="PEX7">
+  <data key="d0">958</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX19" target="PEX26">
+  <data key="d0">988</data>
+  <data key="d1">609</data>
+</edge>
+<edge source="PEX19" target="ATAD1">
+  <data key="d0">741</data>
+  <data key="d1">110</data>
+</edge>
+<edge source="PEX19" target="PEX2">
+  <data key="d0">989</data>
+  <data key="d1">521</data>
+</edge>
+<edge source="PEX19" target="GNPAT">
+  <data key="d0">841</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX19" target="PEX3">
+  <data key="d0">999</data>
+  <data key="d1">998</data>
+</edge>
+<edge source="PEX19" target="ACBD5">
+  <data key="d0">751</data>
+  <data key="d1">124</data>
+</edge>
+<edge source="PEX19" target="PEX11B">
+  <data key="d0">996</data>
+  <data key="d1">935</data>
+</edge>
+<edge source="PEX19" target="PXMP4">
+  <data key="d0">899</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="PEX19" target="PEX5">
+  <data key="d0">959</data>
+  <data key="d1">74</data>
+</edge>
+<edge source="ALDH3A2" target="HSDL2">
+  <data key="d0">756</data>
+  <data key="d1">69</data>
+</edge>
+<edge source="ALDH3A2" target="EPHX2">
+  <data key="d0">815</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ALDH3A2" target="ACBD5">
+  <data key="d0">712</data>
+  <data key="d1">125</data>
+</edge>
+<edge source="PEX5" target="PEX16">
+  <data key="d0">960</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX5" target="CAT">
+  <data key="d0">794</data>
+  <data key="d1">512</data>
+</edge>
+<edge source="PEX5" target="PEX1">
+  <data key="d0">977</data>
+  <data key="d1">491</data>
+</edge>
+<edge source="PEX5" target="PHYH">
+  <data key="d0">936</data>
+  <data key="d1">165</data>
+</edge>
+<edge source="PEX5" target="AGPS">
+  <data key="d0">966</data>
+  <data key="d1">592</data>
+</edge>
+<edge source="PEX5" target="PECR">
+  <data key="d0">838</data>
+  <data key="d1">625</data>
+</edge>
+<edge source="PEX5" target="TYSND1">
+  <data key="d0">891</data>
+  <data key="d1">525</data>
+</edge>
+<edge source="PEX5" target="PEX11A">
+  <data key="d0">845</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="PEX5" target="PEX7">
+  <data key="d0">999</data>
+  <data key="d1">892</data>
+</edge>
+<edge source="PEX5" target="HACL1">
+  <data key="d0">968</data>
+  <data key="d1">510</data>
+</edge>
+<edge source="PEX5" target="PEX26">
+  <data key="d0">978</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="PEX5" target="ACAA1">
+  <data key="d0">951</data>
+  <data key="d1">362</data>
+</edge>
+<edge source="PEX5" target="PEX2">
+  <data key="d0">992</data>
+  <data key="d1">554</data>
+</edge>
+<edge source="PEX5" target="GNPAT">
+  <data key="d0">904</data>
+  <data key="d1">510</data>
+</edge>
+<edge source="PEX5" target="PEX3">
+  <data key="d0">960</data>
+  <data key="d1">161</data>
+</edge>
+<edge source="PEX5" target="PMVK">
+  <data key="d0">753</data>
+  <data key="d1">53</data>
+</edge>
+<edge source="PEX5" target="PEX11B">
+  <data key="d0">932</data>
+  <data key="d1">91</data>
+</edge>
+<edge source="PEX5" target="ACBD5">
+  <data key="d0">720</data>
+  <data key="d1">123</data>
+</edge>
+<edge source="PEX5" target="ECI2">
+  <data key="d0">860</data>
+  <data key="d1">521</data>
+</edge>
+<edge source="PEX7" target="PEX16">
+  <data key="d0">954</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX7" target="PEX1">
+  <data key="d0">938</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX7" target="PHYH">
+  <data key="d0">983</data>
+  <data key="d1">426</data>
+</edge>
+<edge source="PEX7" target="AGPS">
+  <data key="d0">959</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX7" target="TYSND1">
+  <data key="d0">774</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX7" target="PEX11A">
+  <data key="d0">821</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX7" target="PMVK">
+  <data key="d0">781</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX7" target="PEX3">
+  <data key="d0">950</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX7" target="GNPAT">
+  <data key="d0">840</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX7" target="PEX26">
+  <data key="d0">929</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX7" target="PEX11B">
+  <data key="d0">807</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX7" target="ACAA1">
+  <data key="d0">995</data>
+  <data key="d1">981</data>
+</edge>
+<edge source="PEX7" target="PEX2">
+  <data key="d0">977</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HMGCR" target="MVK">
+  <data key="d0">999</data>
+  <data key="d1">88</data>
+</edge>
+<edge source="HMGCR" target="PMVK">
+  <data key="d0">913</data>
+  <data key="d1">53</data>
+</edge>
+<edge source="MVK" target="PMVK">
+  <data key="d0">994</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX11A" target="PEX16">
+  <data key="d0">851</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX11A" target="PEX2">
+  <data key="d0">816</data>
+  <data key="d1">71</data>
+</edge>
+<edge source="PEX11A" target="PEX11B">
+  <data key="d0">913</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX11A" target="PEX3">
+  <data key="d0">863</data>
+  <data key="d1">128</data>
+</edge>
+<edge source="PHYH" target="TYSND1">
+  <data key="d0">849</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PHYH" target="AGPS">
+  <data key="d0">880</data>
+  <data key="d1">211</data>
+</edge>
+<edge source="PHYH" target="ACAA1">
+  <data key="d0">803</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PHYH" target="PEX2">
+  <data key="d0">765</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PHYH" target="GNPAT">
+  <data key="d0">731</data>
+  <data key="d1">165</data>
+</edge>
+<edge source="PECR" target="ACAA1">
+  <data key="d0">721</data>
+  <data key="d1">51</data>
+</edge>
+<edge source="ABCD4" target="SLC27A2">
+  <data key="d0">751</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HACL1" target="HAO1">
+  <data key="d0">778</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HACL1" target="AMACR">
+  <data key="d0">792</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HACL1" target="HAO2">
+  <data key="d0">808</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="GNPAT" target="AGPS">
+  <data key="d0">997</data>
+  <data key="d1">447</data>
+</edge>
+<edge source="GNPAT" target="TYSND1">
+  <data key="d0">737</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="GNPAT" target="ACAA1">
+  <data key="d0">881</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="GNPAT" target="FAR1">
+  <data key="d0">978</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="GNPAT" target="PEX2">
+  <data key="d0">862</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HELZ2" target="NCOA1">
+  <data key="d0">913</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ABCD1" target="ACSL1">
+  <data key="d0">703</data>
+  <data key="d1">100</data>
+</edge>
+<edge source="ABCD1" target="ACSL3">
+  <data key="d0">745</data>
+  <data key="d1">100</data>
+</edge>
+<edge source="ABCD1" target="SLC27A2">
+  <data key="d0">930</data>
+  <data key="d1">230</data>
+</edge>
+<edge source="ABCD1" target="AGPS">
+  <data key="d0">721</data>
+  <data key="d1">591</data>
+</edge>
+<edge source="ABCD1" target="PXMP4">
+  <data key="d0">702</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ABCD1" target="PEX11B">
+  <data key="d0">812</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ABCD1" target="PEX2">
+  <data key="d0">725</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ABCD1" target="ACBD5">
+  <data key="d0">771</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ABCD1" target="PEX16">
+  <data key="d0">777</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ABCD1" target="PEX3">
+  <data key="d0">907</data>
+  <data key="d1">616</data>
+</edge>
+<edge source="ABCD1" target="PEX26">
+  <data key="d0">740</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX11B" target="PEX16">
+  <data key="d0">949</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX11B" target="PEX26">
+  <data key="d0">852</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX11B" target="PEX2">
+  <data key="d0">967</data>
+  <data key="d1">71</data>
+</edge>
+<edge source="PEX11B" target="PEX3">
+  <data key="d0">949</data>
+  <data key="d1">242</data>
+</edge>
+<edge source="PEX11B" target="PXMP4">
+  <data key="d0">815</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX11B" target="ACBD5">
+  <data key="d0">802</data>
+  <data key="d1">168</data>
+</edge>
+<edge source="PEX1" target="PEX16">
+  <data key="d0">855</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX1" target="PEX2">
+  <data key="d0">947</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX1" target="PEX26">
+  <data key="d0">989</data>
+  <data key="d1">518</data>
+</edge>
+<edge source="PEX1" target="PEX3">
+  <data key="d0">867</data>
+  <data key="d1">166</data>
+</edge>
+<edge source="NUDT17" target="NUDT19">
+  <data key="d0">740</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TYSND1" target="CAT">
+  <data key="d0">705</data>
+  <data key="d1">311</data>
+</edge>
+<edge source="TYSND1" target="AGPS">
+  <data key="d0">881</data>
+  <data key="d1">211</data>
+</edge>
+<edge source="TYSND1" target="ACAA1">
+  <data key="d0">956</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="TYSND1" target="NUDT19">
+  <data key="d0">721</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACBD5" target="PEX16">
+  <data key="d0">864</data>
+  <data key="d1">165</data>
+</edge>
+<edge source="ACBD5" target="PEX3">
+  <data key="d0">810</data>
+  <data key="d1">102</data>
+</edge>
+<edge source="PEX26" target="PEX16">
+  <data key="d0">957</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX26" target="AGPS">
+  <data key="d0">779</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX26" target="PEX2">
+  <data key="d0">958</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX26" target="PEX3">
+  <data key="d0">971</data>
+  <data key="d1">292</data>
+</edge>
+<edge source="HAO2" target="DAO">
+  <data key="d0">903</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HAO2" target="CAT">
+  <data key="d0">923</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HAO2" target="ACAA1">
+  <data key="d0">700</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HAO2" target="HAO1">
+  <data key="d0">929</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PXMP4" target="PEX16">
+  <data key="d0">751</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PPARGC1B" target="PPARD">
+  <data key="d0">775</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HSDL2" target="CAT">
+  <data key="d0">791</data>
+  <data key="d1">165</data>
+</edge>
+<edge source="HSDL2" target="ACAA1">
+  <data key="d0">916</data>
+  <data key="d1">67</data>
+</edge>
+<edge source="HSDL2" target="ECI2">
+  <data key="d0">921</data>
+  <data key="d1">145</data>
+</edge>
+<edge source="HSDL2" target="AMACR">
+  <data key="d0">894</data>
+  <data key="d1">53</data>
+</edge>
+<edge source="CAT" target="HAO1">
+  <data key="d0">922</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACSL3" target="SLC27A2">
+  <data key="d0">701</data>
+  <data key="d1">106</data>
+</edge>
+<edge source="ACSL3" target="ACSL1">
+  <data key="d0">859</data>
+  <data key="d1">66</data>
+</edge>
+<edge source="SLC27A5" target="AMACR">
+  <data key="d0">947</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="SLC27A5" target="ACSL1">
+  <data key="d0">766</data>
+  <data key="d1">95</data>
+</edge>
+<edge source="AGPS" target="PEX16">
+  <data key="d0">855</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="AGPS" target="PEX3">
+  <data key="d0">857</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="AGPS" target="ACAA1">
+  <data key="d0">802</data>
+  <data key="d1">211</data>
+</edge>
+<edge source="AGPS" target="PEX2">
+  <data key="d0">876</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="AGPS" target="FAR1">
+  <data key="d0">849</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="HAO1" target="DAO">
+  <data key="d0">910</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ASXL2" target="ASXL3">
+  <data key="d0">786</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX16" target="PEX3">
+  <data key="d0">995</data>
+  <data key="d1">534</data>
+</edge>
+<edge source="PEX16" target="PEX2">
+  <data key="d0">962</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="PEX2" target="PEX3">
+  <data key="d0">979</data>
+  <data key="d1">0</data>
+</edge>
+<edge source="ACSL1" target="SLC27A2">
+  <data key="d0">894</data>
+  <data key="d1">95</data>
+</edge>
+<edge source="ACSL1" target="ACAA1">
+  <data key="d0">751</data>
+  <data key="d1">98</data>
+</edge>
+<edge source="PPARD" target="NCOA1">
+  <data key="d0">882</data>
+  <data key="d1">811</data>
+</edge>
+<edge source="ACAA1" target="ECI2">
+  <data key="d0">987</data>
+  <data key="d1">296</data>
+</edge>
+<edge source="PEX3" target="ATAD1">
+  <data key="d0">726</data>
+  <data key="d1">0</data>
+</edge>
+</graph></graphml>

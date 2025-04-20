@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d5" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d4" for="edge" attr.name="experimental_score" attr.type="long"/>
+<key id="d3" for="edge" attr.name="combined_score" attr.type="long"/>
+<key id="d2" for="node" attr.name="log2FC" attr.type="double"/>
+<key id="d1" for="node" attr.name="pathway_strength" attr.type="double"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="undirected"><node id="HIBCH">
+  <data key="d0">HIBCH</data>
+  <data key="d1">4.167361736297607</data>
+  <data key="d2">0.8457101583480835</data>
+</node>
+<node id="MRPS27">
+  <data key="d0">MRPS27</data>
+  <data key="d1">4.167361736297607</data>
+  <data key="d2">0.8366113305091858</data>
+</node>
+<node id="ECH1">
+  <data key="d0">ECH1</data>
+  <data key="d1">4.167361736297607</data>
+  <data key="d2">0.40444672107696533</data>
+</node>
+<node id="HSD17B4">
+  <data key="d0">HSD17B4</data>
+  <data key="d1">4.167361736297607</data>
+  <data key="d2">0.6693547964096069</data>
+</node>
+<node id="MRPS5">
+  <data key="d0">MRPS5</data>
+  <data key="d1">4.167361736297607</data>
+  <data key="d2">0.23164556920528412</data>
+</node>
+<node id="EHHADH">
+  <data key="d0">EHHADH</data>
+  <data key="d1">4.167361736297607</data>
+  <data key="d2">nan</data>
+</node>
+<edge source="HIBCH" target="EHHADH">
+  <data key="d3">957</data>
+  <data key="d4">0</data>
+  <data key="d5">1.044932079414838</data>
+</edge>
+<edge source="HIBCH" target="MRPS5">
+  <data key="d3">970</data>
+  <data key="d4">964</data>
+  <data key="d5">1.0309278350515463</data>
+</edge>
+<edge source="MRPS27" target="MRPS5">
+  <data key="d3">999</data>
+  <data key="d4">975</data>
+  <data key="d5">1.001001001001001</data>
+</edge>
+<edge source="ECH1" target="HSD17B4">
+  <data key="d3">954</data>
+  <data key="d4">91</data>
+  <data key="d5">1.0482180293501049</data>
+</edge>
+<edge source="HSD17B4" target="EHHADH">
+  <data key="d3">988</data>
+  <data key="d4">67</data>
+  <data key="d5">1.0121457489878543</data>
+</edge>
+</graph></graphml>
