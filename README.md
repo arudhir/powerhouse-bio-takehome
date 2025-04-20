@@ -75,3 +75,4 @@ We consistently see the mitochondrial targets `TSFM`, `MRPS27`, `MRPS16`, and `M
 5. Another source of a network that may have been informative would be signaling networks, many paths contain known kinases
 6. I realized I wanted to use the AnnData with the networkx graph too late, some of the operations to combine the two for Cytoscape-viewing was a little haphazard
 7. I only used the Human Protein Atlas to select organelle-specific genes rather than databases like the Peroxisome Database or MitoDB
+8. Confirming candidate genes with the bulk RNAseq dataset would be a natural next step
